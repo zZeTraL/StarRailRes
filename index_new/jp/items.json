@@ -407,10 +407,8 @@
         "come_from": [
             "「忘却の庭」",
             "「虚構叙事」",
-            "歴戦余韻「サポート部分」",
-            "歴戦余韻「常冬峰」",
-            "歴戦余韻「鱗淵境」",
-            "歴戦余韻「封鎖部分」"
+            "「末日の幻影」",
+            "「歴戦余韻」"
         ]
     },
     "262": {
@@ -422,7 +420,8 @@
         "icon": "icon/item/262.png",
         "come_from": [
             "「忘却の庭」",
-            "「虚構叙事」"
+            "「虚構叙事」",
+            "「末日の幻影」"
         ]
     },
     "271": {
@@ -877,6 +876,24 @@
         "icon": "icon/item/11003.png",
         "come_from": []
     },
+    "11309": {
+        "id": "11309",
+        "name": "「ロビン」の星魂",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11310": {
+        "id": "11310",
+        "name": "「ホタル」の星魂",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
     "11312": {
         "id": "11312",
         "name": "「ミーシャ」の星魂",
@@ -884,6 +901,24 @@
         "sub_type": "Eidolon",
         "rarity": 4,
         "icon": "icon/item/11001.png",
+        "come_from": []
+    },
+    "11314": {
+        "id": "11314",
+        "name": "「ジェイド」の星魂",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11315": {
+        "id": "11315",
+        "name": "「ブートヒル」の星魂",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
         "come_from": []
     },
     "18001": {
@@ -928,6 +963,27 @@
         "sub_type": "Eidolon",
         "rarity": 5,
         "icon": "icon/item/18003.png",
+        "come_from": []
+    },
+    "18005": {
+        "id": "18005",
+        "name": "「調和」の影",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18005.png",
+        "come_from": [
+            "開拓クエスト報酬",
+            "「クロックボーイの像」レベルアップ報酬で獲得"
+        ]
+    },
+    "18006": {
+        "id": "18006",
+        "name": "「調和」の影",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18005.png",
         "come_from": []
     },
     "71000": {
@@ -1794,6 +1850,82 @@
             "侵蝕トンネル「ホテル・『レバリー』-夢境」"
         ]
     },
+    "81191": {
+        "id": "81191",
+        "name": "蝗害を一掃せし鉄騎",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71032.png",
+        "come_from": []
+    },
+    "81192": {
+        "id": "81192",
+        "name": "蝗害を一掃せし鉄騎",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71032.png",
+        "come_from": []
+    },
+    "81193": {
+        "id": "81193",
+        "name": "蝗害を一掃せし鉄騎",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71032.png",
+        "come_from": []
+    },
+    "81194": {
+        "id": "81194",
+        "name": "蝗害を一掃せし鉄騎",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71032.png",
+        "come_from": [
+            "侵蝕トンネル「ピノコニー大劇場」"
+        ]
+    },
+    "81201": {
+        "id": "81201",
+        "name": "風雲を薙ぎ払う勇烈",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71033.png",
+        "come_from": []
+    },
+    "81202": {
+        "id": "81202",
+        "name": "風雲を薙ぎ払う勇烈",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71033.png",
+        "come_from": []
+    },
+    "81203": {
+        "id": "81203",
+        "name": "風雲を薙ぎ払う勇烈",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71033.png",
+        "come_from": []
+    },
+    "81204": {
+        "id": "81204",
+        "name": "風雲を薙ぎ払う勇烈",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71033.png",
+        "come_from": [
+            "侵蝕トンネル「ピノコニー大劇場」"
+        ]
+    },
     "83011": {
         "id": "83011",
         "name": "宇宙封印ステーション",
@@ -1829,7 +1961,8 @@
         "rarity": 5,
         "icon": "icon/item/71012.png",
         "come_from": [
-            "「模擬宇宙・第三世界」の没入装置で交換"
+            "「模擬宇宙・第三世界」の没入装置で交換",
+            "「階差宇宙」オーナメント抽出"
         ]
     },
     "83021": {
@@ -1867,7 +2000,8 @@
         "rarity": 5,
         "icon": "icon/item/71013.png",
         "come_from": [
-            "「模擬宇宙・第三世界」の没入装置で交換"
+            "「模擬宇宙・第三世界」の没入装置で交換",
+            "「階差宇宙」オーナメント抽出"
         ]
     },
     "83031": {
@@ -1905,7 +2039,8 @@
         "rarity": 5,
         "icon": "icon/item/71014.png",
         "come_from": [
-            "「模擬宇宙・第五世界」の没入装置で交換"
+            "「模擬宇宙・第五世界」の没入装置で交換",
+            "「階差宇宙」オーナメント抽出"
         ]
     },
     "83041": {
@@ -1943,7 +2078,8 @@
         "rarity": 5,
         "icon": "icon/item/71015.png",
         "come_from": [
-            "「模擬宇宙・第六世界」の没入装置で交換"
+            "「模擬宇宙・第六世界」の没入装置で交換",
+            "「階差宇宙」オーナメント抽出"
         ]
     },
     "83051": {
@@ -1981,7 +2117,8 @@
         "rarity": 5,
         "icon": "icon/item/71016.png",
         "come_from": [
-            "「模擬宇宙・第五世界」の没入装置で交換"
+            "「模擬宇宙・第五世界」の没入装置で交換",
+            "「階差宇宙」オーナメント抽出"
         ]
     },
     "83061": {
@@ -2019,7 +2156,8 @@
         "rarity": 5,
         "icon": "icon/item/71017.png",
         "come_from": [
-            "「模擬宇宙・第六世界」の没入装置で交換"
+            "「模擬宇宙・第六世界」の没入装置で交換",
+            "「階差宇宙」オーナメント抽出"
         ]
     },
     "83071": {
@@ -2057,7 +2195,8 @@
         "rarity": 5,
         "icon": "icon/item/71018.png",
         "come_from": [
-            "「模擬宇宙・第四世界」の没入装置で交換"
+            "「模擬宇宙・第四世界」の没入装置で交換",
+            "「階差宇宙」オーナメント抽出"
         ]
     },
     "83081": {
@@ -2095,7 +2234,8 @@
         "rarity": 5,
         "icon": "icon/item/71019.png",
         "come_from": [
-            "「模擬宇宙・第四世界」の没入装置で交換"
+            "「模擬宇宙・第四世界」の没入装置で交換",
+            "「階差宇宙」オーナメント抽出"
         ]
     },
     "83091": {
@@ -2133,7 +2273,8 @@
         "rarity": 5,
         "icon": "icon/item/71022.png",
         "come_from": [
-            "「模擬宇宙・第七世界」の没入装置で交換"
+            "「模擬宇宙・第七世界」の没入装置で交換",
+            "「階差宇宙」オーナメント抽出"
         ]
     },
     "83101": {
@@ -2171,7 +2312,8 @@
         "rarity": 5,
         "icon": "icon/item/71023.png",
         "come_from": [
-            "「模擬宇宙・第七世界」の没入装置で交換"
+            "「模擬宇宙・第七世界」の没入装置で交換",
+            "「階差宇宙」オーナメント抽出"
         ]
     },
     "83111": {
@@ -2209,7 +2351,8 @@
         "rarity": 5,
         "icon": "icon/item/71026.png",
         "come_from": [
-            "「模擬宇宙・第八世界」の没入装置で交換"
+            "「模擬宇宙・第八世界」の没入装置で交換",
+            "「階差宇宙」オーナメント抽出"
         ]
     },
     "83121": {
@@ -2247,7 +2390,8 @@
         "rarity": 5,
         "icon": "icon/item/71027.png",
         "come_from": [
-            "「模擬宇宙・第八世界」の没入装置で交換"
+            "「模擬宇宙・第八世界」の没入装置で交換",
+            "「階差宇宙」オーナメント抽出"
         ]
     },
     "83131": {
@@ -2285,7 +2429,8 @@
         "rarity": 5,
         "icon": "icon/item/71030.png",
         "come_from": [
-            "「模擬宇宙・第九世界」の没入装置で交換"
+            "「模擬宇宙・第九世界」の没入装置で交換",
+            "「階差宇宙」オーナメント抽出"
         ]
     },
     "83141": {
@@ -2323,7 +2468,84 @@
         "rarity": 5,
         "icon": "icon/item/71031.png",
         "come_from": [
-            "「模擬宇宙・第九世界」の没入装置で交換"
+            "「模擬宇宙・第九世界」の没入装置で交換",
+            "「階差宇宙」オーナメント抽出"
+        ]
+    },
+    "83151": {
+        "id": "83151",
+        "name": "奔狼の都藍王朝",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71034.png",
+        "come_from": []
+    },
+    "83152": {
+        "id": "83152",
+        "name": "奔狼の都藍王朝",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71034.png",
+        "come_from": []
+    },
+    "83153": {
+        "id": "83153",
+        "name": "奔狼の都藍王朝",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71034.png",
+        "come_from": []
+    },
+    "83154": {
+        "id": "83154",
+        "name": "奔狼の都藍王朝",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71034.png",
+        "come_from": [
+            "「階差宇宙」オーナメント抽出"
+        ]
+    },
+    "83161": {
+        "id": "83161",
+        "name": "劫火と蓮灯の鋳煉宮",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71035.png",
+        "come_from": []
+    },
+    "83162": {
+        "id": "83162",
+        "name": "劫火と蓮灯の鋳煉宮",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71035.png",
+        "come_from": []
+    },
+    "83163": {
+        "id": "83163",
+        "name": "劫火と蓮灯の鋳煉宮",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71035.png",
+        "come_from": []
+    },
+    "83164": {
+        "id": "83164",
+        "name": "劫火と蓮灯の鋳煉宮",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71035.png",
+        "come_from": [
+            "「階差宇宙」オーナメント抽出"
         ]
     },
     "89001": {
@@ -2735,6 +2957,92 @@
             "「万能合成マシン」- 素材交換"
         ]
     },
+    "110191": {
+        "id": "110191",
+        "name": "隕鉄の弾丸",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/110191.png",
+        "come_from": [
+            "疑似花萼「スラーダ™熱砂オーディション会場」",
+            "疑似花萼「スラーダ™熱砂オーディション会場」",
+            "エンバー交換",
+            "「万能合成マシン」- 素材交換"
+        ]
+    },
+    "110192": {
+        "id": "110192",
+        "name": "定められた死因",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/110192.png",
+        "come_from": [
+            "疑似花萼「スラーダ™熱砂オーディション会場」",
+            "疑似花萼「スラーダ™熱砂オーディション会場」",
+            "「万能合成マシン」- 素材合成",
+            "エンバー交換",
+            "「万能合成マシン」- 素材交換"
+        ]
+    },
+    "110193": {
+        "id": "110193",
+        "name": "時に抗う一撃",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/110193.png",
+        "come_from": [
+            "疑似花萼「スラーダ™熱砂オーディション会場」",
+            "疑似花萼「スラーダ™熱砂オーディション会場」",
+            "「万能合成マシン」- 素材合成",
+            "「万能合成マシン」- 素材交換"
+        ]
+    },
+    "110201": {
+        "id": "110201",
+        "name": "ラフスケッチ",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/110201.png",
+        "come_from": [
+            "疑似花萼「ピノコニー大劇場」",
+            "疑似花萼「ピノコニー大劇場」",
+            "エンバー交換",
+            "「万能合成マシン」- 素材交換"
+        ]
+    },
+    "110202": {
+        "id": "110202",
+        "name": "躍動感のある線画",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/110202.png",
+        "come_from": [
+            "疑似花萼「ピノコニー大劇場」",
+            "疑似花萼「ピノコニー大劇場」",
+            "「万能合成マシン」- 素材合成",
+            "エンバー交換",
+            "「万能合成マシン」- 素材交換"
+        ]
+    },
+    "110203": {
+        "id": "110203",
+        "name": "見事なカラー原画",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/110203.png",
+        "come_from": [
+            "疑似花萼「ピノコニー大劇場」",
+            "疑似花萼「ピノコニー大劇場」",
+            "「万能合成マシン」- 素材合成",
+            "「万能合成マシン」- 素材交換"
+        ]
+    },
     "110211": {
         "id": "110211",
         "name": "散らばった星の砂",
@@ -3101,6 +3409,19 @@
             "「万能合成マシン」- 素材交換"
         ]
     },
+    "110421": {
+        "id": "110421",
+        "name": "スターピース社員証",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/110421.png",
+        "come_from": [
+            "凝結虚影「クラークフィルムランド」",
+            "凝結虚影「クラークフィルムランド」",
+            "「万能合成マシン」- 素材交換"
+        ]
+    },
     "110422": {
         "id": "110422",
         "name": "憤怒の心",
@@ -3184,6 +3505,17 @@
             "歴戦余韻「封鎖部分」"
         ]
     },
+    "110505": {
+        "id": "110505",
+        "name": "同願の遺音",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/110505.png",
+        "come_from": [
+            "歴戦余韻「ピノコニー大劇場」"
+        ]
+    },
     "111001": {
         "id": "111001",
         "name": "消滅した原核",
@@ -3193,6 +3525,7 @@
         "icon": "icon/item/111001.png",
         "come_from": [
             "一部の裂界造物からドロップ",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "依頼報酬",
             "エンバー交換",
@@ -3210,6 +3543,7 @@
         "come_from": [
             "均衡Lv.2に達した後、一部の裂界造物からドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3224,6 +3558,7 @@
         "come_from": [
             "均衡Lv.4に達した後、一部の裂界造物からドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3237,6 +3572,7 @@
         "icon": "icon/item/111011.png",
         "come_from": [
             "反物質レギオンからドロップ",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "依頼報酬",
             "エンバー交換",
@@ -3254,6 +3590,7 @@
         "come_from": [
             "均衡Lv.2に達した後、反物質レギオンからドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3268,6 +3605,7 @@
         "come_from": [
             "均衡Lv.4に達した後、反物質レギオンからドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3282,6 +3620,7 @@
         "come_from": [
             "永冬の災影、焚火の災影からドロップ",
             "シルバーメイン、流浪者からドロップ",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "依頼報酬",
             "エンバー交換",
@@ -3300,6 +3639,7 @@
             "均衡Lv.2に達した後、永冬の災影、焚火の災影からドロップ",
             "均衡Lv.2に達した後、シルバーメイン、流浪者からドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3315,6 +3655,7 @@
             "均衡Lv.4に達した後、永冬の災影、焚火の災影からドロップ",
             "均衡Lv.4に達した後、シルバーメイン、流浪者からドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3328,6 +3669,7 @@
         "icon": "icon/item/112011.png",
         "come_from": [
             "自動機兵からドロップ",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "依頼報酬",
             "エンバー交換",
@@ -3345,6 +3687,7 @@
         "come_from": [
             "均衡Lv.2に達した後、自動機兵からドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3359,6 +3702,7 @@
         "come_from": [
             "均衡Lv.4に達した後、自動機兵からドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3372,6 +3716,7 @@
         "icon": "icon/item/113001.png",
         "come_from": [
             "豊穣の忌み物からドロップ",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "依頼報酬",
             "エンバー交換",
@@ -3389,6 +3734,7 @@
         "come_from": [
             "均衡Lv.2に達した後、豊穣の忌み物からドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3403,6 +3749,7 @@
         "come_from": [
             "均衡Lv.4に達した後、豊穣の忌み物からドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3416,10 +3763,11 @@
         "icon": "icon/item/113011.png",
         "come_from": [
             "入魔機巧からドロップ",
-            "「万能合成マシン」- 素材交換",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
-            "エンバー交換",
             "依頼報酬",
+            "エンバー交換",
+            "「万能合成マシン」- 素材交換",
             "疑似花萼（金）"
         ]
     },
@@ -3433,6 +3781,7 @@
         "come_from": [
             "均衡Lv.2に達した後、入魔機巧からドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3447,6 +3796,7 @@
         "come_from": [
             "均衡Lv.4に達した後、入魔機巧からドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3460,6 +3810,7 @@
         "icon": "icon/item/114001.png",
         "come_from": [
             "ナイトメア劇団からドロップ",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "依頼報酬",
             "エンバー交換",
@@ -3477,6 +3828,7 @@
         "come_from": [
             "均衡Lv.2に達した後、ナイトメア劇団からドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3491,6 +3843,7 @@
         "come_from": [
             "均衡Lv.4に達した後、ナイトメア劇団からドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3504,10 +3857,11 @@
         "icon": "icon/item/114011.png",
         "come_from": [
             "記憶域ミームからドロップ",
-            "「万能合成マシン」- 素材交換",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
-            "エンバー交換",
             "依頼報酬",
+            "エンバー交換",
+            "「万能合成マシン」- 素材交換",
             "疑似花萼（金）"
         ]
     },
@@ -3521,6 +3875,7 @@
         "come_from": [
             "均衡Lv.2に達した後、記憶域ミームからドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3535,6 +3890,7 @@
         "come_from": [
             "均衡Lv.4に達した後、記憶域ミームからドロップ",
             "「万能合成マシン」- 素材合成",
+            "「階差宇宙」で敵からドロップ",
             "「模擬宇宙」で敵からドロップ",
             "「万能合成マシン」- 素材交換"
         ]
@@ -3606,6 +3962,17 @@
         "icon": "icon/item/121001.png",
         "come_from": [
             "「羅浮雑俎」の人気段階を上げることで獲得できる"
+        ]
+    },
+    "121002": {
+        "id": "121002",
+        "name": "時計屋のひらめき手帳",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/121002.png",
+        "come_from": [
+            "『往日の美しき夢』の編集進捗を上げて獲得"
         ]
     },
     "122000": {
@@ -7213,6 +7580,186 @@
         "icon": "icon/item/140400.png",
         "come_from": []
     },
+    "140477": {
+        "id": "140477",
+        "name": "「ドリームメーカーアーカイブ」",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "140478": {
+        "id": "140478",
+        "name": "ファイルの中の写真",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140478.png",
+        "come_from": []
+    },
+    "140479": {
+        "id": "140479",
+        "name": "ドリームメーカーの写真",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140478.png",
+        "come_from": []
+    },
+    "140483": {
+        "id": "140483",
+        "name": "『ミスター・ソーダ外伝』のフィルム",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140483.png",
+        "come_from": []
+    },
+    "140484": {
+        "id": "140484",
+        "name": "『ブラザーハヌ外伝』のフィルム",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140484.png",
+        "come_from": []
+    },
+    "140485": {
+        "id": "140485",
+        "name": "『ボス・ストーン外伝』のフィルム",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140485.png",
+        "come_from": []
+    },
+    "140486": {
+        "id": "140486",
+        "name": "『折り紙の小鳥外伝』のフィルム",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140486.png",
+        "come_from": []
+    },
+    "140487": {
+        "id": "140487",
+        "name": "『ウッド爺外伝』のフィルム",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140487.png",
+        "come_from": []
+    },
+    "140488": {
+        "id": "140488",
+        "name": "『ハムスターボールの騎士外伝』のフィルム",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140488.png",
+        "come_from": []
+    },
+    "140489": {
+        "id": "140489",
+        "name": "夢は長く苦は短し",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140489.png",
+        "come_from": []
+    },
+    "140490": {
+        "id": "140490",
+        "name": "溺れる甘さ",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140490.png",
+        "come_from": []
+    },
+    "140491": {
+        "id": "140491",
+        "name": "花火のミラクル宝の地図",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140099.png",
+        "come_from": []
+    },
+    "140492": {
+        "id": "140492",
+        "name": "誰かの落とし物",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "140493": {
+        "id": "140493",
+        "name": "巨大な迷い時計の砕けた心・その1",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140493.png",
+        "come_from": []
+    },
+    "140494": {
+        "id": "140494",
+        "name": "巨大な迷い時計の砕けた心・その2",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140493.png",
+        "come_from": []
+    },
+    "140495": {
+        "id": "140495",
+        "name": "巨大な迷い時計の砕けた心・その3",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140493.png",
+        "come_from": []
+    },
+    "140498": {
+        "id": "140498",
+        "name": "テレビ（限定版）",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/223905.png",
+        "come_from": []
+    },
+    "140499": {
+        "id": "140499",
+        "name": "幸運の象徴",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140430.png",
+        "come_from": []
+    },
+    "140500": {
+        "id": "140500",
+        "name": "星穹列車のミニチュア模型（限定版）",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140500.png",
+        "come_from": []
+    },
+    "140501": {
+        "id": "140501",
+        "name": "1ページの古き夢",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140501.png",
+        "come_from": []
+    },
     "149957": {
         "id": "149957",
         "name": "三月なのかとのツーショット",
@@ -7771,6 +8318,33 @@
         "icon": "icon/item/140099.png",
         "come_from": []
     },
+    "150036": {
+        "id": "150036",
+        "name": "巨大な迷い時計の砕けた心・その1",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140493.png",
+        "come_from": []
+    },
+    "150037": {
+        "id": "150037",
+        "name": "巨大な迷い時計の砕けた心・その2",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140493.png",
+        "come_from": []
+    },
+    "150038": {
+        "id": "150038",
+        "name": "巨大な迷い時計の砕けた心・その3",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140493.png",
+        "come_from": []
+    },
     "150039": {
         "id": "150039",
         "name": "「バー・ナイトメア」の集合写真",
@@ -7778,6 +8352,78 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/149975.png",
+        "come_from": []
+    },
+    "150040": {
+        "id": "150040",
+        "name": "ドリームアイス（トリプル）",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/408801.png",
+        "come_from": []
+    },
+    "150041": {
+        "id": "150041",
+        "name": "UFOバーガー",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/408609.png",
+        "come_from": []
+    },
+    "150042": {
+        "id": "150042",
+        "name": "クロックピザ（1ホール）",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/408610.png",
+        "come_from": []
+    },
+    "150043": {
+        "id": "150043",
+        "name": "フライドポテトサンデー",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/408611.png",
+        "come_from": []
+    },
+    "150044": {
+        "id": "150044",
+        "name": "オークロール",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/408612.png",
+        "come_from": []
+    },
+    "150045": {
+        "id": "150045",
+        "name": "ピカ白ぶどうソーダ",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/408613.png",
+        "come_from": []
+    },
+    "150046": {
+        "id": "150046",
+        "name": "クラシックスラーダ",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 2,
+        "icon": "icon/item/401025.png",
+        "come_from": []
+    },
+    "150047": {
+        "id": "150047",
+        "name": "「開拓の小鳥IDカード」",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/150047.png",
         "come_from": []
     },
     "180001": {
@@ -12489,6 +13135,24 @@
         "icon": "icon/item/190015.png",
         "come_from": []
     },
+    "190574": {
+        "id": "190574",
+        "name": "宴の星コレクションカード 宴のスター：ハヌヌ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190575": {
+        "id": "190575",
+        "name": "宴の星コレクションカード 宴のスター：グラークス",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
     "190576": {
         "id": "190576",
         "name": "宴の星コレクションカード 宴のスター：オーディ・アルファルファ",
@@ -12510,6 +13174,15 @@
     "190578": {
         "id": "190578",
         "name": "宴の星コレクションカード 宴のスター：エディオンさん",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190579": {
+        "id": "190579",
+        "name": "宴の星コレクションカード 宴のスター：名もなきヒーロー",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -12696,6 +13369,33 @@
         "icon": "icon/item/190016.png",
         "come_from": []
     },
+    "190600": {
+        "id": "190600",
+        "name": "密航者調査レポート・その1",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190013.png",
+        "come_from": []
+    },
+    "190601": {
+        "id": "190601",
+        "name": "密航者調査レポート・その2",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190013.png",
+        "come_from": []
+    },
+    "190602": {
+        "id": "190602",
+        "name": "ピノコニー飛行ガイド",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
     "190603": {
         "id": "190603",
         "name": "『クロックボーイ：熱砂の大冒険』に関する審査意見",
@@ -12861,6 +13561,456 @@
     "190622": {
         "id": "190622",
         "name": "『ちびっ子ハヌの大作戦』中 第四章",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190624": {
+        "id": "190624",
+        "name": "宴の星コレクションカード 宴のスター：折り紙のドリームメーカー",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190625": {
+        "id": "190625",
+        "name": "誰かの落とし物",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190626": {
+        "id": "190626",
+        "name": "誰かの宝物",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190627": {
+        "id": "190627",
+        "name": "ドリームリーフ旅行ガイド19.0",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190628": {
+        "id": "190628",
+        "name": "『クロックボーイとキャプテン・リボルバー』上",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190629": {
+        "id": "190629",
+        "name": "『クロックボーイとキャプテン・リボルバー』中",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190630": {
+        "id": "190630",
+        "name": "『クロックボーイとキャプテン・リボルバー』下",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190631": {
+        "id": "190631",
+        "name": "『ちびっ子ハヌの大作戦』下 第一章",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190632": {
+        "id": "190632",
+        "name": "『ちびっ子ハヌの大作戦』下 第二章",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190634": {
+        "id": "190634",
+        "name": "『ミスター・ソーダ外伝』",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190635": {
+        "id": "190635",
+        "name": "『ボス・ストーン外伝』",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190636": {
+        "id": "190636",
+        "name": "『ブラザーハヌ外伝』",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190637": {
+        "id": "190637",
+        "name": "『折り紙の小鳥外伝』",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190638": {
+        "id": "190638",
+        "name": "『ウッド爺外伝』",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190639": {
+        "id": "190639",
+        "name": "『ハムスターボールの騎士外伝』",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190640": {
+        "id": "190640",
+        "name": "『ドリームメーカーアーカイブ』",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190641": {
+        "id": "190641",
+        "name": "クラウディアの素材帳（2）",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190642": {
+        "id": "190642",
+        "name": "レイヴンズ・デス",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190643": {
+        "id": "190643",
+        "name": "スラーダ伝：ボトルの中の夢",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190644": {
+        "id": "190644",
+        "name": "『燃える夢の夜』脚本",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190645": {
+        "id": "190645",
+        "name": "オーディションにおける違反事例集",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190013.png",
+        "come_from": []
+    },
+    "190646": {
+        "id": "190646",
+        "name": "ピピシに関する100の事実",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190647": {
+        "id": "190647",
+        "name": "『酒場の夜：スラーダ特別号』",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190013.png",
+        "come_from": []
+    },
+    "190648": {
+        "id": "190648",
+        "name": "選ばれなかった道・1",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190649": {
+        "id": "190649",
+        "name": "選ばれなかった道・2",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190650": {
+        "id": "190650",
+        "name": "選ばれなかった道・3",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190651": {
+        "id": "190651",
+        "name": "選ばれなかった道・4",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190652": {
+        "id": "190652",
+        "name": "選ばれなかった道・5",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190653": {
+        "id": "190653",
+        "name": "選ばれなかった道・6",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190654": {
+        "id": "190654",
+        "name": "ミームウイルス.exe",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190655": {
+        "id": "190655",
+        "name": "破棄された事業企画書の草案（Ver.7.0）",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190656": {
+        "id": "190656",
+        "name": "酒場の夜：天環族特集",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190013.png",
+        "come_from": []
+    },
+    "190657": {
+        "id": "190657",
+        "name": "出されていない手紙",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190658": {
+        "id": "190658",
+        "name": "「暉長石号」再訪",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190013.png",
+        "come_from": []
+    },
+    "190659": {
+        "id": "190659",
+        "name": "『ピノコニー飛行艇設計史』の一部",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190660": {
+        "id": "190660",
+        "name": "名士の密談。某記者のやり取りのメール",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190661": {
+        "id": "190661",
+        "name": "『夢の紀元：伝説の船長録』抜粋",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190662": {
+        "id": "190662",
+        "name": "乗客に書いたグリーティングカード",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190663": {
+        "id": "190663",
+        "name": "カリプソを探して",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190664": {
+        "id": "190664",
+        "name": "虚構の風物記録",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190665": {
+        "id": "190665",
+        "name": "出所不明の食事リスト",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190666": {
+        "id": "190666",
+        "name": "無効になった質札",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190667": {
+        "id": "190667",
+        "name": "夢の泡の手記",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190668": {
+        "id": "190668",
+        "name": "記憶域生物観測ノート",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190669": {
+        "id": "190669",
+        "name": "夢境ベストセラー本ランキング表",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190013.png",
+        "come_from": []
+    },
+    "190670": {
+        "id": "190670",
+        "name": "VIPスケジュールプラン参考用",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190671": {
+        "id": "190671",
+        "name": "記憶域童話・幽霊船の物語",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190672": {
+        "id": "190672",
+        "name": "航行の注意事項",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190673": {
+        "id": "190673",
+        "name": "青雀が受け取った謎の招待状",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190674": {
+        "id": "190674",
+        "name": "ギャラガーが残した手紙",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -13920,6 +15070,294 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210324": {
+        "id": "210324",
+        "name": "『深淵への狂走』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210325": {
+        "id": "210325",
+        "name": "『夢の用心！』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210326": {
+        "id": "210326",
+        "name": "『神速のハムーツ』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210327": {
+        "id": "210327",
+        "name": "『血の掟』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210328": {
+        "id": "210328",
+        "name": "『北極星』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210329": {
+        "id": "210329",
+        "name": "『虚ろで荒れた大海』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210330": {
+        "id": "210330",
+        "name": "『ナッツ・スピード』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210331": {
+        "id": "210331",
+        "name": "『オオカミの道』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210332": {
+        "id": "210332",
+        "name": "『我が脆弱な血肉を堅くせよ』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210333": {
+        "id": "210333",
+        "name": "『第8交響曲「共に昇りし千の太陽」』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210334": {
+        "id": "210334",
+        "name": "『翼の生えた希望』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210335": {
+        "id": "210335",
+        "name": "『燃え上がる熱情』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210336": {
+        "id": "210336",
+        "name": "『娯楽至上』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210337": {
+        "id": "210337",
+        "name": "『律は罪の権勢』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210338": {
+        "id": "210338",
+        "name": "『罪は死の毒針』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210339": {
+        "id": "210339",
+        "name": "『海の中の城』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210340": {
+        "id": "210340",
+        "name": "『星海浮沈録』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210341": {
+        "id": "210341",
+        "name": "『役者としての素養』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210342": {
+        "id": "210342",
+        "name": "『小さなカイザー』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210343": {
+        "id": "210343",
+        "name": "『高貴なる時間』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210344": {
+        "id": "210344",
+        "name": "『星に照らされた道』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210345": {
+        "id": "210345",
+        "name": "『天の光は永遠に輝く』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210346": {
+        "id": "210346",
+        "name": "『歓声は雲を貫く』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210347": {
+        "id": "210347",
+        "name": "『悪人は召され、判決を受ける』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210348": {
+        "id": "210348",
+        "name": "『義人は羊のように迷う』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210349": {
+        "id": "210349",
+        "name": "『命に永恒なる安らぎを』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210350": {
+        "id": "210350",
+        "name": "『銀河を独り揺蕩う』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210351": {
+        "id": "210351",
+        "name": "『翼の生えた希望（序曲）』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210352": {
+        "id": "210352",
+        "name": "『何度もこのような朝』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210353": {
+        "id": "210353",
+        "name": "『帆を広げて』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210354": {
+        "id": "210354",
+        "name": "『無神論者のミサ』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210355": {
+        "id": "210355",
+        "name": "『もし太陽を見たことがなかったのなら』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "220000": {
         "id": "220000",
         "name": "言葉の芸術",
@@ -13973,6 +15411,17 @@
         "icon": "icon/item/220004.png",
         "come_from": [
             "イベント「杯の中の逸話」で獲得"
+        ]
+    },
+    "220005": {
+        "id": "220005",
+        "name": "フィルムランド追夢記",
+        "type": "Usable",
+        "sub_type": "ChatBubble",
+        "rarity": 4,
+        "icon": "icon/item/220005.png",
+        "come_from": [
+            "イベント「往日の美しき夢」で獲得"
         ]
     },
     "221000": {
@@ -14030,13 +15479,24 @@
     },
     "221005": {
         "id": "221005",
-        "name": "開拓伝説～星間旅行スゴロク～",
+        "name": "星間旅行",
         "type": "Usable",
         "sub_type": "PhoneTheme",
         "rarity": 4,
         "icon": "icon/item/221005.png",
         "come_from": [
             "イベント「開拓伝説～星間旅行スゴロク～」で獲得"
+        ]
+    },
+    "221006": {
+        "id": "221006",
+        "name": "研究進行中",
+        "type": "Usable",
+        "sub_type": "PhoneTheme",
+        "rarity": 4,
+        "icon": "icon/item/221006.png",
+        "come_from": [
+            "「階差宇宙：人間喜劇」で獲得したスマホ壁紙"
         ]
     },
     "222000": {
@@ -14145,6 +15605,24 @@
         "sub_type": "TravelBrochurePaster",
         "rarity": 4,
         "icon": "icon/item/223010.png",
+        "come_from": []
+    },
+    "223011": {
+        "id": "223011",
+        "name": "ブートヒル",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223011.png",
+        "come_from": []
+    },
+    "223012": {
+        "id": "223012",
+        "name": "アルジェンティ",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223012.png",
         "come_from": []
     },
     "223020": {
@@ -14280,6 +15758,15 @@
         "sub_type": "TravelBrochurePaster",
         "rarity": 4,
         "icon": "icon/item/223059.png",
+        "come_from": []
+    },
+    "223060": {
+        "id": "223060",
+        "name": "サー",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223060.png",
         "come_from": []
     },
     "223080": {
@@ -15182,6 +16669,15 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
+    "223412": {
+        "id": "223412",
+        "name": "満たされぬ虚栄心",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223412.png",
+        "come_from": []
+    },
     "223430": {
         "id": "223430",
         "name": "ロスト・1",
@@ -15596,6 +17092,15 @@
         "icon": "icon/item/223706.png",
         "come_from": []
     },
+    "223707": {
+        "id": "223707",
+        "name": "グラークス",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223707.png",
+        "come_from": []
+    },
     "223708": {
         "id": "223708",
         "name": "ハムーツ",
@@ -15605,6 +17110,15 @@
         "icon": "icon/item/223708.png",
         "come_from": []
     },
+    "223709": {
+        "id": "223709",
+        "name": "ハヌヌ",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223709.png",
+        "come_from": []
+    },
     "223710": {
         "id": "223710",
         "name": "レスリー・ディーン",
@@ -15612,6 +17126,15 @@
         "sub_type": "TravelBrochurePaster",
         "rarity": 4,
         "icon": "icon/item/223710.png",
+        "come_from": []
+    },
+    "223711": {
+        "id": "223711",
+        "name": "名もなきヒーロー",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223711.png",
         "come_from": []
     },
     "223712": {
@@ -15639,6 +17162,15 @@
         "sub_type": "TravelBrochurePaster",
         "rarity": 4,
         "icon": "icon/item/223714.png",
+        "come_from": []
+    },
+    "223715": {
+        "id": "223715",
+        "name": "折り紙の五傑",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223715.png",
         "come_from": []
     },
     "223731": {
@@ -15680,6 +17212,654 @@
     "223735": {
         "id": "223735",
         "name": "アイリス家家訓",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "223800": {
+        "id": "223800",
+        "name": "ラクガキ・1",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223800.png",
+        "come_from": []
+    },
+    "223801": {
+        "id": "223801",
+        "name": "ラクガキ・2",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223801.png",
+        "come_from": []
+    },
+    "223802": {
+        "id": "223802",
+        "name": "ラクガキ・3",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223802.png",
+        "come_from": []
+    },
+    "223803": {
+        "id": "223803",
+        "name": "街角での憩い",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223803.png",
+        "come_from": []
+    },
+    "223804": {
+        "id": "223804",
+        "name": "「時計屋」のシルクハット",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223804.png",
+        "come_from": []
+    },
+    "223805": {
+        "id": "223805",
+        "name": "ミハイルの眠り",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223805.png",
+        "come_from": []
+    },
+    "223806": {
+        "id": "223806",
+        "name": "神の存在",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223806.png",
+        "come_from": []
+    },
+    "223807": {
+        "id": "223807",
+        "name": "旧友",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223807.png",
+        "come_from": []
+    },
+    "223808": {
+        "id": "223808",
+        "name": "眠れる街",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223808.png",
+        "come_from": []
+    },
+    "223809": {
+        "id": "223809",
+        "name": "夢の中核",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223809.png",
+        "come_from": []
+    },
+    "223811": {
+        "id": "223811",
+        "name": "迷いを記した日記・兵士",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "223812": {
+        "id": "223812",
+        "name": "迷いを記した日記・踊り子",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "223813": {
+        "id": "223813",
+        "name": "迷いを記した日記・流浪者",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "223814": {
+        "id": "223814",
+        "name": "迷いを記した日記・富豪",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "223901": {
+        "id": "223901",
+        "name": "撮影現場",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223901.png",
+        "come_from": []
+    },
+    "223902": {
+        "id": "223902",
+        "name": "イメージモデル",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223902.png",
+        "come_from": []
+    },
+    "223903": {
+        "id": "223903",
+        "name": "よーい！アクション！",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223903.png",
+        "come_from": []
+    },
+    "223904": {
+        "id": "223904",
+        "name": "出資者",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223904.png",
+        "come_from": []
+    },
+    "223905": {
+        "id": "223905",
+        "name": "総司令部",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223905.png",
+        "come_from": []
+    },
+    "223906": {
+        "id": "223906",
+        "name": "孤独な巨人",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223906.png",
+        "come_from": []
+    },
+    "223907": {
+        "id": "223907",
+        "name": "宴が始まる場所",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223907.png",
+        "come_from": []
+    },
+    "223908": {
+        "id": "223908",
+        "name": "スーパースターの誕生",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223908.png",
+        "come_from": []
+    },
+    "223911": {
+        "id": "223911",
+        "name": "狐族の参加メッセージ",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "223912": {
+        "id": "223912",
+        "name": "仮面の愚者の参加メッセージ",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "223913": {
+        "id": "223913",
+        "name": "純美の騎士の参加メッセージ",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "224001": {
+        "id": "224001",
+        "name": "天眼",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224001.png",
+        "come_from": []
+    },
+    "224002": {
+        "id": "224002",
+        "name": "幕間",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224002.png",
+        "come_from": []
+    },
+    "224003": {
+        "id": "224003",
+        "name": "星の光が集う場所",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224003.png",
+        "come_from": []
+    },
+    "224004": {
+        "id": "224004",
+        "name": "公演プログラム",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224004.png",
+        "come_from": []
+    },
+    "224005": {
+        "id": "224005",
+        "name": "ダンサー・1",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224005.png",
+        "come_from": []
+    },
+    "224006": {
+        "id": "224006",
+        "name": "ダンサー・2",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224006.png",
+        "come_from": []
+    },
+    "224007": {
+        "id": "224007",
+        "name": "ダンサー・3",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224007.png",
+        "come_from": []
+    },
+    "224008": {
+        "id": "224008",
+        "name": "調律された未来",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224008.png",
+        "come_from": []
+    },
+    "224009": {
+        "id": "224009",
+        "name": "宴に酔いしれる現在",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224009.png",
+        "come_from": []
+    },
+    "224010": {
+        "id": "224010",
+        "name": "囚われの身の過去",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224010.png",
+        "come_from": []
+    },
+    "224011": {
+        "id": "224011",
+        "name": "リハーサル・その1",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "224012": {
+        "id": "224012",
+        "name": "リハーサル・その2",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "224013": {
+        "id": "224013",
+        "name": "リハーサル・その3",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "225001": {
+        "id": "225001",
+        "name": "ホタル",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225001.png",
+        "come_from": []
+    },
+    "225002": {
+        "id": "225002",
+        "name": "「星核ハンター」サム",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225002.png",
+        "come_from": []
+    },
+    "225003": {
+        "id": "225003",
+        "name": "アベンチュリン",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225003.png",
+        "come_from": []
+    },
+    "225004": {
+        "id": "225004",
+        "name": "カカワーシャ",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225004.png",
+        "come_from": []
+    },
+    "225005": {
+        "id": "225005",
+        "name": "トパーズ",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225005.png",
+        "come_from": []
+    },
+    "225006": {
+        "id": "225006",
+        "name": "Dr.レイシオ",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225006.png",
+        "come_from": []
+    },
+    "225007": {
+        "id": "225007",
+        "name": "ジェイド",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225007.png",
+        "come_from": []
+    },
+    "225008": {
+        "id": "225008",
+        "name": "ブラックスワン",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225008.png",
+        "come_from": []
+    },
+    "225009": {
+        "id": "225009",
+        "name": "黄泉",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225009.png",
+        "come_from": []
+    },
+    "225010": {
+        "id": "225010",
+        "name": "花火",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225010.png",
+        "come_from": []
+    },
+    "225011": {
+        "id": "225011",
+        "name": "花火お嬢様の爆弾",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225011.png",
+        "come_from": []
+    },
+    "225012": {
+        "id": "225012",
+        "name": "ミーシャ",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225012.png",
+        "come_from": []
+    },
+    "225013": {
+        "id": "225013",
+        "name": "ギャラガー",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225013.png",
+        "come_from": []
+    },
+    "225014": {
+        "id": "225014",
+        "name": "ロビン",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225014.png",
+        "come_from": []
+    },
+    "225015": {
+        "id": "225015",
+        "name": "サンデー",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225015.png",
+        "come_from": []
+    },
+    "225016": {
+        "id": "225016",
+        "name": "ブートヒル",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225016.png",
+        "come_from": []
+    },
+    "225017": {
+        "id": "225017",
+        "name": "アルジェンティ",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225017.png",
+        "come_from": []
+    },
+    "225018": {
+        "id": "225018",
+        "name": "シヴォーン",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225018.png",
+        "come_from": []
+    },
+    "225019": {
+        "id": "225019",
+        "name": "ミカ",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225019.png",
+        "come_from": []
+    },
+    "225020": {
+        "id": "225020",
+        "name": "王のゴミ箱",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225020.png",
+        "come_from": []
+    },
+    "225021": {
+        "id": "225021",
+        "name": "クロックボーイ",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225021.png",
+        "come_from": []
+    },
+    "225022": {
+        "id": "225022",
+        "name": "ブラザーハヌ",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225022.png",
+        "come_from": []
+    },
+    "225023": {
+        "id": "225023",
+        "name": "サー・アズール",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225023.png",
+        "come_from": []
+    },
+    "225024": {
+        "id": "225024",
+        "name": "マネージャー・グリーン",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225024.png",
+        "come_from": []
+    },
+    "225025": {
+        "id": "225025",
+        "name": "マダム・スカーレット",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225027.png",
+        "come_from": []
+    },
+    "225026": {
+        "id": "225026",
+        "name": "ブラザー・レッド",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225026.png",
+        "come_from": []
+    },
+    "225027": {
+        "id": "225027",
+        "name": "プリンス・ゴールド",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225025.png",
+        "come_from": []
+    },
+    "225028": {
+        "id": "225028",
+        "name": "{NICKNAME}",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225028.png",
+        "come_from": []
+    },
+    "225029": {
+        "id": "225029",
+        "name": "{NICKNAME}",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225029.png",
+        "come_from": []
+    },
+    "225030": {
+        "id": "225030",
+        "name": "出会いと別れ・その1",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "225031": {
+        "id": "225031",
+        "name": "出会いと別れ・その2",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "225032": {
+        "id": "225032",
+        "name": "出会いと別れ・その3",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "225033": {
+        "id": "225033",
+        "name": "完璧な結末・その1",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "225034": {
+        "id": "225034",
+        "name": "完璧な結末・その2",
         "type": "Usable",
         "sub_type": "TravelBrochurePaster",
         "rarity": 4,
@@ -17576,6 +19756,24 @@
         "icon": "icon/item/IconRogueDlcDiceFaceI9.png",
         "come_from": []
     },
+    "250601": {
+        "id": "250601",
+        "name": "凡人の前途",
+        "type": "Usable",
+        "sub_type": "RogueMedal",
+        "rarity": 4,
+        "icon": "icon/item/IconRogueTournCollection_TournMedal.png",
+        "come_from": []
+    },
+    "250602": {
+        "id": "250602",
+        "name": "ヘルタ・コレクターズエディション",
+        "type": "Usable",
+        "sub_type": "RogueMedal",
+        "rarity": 4,
+        "icon": "icon/item/IconRogueTournCollection_HertaPigeon.png",
+        "come_from": []
+    },
     "270000": {
         "id": "270000",
         "name": "絶えない笑顔",
@@ -17710,6 +19908,60 @@
         "sub_type": "Virtual",
         "rarity": 3,
         "icon": "icon/item/281017.png",
+        "come_from": []
+    },
+    "281018": {
+        "id": "281018",
+        "name": "着想",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/281018.png",
+        "come_from": []
+    },
+    "281019": {
+        "id": "281019",
+        "name": "ラクーンコイン",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/281019.png",
+        "come_from": []
+    },
+    "281020": {
+        "id": "281020",
+        "name": "監督経験値",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/270001.png",
+        "come_from": []
+    },
+    "281021": {
+        "id": "281021",
+        "name": "『往日の美しき夢』のフィルム",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/281001.png",
+        "come_from": []
+    },
+    "281022": {
+        "id": "281022",
+        "name": "適合値",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/281022.png",
+        "come_from": []
+    },
+    "281024": {
+        "id": "281024",
+        "name": "",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
     "300002": {
@@ -17886,6 +20138,15 @@
     "309003": {
         "id": "309003",
         "name": "旅の出会い「杯の中の逸話」",
+        "type": "Usable",
+        "sub_type": "ForceOpitonalGift",
+        "rarity": 4,
+        "icon": "icon/item/309001.png",
+        "come_from": []
+    },
+    "309004": {
+        "id": "309004",
+        "name": "旅の出会い：「折り紙の小鳥マッチ」",
         "type": "Usable",
         "sub_type": "ForceOpitonalGift",
         "rarity": 4,
@@ -18777,6 +21038,18 @@
             "夢境ショップ"
         ]
     },
+    "403011": {
+        "id": "403011",
+        "name": "ビックリ箱",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 4,
+        "icon": "icon/item/403011.png",
+        "come_from": [
+            "「万能合成マシン」",
+            "カーク"
+        ]
+    },
     "404004": {
         "id": "404004",
         "name": "レシピ：満腹の食糧",
@@ -19398,6 +21671,15 @@
         "icon": "icon/item/404001.png",
         "come_from": []
     },
+    "407011": {
+        "id": "407011",
+        "name": "レシピ：ビックリ箱",
+        "type": "Usable",
+        "sub_type": "Formula",
+        "rarity": 4,
+        "icon": "icon/item/404001.png",
+        "come_from": []
+    },
     "408001": {
         "id": "408001",
         "name": "ゴミ",
@@ -19731,6 +22013,94 @@
             "夢境ショップ"
         ]
     },
+    "408419": {
+        "id": "408419",
+        "name": "天環手羽バーガー",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408419.png",
+        "come_from": [
+            "ジェシーファストフード"
+        ]
+    },
+    "408420": {
+        "id": "408420",
+        "name": "妄想積み木",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408420.png",
+        "come_from": [
+            "カーク"
+        ]
+    },
+    "408421": {
+        "id": "408421",
+        "name": "「カラッポの小鳥」人形",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408421.png",
+        "come_from": [
+            "カーク"
+        ]
+    },
+    "408422": {
+        "id": "408422",
+        "name": "本家スーサ水",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408422.png",
+        "come_from": [
+            "ジェシーファストフード"
+        ]
+    },
+    "408423": {
+        "id": "408423",
+        "name": "ゴミソーダ",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408423.png",
+        "come_from": [
+            "お菓子屋さん"
+        ]
+    },
+    "408424": {
+        "id": "408424",
+        "name": "集いと別れは時の定め",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408424.png",
+        "come_from": [
+            "ダフ"
+        ]
+    },
+    "408425": {
+        "id": "408425",
+        "name": "アスデナのホワイトオーク",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408425.png",
+        "come_from": [
+            "ダフ"
+        ]
+    },
+    "408426": {
+        "id": "408426",
+        "name": "信頼の証",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408426.png",
+        "come_from": [
+            "お菓子屋さん"
+        ]
+    },
     "408601": {
         "id": "408601",
         "name": "ベロブルグソーセージ",
@@ -19980,6 +22350,83 @@
         "icon": "icon/item/408623.png",
         "come_from": [
             "ドリームタウンのテーマレストラン"
+        ]
+    },
+    "408624": {
+        "id": "408624",
+        "name": "彩り豊かな酸味",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408624.png",
+        "come_from": [
+            "ジェシーファストフード"
+        ]
+    },
+    "408625": {
+        "id": "408625",
+        "name": "解けないルービックキューブ",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408625.png",
+        "come_from": [
+            "カーク"
+        ]
+    },
+    "408626": {
+        "id": "408626",
+        "name": "断弦の咆哮",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408626.png",
+        "come_from": [
+            "オート音楽館"
+        ]
+    },
+    "408627": {
+        "id": "408627",
+        "name": "静かなる慢心",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408627.png",
+        "come_from": [
+            "オート音楽館"
+        ]
+    },
+    "408628": {
+        "id": "408628",
+        "name": "「花火」の非数量限定版コレクション人形",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408628.png",
+        "come_from": [
+            "お菓子屋さん"
+        ]
+    },
+    "408629": {
+        "id": "408629",
+        "name": "金貨騎士団",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408629.png",
+        "come_from": [
+            "お菓子屋さん"
+        ]
+    },
+    "408630": {
+        "id": "408630",
+        "name": "金貨騎士団",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408630.png",
+        "come_from": [
+            "お菓子屋さん"
         ]
     },
     "408801": {

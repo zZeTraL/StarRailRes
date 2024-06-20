@@ -151,6 +151,14 @@
         "hide_desc": "",
         "hide": false
     },
+    "4013201": {
+        "id": "4013201",
+        "series_id": "1",
+        "title": "Đêm Nay Không Ai Được Ngủ (Nessun Dorma)",
+        "desc": "Nhà Khai Phá bước lên Vận Mệnh \"Hòa Hợp\"",
+        "hide_desc": "",
+        "hide": true
+    },
     "4020201": {
         "id": "4020201",
         "series_id": "2",
@@ -499,8 +507,8 @@
         "id": "4033010",
         "series_id": "3",
         "title": "Cô Ấy Trả Lời, Tôi Muốn Chết",
-        "desc": "Thưởng thức tiết mục hạ màn long trọng tại vị trí tốt nhất",
-        "hide_desc": "※Đánh bại Aventurine - một trong \"10 Người Có Trái Tim Đá\"",
+        "desc": "Thưởng thức màn hạ màn long trọng tại vị trí tốt nhất",
+        "hide_desc": "※ Đánh bại \"10 Người Có Trái Tim Đá\" Aventurine",
         "hide": false
     },
     "4033011": {
@@ -509,6 +517,102 @@
         "title": "Gửi Đến Icarus",
         "desc": "Nghe lại chuyện xưa ở nơi đất khách",
         "hide_desc": "※Lắng nghe cuộc nói chuyện giữa Acheron và Welt",
+        "hide": false
+    },
+    "4033201": {
+        "id": "4033201",
+        "series_id": "3",
+        "title": "Trùm Cuối",
+        "desc": "Gặp gỡ Thợ Đồng Hồ",
+        "hide_desc": "※ Gặp gỡ Khách Vô Danh đầu tiên ở Penacony",
+        "hide": false
+    },
+    "4033202": {
+        "id": "4033202",
+        "series_id": "3",
+        "title": "Chúng Ta Sẽ Là Những Người Tự Do Như Cha Ông Chúng Ta",
+        "desc": "Kế thừa di sản của Thợ Đồng Hồ",
+        "hide_desc": "※Tiếp tục hành trình chưa kết thúc của vị Khách Vô Danh cuối cùng ở Penacony",
+        "hide": false
+    },
+    "4033203": {
+        "id": "4033203",
+        "series_id": "3",
+        "title": "Nếu Chúng Ta Đi Trong Ánh Sáng",
+        "desc": "Bước vào hành trình \"Khai Phá\" mới như mong muốn",
+        "hide_desc": "※Đánh bại \"Dàn Hợp Xướng Hòa Hợp\" Dominicus...",
+        "hide": false
+    },
+    "4033204": {
+        "id": "4033204",
+        "series_id": "3",
+        "title": "Cuối Cùng, Chúng Ta Tỉnh Dậy Từ Trong Giấc Mộng",
+        "desc": "Chứng kiến ánh bình minh đầu tiên của Penacony",
+        "hide_desc": "※Đánh bại Sunday \"Bào Thai Triết Học\"",
+        "hide": false
+    },
+    "4033205": {
+        "id": "4033205",
+        "series_id": "3",
+        "title": "Chân Thành Là Tuyệt Kỹ Vĩnh Hằng",
+        "desc": "Giảng hòa với người bảo vệ chính nghĩa của Penacony",
+        "hide_desc": "※Thuyết phục Argenti tại Trận Chiến Siêu Sao Đỉnh Cao",
+        "hide": true
+    },
+    "4033206": {
+        "id": "4033206",
+        "series_id": "3",
+        "title": "Tuyệt Kỹ Là Chân Thành Mãi Mãi",
+        "desc": "Đánh bại người bảo vệ chính nghĩa của Penacony",
+        "hide_desc": "※Đánh bại Argenti tại Trận Chiến Siêu Sao Đỉnh Cao",
+        "hide": true
+    },
+    "4033301": {
+        "id": "4033301",
+        "series_id": "3",
+        "title": "Tất Cả Những Bông Hoa Đang Chết (All the Flowers are Dying)",
+        "desc": "Cạn ly vì người đã khuất, kính chúc hiện thực đau khổ",
+        "hide_desc": "※ Thức uống pha chế đặc biệt \"Giấc Mộng Cay Đắng\"",
+        "hide": true
+    },
+    "4033302": {
+        "id": "4033302",
+        "series_id": "3",
+        "title": "Cuộc Sống Thật Tuyệt Vời (It's a Wonderful Life)",
+        "desc": "Cạn ly vì người đã khuất, kính chúc ngày mai ngọt ngào",
+        "hide_desc": "※ Thức uống pha chế đặc biệt \"Ngọt Ngấy\"",
+        "hide": true
+    },
+    "4033303": {
+        "id": "4033303",
+        "series_id": "3",
+        "title": "Đồng Hành Với Tôi (Going My Way)",
+        "desc": "Bất ngờ gặp gỡ Đội Tàu Astral",
+        "hide_desc": "※ Bằng góc nhìn của Firefly, nhìn thấy Đội Tàu Astral trên Tàu Radiant Feldspar",
+        "hide": true
+    },
+    "4033304": {
+        "id": "4033304",
+        "series_id": "3",
+        "title": "Đang Trên Đường (On the Road)",
+        "desc": "Lướt qua Đội Tàu Astral",
+        "hide_desc": "※ Bằng góc nhìn của Firefly, tập trung tìm kiếm Hiệu Cầm Đồ Bonajade trên Tàu Radiant Feldspar",
+        "hide": true
+    },
+    "4033305": {
+        "id": "4033305",
+        "series_id": "3",
+        "title": "Thuyền Của Những Kẻ Ngốc (Ship of Fools)",
+        "desc": "Thêm một chú thích mới cho vận mệnh của chúng ta",
+        "hide_desc": "※ Giải quyết thành công nguy cơ về \"bom\", thưởng thức màn pháo hoa hoành tráng",
+        "hide": false
+    },
+    "4033306": {
+        "id": "4033306",
+        "series_id": "3",
+        "title": "Nàng Thơ, Hãy Kể Tôi Nghe (Tell Me, O Muse)",
+        "desc": "Quyết định trạm tiếp theo trong hành trình Penacony",
+        "hide_desc": "※ Xuất phát - \"Vùng Đất Vĩnh Hằng\" Amphoreus!",
         "hide": false
     },
     "4040101": {
@@ -787,7 +891,7 @@
         "id": "4042507",
         "series_id": "4",
         "title": "Cát Tinh Chiếu Rọi",
-        "desc": "Mở 170 lần Chiến Lợi Phẩm ở Xianzhou Luofu",
+        "desc": "Mở 170 lần Chiến Lợi Phẩm Xianzhou Luofu",
         "hide_desc": "",
         "hide": false
     },
@@ -979,7 +1083,7 @@
         "id": "4043022",
         "series_id": "4",
         "title": "Ở Nhà Một Mình",
-        "desc": "Tham gia 1 Cuộc Phiêu Lưu Của Hanu, đánh bại 3 Tay Sai Ông Chủ Đá trong 1 lần",
+        "desc": "Trong 1 lần Cuộc Phiêu Lưu Của Hanu, đánh bại một lượt 3 Tay Sai của Ông Chủ Đá",
         "hide_desc": "",
         "hide": false
     },
@@ -1075,7 +1179,7 @@
         "id": "4043034",
         "series_id": "4",
         "title": "Hỏa Lực Toàn Diện",
-        "desc": "Trong Cuộc Phiêu Lưu Của Hanu, đạn dược của \"Đạn Hanu\" đạt giới hạn",
+        "desc": "Đạn Hanu đạt giới hạn tối đa trong Cuộc Phiêu Lưu Của Hanu",
         "hide_desc": "",
         "hide": false
     },
@@ -1094,6 +1198,206 @@
         "desc": "Phá vỡ tất cả Vật Có Thể Phá Hủy trong Vườn Hoa Mê Cung của Khu Vui Chơi Clock Studios",
         "hide_desc": "",
         "hide": true
+    },
+    "4043201": {
+        "id": "4043201",
+        "series_id": "4",
+        "title": "Bong Bóng Quá Khứ",
+        "desc": "Phá vỡ Bong Bóng Ông Chủ Đá đặc biệt trong Rạn Đá Ngầm Lưu Mộng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043202": {
+        "id": "4043202",
+        "series_id": "4",
+        "title": "Bong Bóng Thứ 2",
+        "desc": "Phá vỡ Bong Bóng Ông Chủ Đá đặc biệt trong Hội Trường Sơ Tuyển Cát Nóng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043203": {
+        "id": "4043203",
+        "series_id": "4",
+        "title": "A Post-Balloon Odyssey",
+        "desc": "Phá vỡ Bong Bóng Ông Chủ Đá đặc biệt trong Nhà Hát Lớn Penacony",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043205": {
+        "id": "4043205",
+        "series_id": "4",
+        "title": "Giấc Mơ Penacony Mới",
+        "desc": "Mở 300 lần Chiến Lợi Phẩm ở Penacony",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043206": {
+        "id": "4043206",
+        "series_id": "4",
+        "title": "Tăng Tốc Độ, Tăng Đường Huyết",
+        "desc": "Ăn tất cả đạo cụ SoulGlad trong khiêu chiến Tốc Độ Và Quả Hạch thuộc Hội Trường Sơ Tuyển Cát Nóng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043207": {
+        "id": "4043207",
+        "series_id": "4",
+        "title": "Chíp... Tôi Không Thể Nhúc Nhích",
+        "desc": "Giúp 100 Chim Giấy trở về Cây Đại Thụ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043208": {
+        "id": "4043208",
+        "series_id": "4",
+        "title": "Ngôi Nhà Tuyển Chọn Kỳ Diệu",
+        "desc": "Trong giao diện \"Bóng Vận Chuyển\" phát hiện 1 khiêu chiến ẩn bất kỳ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043209": {
+        "id": "4043209",
+        "series_id": "4",
+        "title": "Vua Tuyển Chọn Huyền Thoại",
+        "desc": "Thành công kích hoạt tổng cộng #1 khiêu chiến ẩn của Bóng Vận Chuyển",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043210": {
+        "id": "4043210",
+        "series_id": "4",
+        "title": "Hủy Tư Cách Tham Gia!",
+        "desc": "Phá vỡ tất cả Bong Bóng Ông Chủ Đá tại Quảng Trường Sơ Tuyển",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043211": {
+        "id": "4043211",
+        "series_id": "4",
+        "title": "First Blood",
+        "desc": "Lần đầu hoàn thành khiêu chiến \"Chiến Tuyến Hanu\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043212": {
+        "id": "4043212",
+        "series_id": "4",
+        "title": "Tựa Như Sói",
+        "desc": "Trong ải \"Con Đường Của Sói-Cuối\" bất kỳ, phản đòn mọi đồng xu của Ông Chủ Đá",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043213": {
+        "id": "4043213",
+        "series_id": "4",
+        "title": "Chạng Vạng Sói Trở Về",
+        "desc": "Hoàn thành tất cả ải \"Con Đường Của Sói-Cuối\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043214": {
+        "id": "4043214",
+        "series_id": "4",
+        "title": "Tựa Sói Xuất Hiện",
+        "desc": "Trong ải \"Con Đường Của Sói-Cuối\" bất kỳ, đánh bại Ông Chủ Đá mà không hề phản đòn tấn công bằng đồng xu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043215": {
+        "id": "4043215",
+        "series_id": "4",
+        "title": "Giọt Máu Thứ 15",
+        "desc": "Hoàn thành tất cả khiêu chiến \"Chiến Tuyến Hanu\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043216": {
+        "id": "4043216",
+        "series_id": "4",
+        "title": "Giọt Máu Thứ Mấy?",
+        "desc": "Vượt ải hoàn mỹ tất cả khiêu chiến của \"Chiến Tuyến Hanu\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043217": {
+        "id": "4043217",
+        "series_id": "4",
+        "title": "Đạn Xuyên Giáp",
+        "desc": "Trong \"Chiến Tuyến Hanu\" 1 phát bắn trúng #1 bia",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043218": {
+        "id": "4043218",
+        "series_id": "4",
+        "title": "Kẻ Địch Cá Sấu",
+        "desc": "Trong ải cuối của \"Cuộc Phiêu Lưu Của Hanu\" đánh bại \"Cá Sấu Sắt\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043219": {
+        "id": "4043219",
+        "series_id": "4",
+        "title": "Tạm Biệt, Hanunue",
+        "desc": "Thu thập tất cả sách truyện \"Cuộc Phiêu Lưu Của Hanu\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043220": {
+        "id": "4043220",
+        "series_id": "4",
+        "title": "Giọt Máu Cuối Cùng",
+        "desc": "Trong \"Chiến Tuyến Hanu\" lần đầu bắn trúng tất cả bia bắn",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043221": {
+        "id": "4043221",
+        "series_id": "4",
+        "title": "Di Sản Của Hanu",
+        "desc": "Tại Buổi Tuyển Chọn Lễ Hội tìm thấy kho báu ẩn trong \"Thử Thách Bắn Súng\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043222": {
+        "id": "4043222",
+        "series_id": "4",
+        "title": "Za Warudo!",
+        "desc": "Trong Chiến Tuyến Hanu bắn trúng #1 bia thông qua Thời Gian Đồng Hồ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043224": {
+        "id": "4043224",
+        "series_id": "4",
+        "title": "Oanh Tạc Bão Hòa",
+        "desc": "Tham gia 1 Cuộc Phiêu Lưu Của Hanu, đánh bại #1 Tay Sai Ông Chủ Đá trong 1 lần",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043226": {
+        "id": "4043226",
+        "series_id": "4",
+        "title": "Danh Nghĩa Gia Tộc",
+        "desc": "Giúp thành viên Gia tộc tìm lại tất cả tang vật",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043301": {
+        "id": "4043301",
+        "series_id": "4",
+        "title": "Bong Bóng, Bay Đến Ngày Mai",
+        "desc": "Phá vỡ Bong Bóng Ông Chủ Đá đặc biệt trong {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043302": {
+        "id": "4043302",
+        "series_id": "4",
+        "title": "Tiếc Là Không Phải Một Ban Nhạc",
+        "desc": "Giải cứu \"Sếp\" Đồng Hồ trên {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": false
     },
     "4051001": {
         "id": "4051001",
@@ -3039,6 +3343,486 @@
         "hide_desc": "",
         "hide": true
     },
+    "4053201": {
+        "id": "4053201",
+        "series_id": "5",
+        "title": "Đựng Lịch Sử Trong Bình",
+        "desc": "Tại Hội Trường Sơ Tuyển Cát Nóng khám phá Tứ Đại Kho Báu của Hầm Soda",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053202": {
+        "id": "4053202",
+        "series_id": "5",
+        "title": "Câu Chuyện Nước Thuốc Siro",
+        "desc": "Tại Hội Trường Sơ Tuyển Cát Nóng tìm thấy kho báu quý giá nhất của Hầm Soda",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053203": {
+        "id": "4053203",
+        "series_id": "5",
+        "title": "Đồng hồ... Vàng Và Máy Móc?",
+        "desc": "Tại Hội Trường Sơ Tuyển Cát Nóng phát hiện bí kíp biến đá thành vàng của Cậu Bé Đồng Hồ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053204": {
+        "id": "4053204",
+        "series_id": "5",
+        "title": "Chỉ Là Một Cái Bóng Đang Đi",
+        "desc": "Lắng nghe câu chuyện của 8 con rối bên cạnh sân khấu Nhà Hát Lớn Penacony",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053205": {
+        "id": "4053205",
+        "series_id": "5",
+        "title": "Nhãn Dán, Thật Nhiều Nhãn Dán",
+        "desc": "Toàn bộ các trang \"Hộ Chiếu Cõi Mộng\" hoàn thành 100%",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053206": {
+        "id": "4053206",
+        "series_id": "5",
+        "title": "Bài Thơ Xây Mộng Dang Dở",
+        "desc": "Khuyên Orla tỉnh giấc khỏi Cõi Mộng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053207": {
+        "id": "4053207",
+        "series_id": "5",
+        "title": "Chi Bằng Trở Về",
+        "desc": "Để mặc Orla cùng đồng đội rời đi",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053208": {
+        "id": "4053208",
+        "series_id": "5",
+        "title": "Sự Ra Đời Của Hiệp Hội Hanu",
+        "desc": "Trong Phim Quảng Cáo \"Vụ Trộm Người Anh Em Hanu\" của \"Hồi Ký Mộng Đẹp\" dẫn dắt tất cả nhân viên Bảng Quảng Cáo bỏ trốn",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053209": {
+        "id": "4053209",
+        "series_id": "5",
+        "title": "Người Đại Diện SoulGlad",
+        "desc": "Trong Phim Quảng Cáo \"Cậu Bé Đồng Hồ Thích Soda\" của \"Hồi Ký Mộng Đẹp\", bước lên tất cả Sàn SoulGlad trong cảnh",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053210": {
+        "id": "4053210",
+        "series_id": "5",
+        "title": "Nhà Ảo Thuật Của Thị Trấn Mộng Đẹp",
+        "desc": "Tất cả cảnh quay trong Phim Quảng Cáo \"Tiên Tích Mộng Đẹp\" của \"Hồi Ký Mộng Đẹp\" đều hoàn hảo đạt yêu cầu của đạo diễn",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053211": {
+        "id": "4053211",
+        "series_id": "5",
+        "title": "Cậu Bé Đồng Hồ Và Những Người Bạn",
+        "desc": "Giúp họa sĩ của Hồi Ký Mộng Đẹp chế tác tất cả ngoại truyện hoạt hình",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053212": {
+        "id": "4053212",
+        "series_id": "5",
+        "title": "Railboard 100",
+        "desc": "Nhận cuốn băng của Robin",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053213": {
+        "id": "4053213",
+        "series_id": "5",
+        "title": "Sinh Tồn \"Biển\" Giận Giữ",
+        "desc": "Giúp SoulGlad muốn trở thành siêu sao",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053214": {
+        "id": "4053214",
+        "series_id": "5",
+        "title": "Nhóm Học Tập Lưu Mộng",
+        "desc": "Xây một ngôi nhà mới cho Kẻ Lang Thang",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053215": {
+        "id": "4053215",
+        "series_id": "5",
+        "title": "Tiếng Thì Thầm Của Thiên Sứ",
+        "desc": "Chứng kiến kết cục của \"Lệnh Sứ Thùng Rác\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053216": {
+        "id": "4053216",
+        "series_id": "5",
+        "title": "Chiếc Lông Vũ Anh Ấy Để Lại",
+        "desc": "Giúp Robin tìm thấy manh mối của Sunday",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053217": {
+        "id": "4053217",
+        "series_id": "5",
+        "title": "Vé Xe Vĩnh Viễn",
+        "desc": "Ngồi xe Lồng Cầu đến trạm bí ẩn Rạn Đá Ngầm Lưu Mộng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053218": {
+        "id": "4053218",
+        "series_id": "5",
+        "title": "Tóm Lại, Rất Ngầu",
+        "desc": "Tìm thấy 7 nắp cống đặc biệt tại Rạn Đá Ngầm Lưu Mộng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053219": {
+        "id": "4053219",
+        "series_id": "5",
+        "title": "Cảnh Đẹp Phía Trước, Vậy Nên Bi Thương",
+        "desc": "Tìm thấy dấu vết của Cậu Bé Đồng Hồ trong hố thang máy ở Rạn Đá Ngầm Lưu Mộng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053220": {
+        "id": "4053220",
+        "series_id": "5",
+        "title": "Thời Gian Thật Kỳ Diệu",
+        "desc": "Hoàn thành Nhiệm Vụ Thám Hiểm \"Ngày Xửa Ngày Xưa, Ở Thị Trấn Mộng Đẹp...\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053221": {
+        "id": "4053221",
+        "series_id": "5",
+        "title": "Mọi Chuyện Quá Khứ",
+        "desc": "Trong \"Hồi Ký Mộng Đẹp\" hoàn thành biên tập tất cả kết thúc",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053222": {
+        "id": "4053222",
+        "series_id": "5",
+        "title": "Top 100 Cõi Mộng",
+        "desc": "Trong Tuyển Tập \"Hồi Ký Mộng Đẹp\", đánh giá của khán giả đạt #1 điểm",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053223": {
+        "id": "4053223",
+        "series_id": "5",
+        "title": "Cảm Xúc Vượt Khỏi Ống Kính",
+        "desc": "Trong \"Hồi Ký Mộng Đẹp\" 3 loại cảm xúc của khán giả đồng thời cao hơn #1",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053224": {
+        "id": "4053224",
+        "series_id": "5",
+        "title": "Mê Man Một Kiếp Người",
+        "desc": "Trong \"Hồi Ký Mộng Đẹp\" vào 1 lần nhánh cốt truyện đặc biệt",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053225": {
+        "id": "4053225",
+        "series_id": "5",
+        "title": "Bộ Phim Kinh Phí Cao",
+        "desc": "Trong \"Hồi Ký Mộng Đẹp\", cùng 1 hiệp tối thiểu nhận #1 Xúc Xắc Thời Gian #2 trở lên",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053226": {
+        "id": "4053226",
+        "series_id": "5",
+        "title": "Đánh Bại Lớp Khó",
+        "desc": "Khi xét duyệt buổi chiếu thử trong Hồi Ký Mộng Đẹp, tất cả Cảm Xúc cần thiết đều phù hợp với yêu cầu xét duyệt",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053227": {
+        "id": "4053227",
+        "series_id": "5",
+        "title": "Rail Road, Take Me Home",
+        "desc": "Trong Rạn Đá Ngầm Lưu Mộng, vào Giấc Mơ Trẻ Thơ thông qua Bong Bóng Giấc Mơ của Thợ Đồng Hồ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053228": {
+        "id": "4053228",
+        "series_id": "5",
+        "title": "Mikhail, Ông Đi Đâu Vậy?",
+        "desc": "Đường nên đi, ta đều đã đi",
+        "hide_desc": "※Rồi khi tất cả bụi trần lắng xuống, ta lại về nơi ngắm trăng thuở nhỏ",
+        "hide": false
+    },
+    "4053229": {
+        "id": "4053229",
+        "series_id": "5",
+        "title": "Trò Chơi Thang Rương",
+        "desc": "Leo lên ngọn núi chất đống rương gỗ ở Rạn Đá Ngầm Lưu Mộng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053230": {
+        "id": "4053230",
+        "series_id": "5",
+        "title": "Chờ Đợi Godot",
+        "desc": "Kiên nhẫn chờ đội tàu ma tới",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053231": {
+        "id": "4053231",
+        "series_id": "5",
+        "title": "Có Thể Ngồi Cả Buổi Chiều",
+        "desc": "Tận hưởng thời gian nghỉ ngơi ngắn ngủi trên sofa tại Rạn Đá Ngầm Lưu Mộng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053232": {
+        "id": "4053232",
+        "series_id": "5",
+        "title": "Thành Phố Tình Yêu",
+        "desc": "Giúp Bảng Quảng Cáo \"Gặp Gỡ Tình Yêu\" chuyển lời đến người yêu của nó",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053301": {
+        "id": "4053301",
+        "series_id": "5",
+        "title": "Nhiệm Vụ Bị Cấm Trong Khách Sạn",
+        "desc": "Hoàn thành Nhiệm Vụ Thám Hiểm \"Trả Phòng\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053302": {
+        "id": "4053302",
+        "series_id": "5",
+        "title": "Tang Lễ Của Hoa Hồng",
+        "desc": "Hoàn thành Nhiệm Vụ Thám Hiểm \"Cuốn Phim Ác Nghiệt Cuối Cùng\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053303": {
+        "id": "4053303",
+        "series_id": "5",
+        "title": "Tàu Trưởng Của Tôi, Tàu Của Tôi",
+        "desc": "Hoàn thành Nhiệm Vụ Thám Hiểm \"Cánh Buồm Trở Về Trái Tim\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053304": {
+        "id": "4053304",
+        "series_id": "5",
+        "title": "Tấm Ảnh Nhóm Bất Ngờ",
+        "desc": "Chụp ảnh nhóm trong sự kiện Chim Giấy Đại Chiến",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053305": {
+        "id": "4053305",
+        "series_id": "5",
+        "title": "Omega Ruby",
+        "desc": "Trong sự kiện Chim Giấy Đại Chiến, đặt Chim Sói Bạc, Chim Firefly và Chim Khai Phá trên cùng một bên của Game Thùng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053306": {
+        "id": "4053306",
+        "series_id": "5",
+        "title": "Alpha Sapphire",
+        "desc": "Trong sự kiện Chim Giấy Đại Chiến, đặt Chim Khai Phá và Chim March trên Game Thùng cạnh nhau",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053307": {
+        "id": "4053307",
+        "series_id": "5",
+        "title": "Không Làm Khó Được Đâu",
+        "desc": "Trong sự kiện Chim Giấy Đại Chiến, trong 1 trận kích hoạt #1 lần kỹ năng Chim",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053308": {
+        "id": "4053308",
+        "series_id": "5",
+        "title": "Chim Giấy Giận Dữ",
+        "desc": "Trong sự kiện Chim Giấy Đại Chiến, trong 1 trận tự tay kích hoạt #1 lần tổ hợp Bom",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053309": {
+        "id": "4053309",
+        "series_id": "5",
+        "title": "Chim! Chim! Chim!",
+        "desc": "Trong sự kiện Chim Giấy Đại Chiến, trong 1 trận, lực chiến cao nhất của Chim đạt #1",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053310": {
+        "id": "4053310",
+        "series_id": "5",
+        "title": "Vườn Bách Thú Gấp Giấy",
+        "desc": "Trong sự kiện Chim Giấy Đại Chiến, chiến thắng tất cả Khiêu Chiến Tự Do",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053311": {
+        "id": "4053311",
+        "series_id": "5",
+        "title": "Sự Ra Đời Của Một Ngôi Sao (A Star Is Born)",
+        "desc": "Bố trí diễn viên phù hợp trên sân khấu của {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053312": {
+        "id": "4053312",
+        "series_id": "5",
+        "title": "Xe Bay Siêu Cấp (Need For Speed)",
+        "desc": "Đậu xe tại vị trí dành riêng của {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053313": {
+        "id": "4053313",
+        "series_id": "5",
+        "title": "Rạp Chiếu Phim Gia Đình",
+        "desc": "Dùng máy chiếu trên {TEXTJOIN#87}, và mời thành viên Đội Tàu Astral đến xem",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053315": {
+        "id": "4053315",
+        "series_id": "5",
+        "title": "Mười Tám Thùng Quý Tộc",
+        "desc": "Hoàn thành tất cả khiêu chiến Thùng Thí Luyện trên {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053316": {
+        "id": "4053316",
+        "series_id": "5",
+        "title": "Vận Chuyển Nhanh May Mắn",
+        "desc": "Ký tên nhận bưu kiện của Aventurine gửi đến trên {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053317": {
+        "id": "4053317",
+        "series_id": "5",
+        "title": "Trực Tiếp Đêm Đội Tàu Astral",
+        "desc": "Dùng Xu Quay Trứng Vàng mua Tivi Người Anh Em Hanu Bé Nhỏ, và lắp đặt nó vào trong Toa Tàu",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053318": {
+        "id": "4053318",
+        "series_id": "5",
+        "title": "Vị Khách Vô Hình (The Invisible Guest)",
+        "desc": "Biến thành Người Anh Em Hanu xông vào phòng của thành viên Đội Tàu Astral khác",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053319": {
+        "id": "4053319",
+        "series_id": "5",
+        "title": "Quà Lưu Niệm Tự Trả Tiền",
+        "desc": "Nhận được quà lưu niệm tàu trưởng của {NICKNAME}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053320": {
+        "id": "4053320",
+        "series_id": "5",
+        "title": "Tàu Trưởng Bóng Tối",
+        "desc": "Nói chuyện với Bảng Quảng Cáo của tàu trưởng {NICKNAME}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053321": {
+        "id": "4053321",
+        "series_id": "8",
+        "title": "Chủ Sao Khách Vậy",
+        "desc": "Trước khi nhận được quyền sở hữu {TEXTJOIN#87}, nghịch nước hồ bơi và bị khiển trách",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053322": {
+        "id": "4053322",
+        "series_id": "5",
+        "title": "Dưới Chiếc Kính Đen",
+        "desc": "Trong phòng điều khiển, kích hoạt camera giám sát, quan sát thân tàu {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053323": {
+        "id": "4053323",
+        "series_id": "5",
+        "title": "Vinh Quang Trở Lại",
+        "desc": "Đổi tên và sơn cánh đuôi cho Tàu Radiant Feldspar",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053324": {
+        "id": "4053324",
+        "series_id": "5",
+        "title": "Thành Phố Vô Hình (Invisible Cities)",
+        "desc": "Dùng kính quan sát trên {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053325": {
+        "id": "4053325",
+        "series_id": "5",
+        "title": "Trái Tim Vĩnh Hằng (My Heart Will Go On)",
+        "desc": "Từ phía đầu tàu của {TEXTJOIN#87}, nhìn về nơi xa",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053326": {
+        "id": "4053326",
+        "series_id": "5",
+        "title": "Câu Chuyện Kinh Dị Hoàn Chỉnh",
+        "desc": "Dùng Thủ Thuật Đồng Hồ đọc tất cả cảm xúc của Bella",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053327": {
+        "id": "4053327",
+        "series_id": "5",
+        "title": "Quỷ Đoạt Hồn (The Evil Within)",
+        "desc": "Dùng Thủ Thuật Đồng Hồ đọc cảm xúc vui vẻ của Stefano",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053328": {
+        "id": "4053328",
+        "series_id": "5",
+        "title": "Tiền Vàng Ngôi Sao",
+        "desc": "Thu thập tất cả Xu Quay Trứng Vàng ở Penacony",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053329": {
+        "id": "4053329",
+        "series_id": "5",
+        "title": "Captain! My Captain!",
+        "desc": "Lần đầu vào không gian riêng của tàu trưởng {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -4179,7 +4963,7 @@
         "id": "4072609",
         "series_id": "8",
         "title": "Để Đạn Pháo Bay",
-        "desc": "Trong lúc thám hiểm, dùng Natasha tấn công kẻ địch từ xa để vào chiến đấu",
+        "desc": "Trong lúc thám hiểm, dùng Natasha tấn công kẻ địch từ xa để vào chiến đấu hoặc phá vỡ Vật Có Thể Phá Hủy ở khoảng cách siêu xa",
         "hide_desc": "",
         "hide": true
     },
@@ -4476,6 +5260,150 @@
         "series_id": "7",
         "title": "Đánh Giá Hiệu Suất",
         "desc": "Dùng Aventurine phe ta để ra đòn chiến thắng cuối cùng khi đấu với Nhân Viên Thâm Niên - Tổ Trưởng",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073201": {
+        "id": "4073201",
+        "series_id": "7",
+        "title": "JACKPOT!",
+        "desc": "Khiến Người Bán Hàng May Mắn Của Đoàn Kịch Ác Mộng lắc ra 1 lần \"Xuất Hàng!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073202": {
+        "id": "4073202",
+        "series_id": "7",
+        "title": "Kịch Xà Phòng",
+        "desc": "Khi chiến đấu với \"Tương Lai Trong Hợp Âm Hài Hòa\", #1 nhân vật đều đã từng vào trạng thái ngủ say",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073203": {
+        "id": "4073203",
+        "series_id": "7",
+        "title": "Kịch Huyền Bí",
+        "desc": "Dùng 1 nhân vật chịu toàn bộ sát thương của \"Truyền Phúc Âm Trong Lồng\" thuộc kỹ năng \"Quá Khứ Bị Nhốt Trong Lồng\", và không bị đánh bại",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073204": {
+        "id": "4073204",
+        "series_id": "7",
+        "title": "Kịch Đồng Diễn",
+        "desc": "Trong giai đoạn 1 của \"Vở Kịch Của Quá Khứ, Hiện Tại Và Mãi Mãi\", khiến #1 kẻ địch lần lượt trở thành \"Tư Luật\" 1 lần",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073205": {
+        "id": "4073205",
+        "series_id": "7",
+        "title": "Kịch Một Màn",
+        "desc": "Trong giai đoạn 2 của \"Vở Kịch Của Quá Khứ, Hiện Tại Và Mãi Mãi\", phe địch tối đa thi triển 1 lần \"Hiến Vũ Điệu Cho Giai Điệu Đồng Nhất\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073206": {
+        "id": "4073206",
+        "series_id": "7",
+        "title": "Đoạn Văn",
+        "desc": "Sau khi \"Hiện Tại Say Sưa Trong Lễ Hội\" vào trạng thái Tụ Lực, làm gián đoạn Tụ Lực của nó",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073207": {
+        "id": "4073207",
+        "series_id": "7",
+        "title": "Thời Gian Một Bài Hát",
+        "desc": "Lắng nghe tiếng hát của Robin",
+        "hide_desc": "※ Trong chiến đấu, sau khi thi triển Tuyệt Kỹ \"Ngàn Âm Hợp Xướng, Tẩu Pháp Vạn Vì Sao\" của Robin, quan sát Robin trong chiến đấu #1 giây trở lên",
+        "hide": false
+    },
+    "4073208": {
+        "id": "4073208",
+        "series_id": "7",
+        "title": "Tay Thổi Sáo Của Hamelin",
+        "desc": "Trong thám hiểm, sau khi dùng Bí Kỹ \"Khúc Dạo Đầu Say Men\" của Robin, thu hút #1 địch trở lên đi theo",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073209": {
+        "id": "4073209",
+        "series_id": "7",
+        "title": "Bước Nhảy Tối Thượng!",
+        "desc": "Trong chiến đấu, sử dụng hiệu ứng \"Bạn Nhảy\" thuộc Tuyệt Kỹ \"Diễu Hành Đèn Sân Khấu Huyên Náo\" của {NICKNAME} - Hòa Hợp để tiêu diệt 1 kẻ địch Tinh Anh",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073210": {
+        "id": "4073210",
+        "series_id": "7",
+        "title": "Cò Quay Nga",
+        "desc": "Trong chiến đấu, nhân vật Boothill phe ta trong 1 hiệp tích lũy nhận #1 tầng Cú Lừa Bỏ Túi",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073211": {
+        "id": "4073211",
+        "series_id": "7",
+        "title": "Ngày Làm Việc Không Có Thần",
+        "desc": "Trước khi \"Dàn Hợp Xướng Hòa Hợp\" Septimus Vĩ Đại thi triển Bước Nhảy Bay Bổng hoặc Cuồng Phong Vũ Bão, phá vỡ tất cả Tiếng Vọng Giấc Mơ Xưa",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073212": {
+        "id": "4073212",
+        "series_id": "7",
+        "title": "Sau Đó, Là Thứ Hai...",
+        "desc": "Tích lũy đủ Khiên, chống đỡ hoàn toàn sát thương do kỹ năng Thái Sơ Hữu Vi của Sunday \"Bào Thai Triết Học\" gây ra",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073301": {
+        "id": "4073301",
+        "series_id": "7",
+        "title": "Nhóm Đặc Biệt Hành Tinh Lễ Hội",
+        "desc": "Dùng đội đồng thời có Topaz & Numby, Dr. Ratio, Aventurine, Jade đánh thắng 1 trận",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073302": {
+        "id": "4073302",
+        "series_id": "7",
+        "title": "Cứu Con Mèo (Save the Cat!)",
+        "desc": "Dùng đội đồng thời có Sói Bạc, Blade, Kafka, Firefly đánh thắng 1 trận",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073303": {
+        "id": "4073303",
+        "series_id": "7",
+        "title": "Nhà Thầu (The Contractor)",
+        "desc": "Trong 1 trận đấu, khi phe ta có hiệu ứng Chiến Kỹ \"Người Thu Nợ\" của Jade , sẽ tiêu hao HP hiện tại đến #1",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073304": {
+        "id": "4073304",
+        "series_id": "7",
+        "title": "Đi Đi, SAM",
+        "desc": "Dùng nhân vật Firefly phe ta chiến đấu với Kafka và vào trạng thái Chi Phối",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073305": {
+        "id": "4073305",
+        "series_id": "7",
+        "title": "Tôi Sẽ... Đốt Cháy Biển Cả!",
+        "desc": "Trong 1 trận đấu, sử dụng Chiến Giáp SAM thi triển #1 lần \"Đom Đóm IV - Sao Chết Quá Tải\" trước khi trạng thái Thiêu Đốt Hoàn Toàn kết thúc",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073306": {
+        "id": "4073306",
+        "series_id": "7",
+        "title": "Đã Từng Thấy Mùa Hè",
+        "desc": "Dùng đội đồng thời có Firefly, {NICKNAME} đánh thắng 1 trận",
         "hide_desc": "",
         "hide": true
     },
@@ -4974,6 +5902,30 @@
         "desc": "Kéo chú Chim Giấy Siêu To ở Dinh Thự Sương Mai",
         "hide_desc": "",
         "hide": false
+    },
+    "4083202": {
+        "id": "4083202",
+        "series_id": "8",
+        "title": "Nghĩ Kỹ Rồi Hành Động",
+        "desc": "Sau khi đặt Cầu Bong Bóng Giấc Mơ tại Mô Đun Xây Mộng, di chuyển Mô Đun Xây Mộng mà không thông qua Cầu Bong Bóng Giấc Mơ",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083203": {
+        "id": "4083203",
+        "series_id": "8",
+        "title": "Chia Tiền Công Bằng",
+        "desc": "※Trong cùng 1 trận kích hoạt lồng tiếng của Aventurine \"Chiến Kỹ 1\" và lồng tiếng của Boothill \"Bắt Đầu Chiến Đấu - Phá Vỡ Điểm Yếu\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083301": {
+        "id": "4083301",
+        "series_id": "8",
+        "title": "Khách Sao Chủ Vậy",
+        "desc": "Sau khi nhận được quyền sở hữu {TEXTJOIN#87}, nghịch nước trong hồ bơi",
+        "hide_desc": "",
+        "hide": true
     },
     "4090201": {
         "id": "4090201",

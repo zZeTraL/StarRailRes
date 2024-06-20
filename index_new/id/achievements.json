@@ -151,6 +151,14 @@
         "hide_desc": "",
         "hide": false
     },
+    "4013201": {
+        "id": "4013201",
+        "series_id": "1",
+        "title": "Nessun Dorma",
+        "desc": "Trailblazer melangkah ke Path \"Harmony\"",
+        "hide_desc": "",
+        "hide": true
+    },
     "4020201": {
         "id": "4020201",
         "series_id": "2",
@@ -511,6 +519,102 @@
         "hide_desc": "※ Mendengarkan percakapan antara Acheron dengan Welt",
         "hide": false
     },
+    "4033201": {
+        "id": "4033201",
+        "series_id": "3",
+        "title": "Taipan Terakhir",
+        "desc": "Bertemu dengan \"Watchmaker\"",
+        "hide_desc": "※ Bertemu dengan The Nameless pertama di Penacony",
+        "hide": false
+    },
+    "4033202": {
+        "id": "4033202",
+        "series_id": "3",
+        "title": "Bebas, Seperti Para Leluhur Kami",
+        "desc": "Warisi warisan \"Watchmaker\"",
+        "hide_desc": "※ Lanjutkan perjalanan The Nameless terakhir yang belum selesai di Penacony",
+        "hide": false
+    },
+    "4033203": {
+        "id": "4033203",
+        "series_id": "3",
+        "title": "Jika Kita Berjalan dalam Terang",
+        "desc": "Mulai perjalanan \"Trailblaze\" baru sesuai keinginan",
+        "hide_desc": "※ Kalahkan \"Harmonious Choir\" Dominicus ....",
+        "hide": false
+    },
+    "4033204": {
+        "id": "4033204",
+        "series_id": "3",
+        "title": "Pada Akhirnya, Kita Terbangun dari Mimpi Kita",
+        "desc": "Saksikan cahaya fajar pertama di Penacony",
+        "hide_desc": "※ Kalahkan \"Embryo of Philosophy\" Sunday",
+        "hide": false
+    },
+    "4033205": {
+        "id": "4033205",
+        "series_id": "3",
+        "title": "Ketulusan adalah Jurus Pamungkas Abadi",
+        "desc": "Berdamai dengan pelindung keadilan Penacony",
+        "hide_desc": "※ Bujuk Argenti di \"Pertarungan Puncak Superstar\"",
+        "hide": true
+    },
+    "4033206": {
+        "id": "4033206",
+        "series_id": "3",
+        "title": "Jurus Pamungkas adalah Ketulusan Abadi",
+        "desc": "Kalahkan pelindung keadilan Penacony",
+        "hide_desc": "※ Kalahkan Argenti di \"Pertarungan Puncak Superstar\"",
+        "hide": true
+    },
+    "4033301": {
+        "id": "4033301",
+        "series_id": "3",
+        "title": "Bunga di Ambang Kelayuan",
+        "desc": "Bersulang demi yang sudah tiada, untuk kenyataan yang pahit",
+        "hide_desc": "※ Racik minuman \"Bitter Dreams\"",
+        "hide": true
+    },
+    "4033302": {
+        "id": "4033302",
+        "series_id": "3",
+        "title": "Hidup Begitu Indah",
+        "desc": "Bersulang demi yang sudah tiada, untuk hari esok yang manis",
+        "hide_desc": "※ Racik minuman \"Drowning Sweetness\"",
+        "hide": true
+    },
+    "4033303": {
+        "id": "4033303",
+        "series_id": "3",
+        "title": "Perjalanan Bersamaku",
+        "desc": "Pertemuan tak terduga dengan Astral Express",
+        "hide_desc": "※ Dengan sudut pandang Firefly, melihat kru dari atas Radiant Feldspar",
+        "hide": true
+    },
+    "4033304": {
+        "id": "4033304",
+        "series_id": "3",
+        "title": "Dalam Perjalanan",
+        "desc": "Berpapasan dengan Astral Express",
+        "hide_desc": "※ Dengan sudut pandang Firefly, fokus mencari \"Pegadaian Bonajade\" dari atas Radiant Feldspar",
+        "hide": true
+    },
+    "4033305": {
+        "id": "4033305",
+        "series_id": "3",
+        "title": "Ship of Fools",
+        "desc": "Tambahan catatan baru pada \"takdir\" kita",
+        "hide_desc": "※ Atasi krisis \"bom\" dan saksikan kembang api yang luar biasa",
+        "hide": false
+    },
+    "4033306": {
+        "id": "4033306",
+        "series_id": "3",
+        "title": "Ceritakan Padaku, Hai Muse",
+        "desc": "Tentukan perhentian perjalanan Penacony selanjutnya",
+        "hide_desc": "※ Menuju \"Negeri Abadi\" Amphoreus!",
+        "hide": false
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -787,7 +891,7 @@
         "id": "4042507",
         "series_id": "4",
         "title": "Bintang Kemakmuran Menyinarimu",
-        "desc": "Membuka Peti Harta 170 kali di Xianzhou \"Luofu\"",
+        "desc": "Buka Peti Harta 170 kali di Xianzhou \"Luofu\"",
         "hide_desc": "",
         "hide": false
     },
@@ -979,7 +1083,7 @@
         "id": "4043022",
         "series_id": "4",
         "title": "Kecil-Kecil Cabe Rawit",
-        "desc": "Dalam 1 kali Petualangan Hanu, mengalahkan 3 kaki tangan Bos Stone dalam 1 kali aksi",
+        "desc": "Dalam 1 kali \"Petualangan Hanu\", mengalahkan 3 kaki tangan Bos Stone dalam 1 kali aksi",
         "hide_desc": "",
         "hide": false
     },
@@ -1075,7 +1179,7 @@
         "id": "4043034",
         "series_id": "4",
         "title": "Kekuatan Tempur Maksimum",
-        "desc": "Di Petualangan Hanu, jumlah \"Misil Hanu\" yang dimiliki mencapai batas maksimal",
+        "desc": "Di \"Petualangan Hanu\", jumlah \"Misil Hanu\" yang dimiliki mencapai batas maksimal",
         "hide_desc": "",
         "hide": false
     },
@@ -1094,6 +1198,206 @@
         "desc": "Hancurkan semua objek yang bisa dihancurkan di kebun labirin di Clock Studios Theme Park",
         "hide_desc": "",
         "hide": true
+    },
+    "4043201": {
+        "id": "4043201",
+        "series_id": "4",
+        "title": "Balon Elysian",
+        "desc": "Pecahkan balon Bos Stone khusus di Dreamflux Reef",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043202": {
+        "id": "4043202",
+        "series_id": "4",
+        "title": "Ledakan Balon Ke-2",
+        "desc": "Pecahkan balon Bos Stone khusus di Scorchsand Audition Venue",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043203": {
+        "id": "4043203",
+        "series_id": "4",
+        "title": "Kisah Pasca-Balon",
+        "desc": "Pecahkan balon Bos Stone khusus di Penacony Grand Theater",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043205": {
+        "id": "4043205",
+        "series_id": "4",
+        "title": "Mimpi Penacony Baru",
+        "desc": "Membuka Peti Harta 300 kali di Penacony",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043206": {
+        "id": "4043206",
+        "series_id": "4",
+        "title": "Kecepatan Meningkat, Gula Darah Naik",
+        "desc": "Makan semua item SoulGlad pada tantangan \"Pas & Serius\" di Scorchsand Audition Venue",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043207": {
+        "id": "4043207",
+        "series_id": "4",
+        "title": "*Cuit* ... Aku Tidak Bisa Bergerak",
+        "desc": "Bantu 100 Burung Origami kembali ke \"Pohon Besar\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043208": {
+        "id": "4043208",
+        "series_id": "4",
+        "title": "Rumah Ajaib Audisi",
+        "desc": "Temukan 1 tantangan tersembunyi mana pun di antarmuka \"Peron Kilat Audisi\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043209": {
+        "id": "4043209",
+        "series_id": "4",
+        "title": "Raja Audisi Legendaris",
+        "desc": "Berhasil memicu total #1 tantangan tersembunyi \"Peron Kilat Audisi\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043210": {
+        "id": "4043210",
+        "series_id": "4",
+        "title": "Diskualifikasi!",
+        "desc": "Pecahkan semua balon Bos Stone di Audition Plaza",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043211": {
+        "id": "4043211",
+        "series_id": "4",
+        "title": "Tetesan Darah Pertama",
+        "desc": "Selesaikan tantangan \"Perang Hanu\" untuk pertama kalinya",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043212": {
+        "id": "4043212",
+        "series_id": "4",
+        "title": "Bagai Serigala",
+        "desc": "Pantulkan setiap koin Bos Stone di stage \"Jalan Serigala (Epilog)\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043213": {
+        "id": "4043213",
+        "series_id": "4",
+        "title": "Serigala Pulang",
+        "desc": "Selesaikan semua stage \"Jalan Serigala (Epilog)\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043214": {
+        "id": "4043214",
+        "series_id": "4",
+        "title": "Hadir Bagai Serigala",
+        "desc": "Kalahkan Bos Stone di stage \"Jalan Serigala (Epilog)\" mana pun tanpa memantulkan satu serangan koin pun",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043215": {
+        "id": "4043215",
+        "series_id": "4",
+        "title": "Tetesan Darah Ke-15",
+        "desc": "Selesaikan semua tantangan \"Perang Hanu\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043216": {
+        "id": "4043216",
+        "series_id": "4",
+        "title": "Tetesan Darah Keberapa?",
+        "desc": "Selesaikan semua tantangan \"Perang Hanu\" dengan sempurna",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043217": {
+        "id": "4043217",
+        "series_id": "4",
+        "title": "Peluru Penembus Zirah",
+        "desc": "Tembak #1 target dengan satu kali tembakan di \"Perang Hanu\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043218": {
+        "id": "4043218",
+        "series_id": "4",
+        "title": "Musuh Buaya",
+        "desc": "Kalahkan \"Buaya Baja\" di stage final \"Petualangan Hanu\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043219": {
+        "id": "4043219",
+        "series_id": "4",
+        "title": "Sampai Jumpa, Hanunue",
+        "desc": "Kumpulkan semua buku cerita \"Petualangan Hanu\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043220": {
+        "id": "4043220",
+        "series_id": "4",
+        "title": "Darah Terakhir",
+        "desc": "Mengenai semua target untuk pertama kalinya di \"Perang Hanu\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043221": {
+        "id": "4043221",
+        "series_id": "4",
+        "title": "Warisan Hanu",
+        "desc": "Temukan harta karun tersembunyi di \"Ujian Menembak\" pada Audisi Perayaan",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043222": {
+        "id": "4043222",
+        "series_id": "4",
+        "title": "Za Warudo!",
+        "desc": "Mengenai #1 target dengan \"Waktu Jam\" di \"Perang Hanu\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043224": {
+        "id": "4043224",
+        "series_id": "4",
+        "title": "Pengeboman Saturasi",
+        "desc": "Dalam 1 kali \"Petualangan Hanu\", mengalahkan #1 kaki tangan Bos Stone dalam 1 kali aksi",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043226": {
+        "id": "4043226",
+        "series_id": "4",
+        "title": "Atas Nama Family",
+        "desc": "Bantu anggota Family mendapatkan kembali semua barang curian",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4043301": {
+        "id": "4043301",
+        "series_id": "4",
+        "title": "Balon, Menuju Hari Esok",
+        "desc": "Pecahkan balon Bos Stone khusus di {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4043302": {
+        "id": "4043302",
+        "series_id": "4",
+        "title": "Sayangnya, Bukan Grup Musik",
+        "desc": "Selamatkan \"Bos Besar\" Jam Dunia Mimpi di {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": false
     },
     "4051001": {
         "id": "4051001",
@@ -3039,6 +3343,486 @@
         "hide_desc": "",
         "hide": true
     },
+    "4053201": {
+        "id": "4053201",
+        "series_id": "5",
+        "title": "Masukkan Sejarah ke dalam Botol",
+        "desc": "Jelajahi Empat Harta Karun dari ruang penyimpanan soda di Scorchsand Audition Venue",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053202": {
+        "id": "4053202",
+        "series_id": "5",
+        "title": "Kisah Obat Sirop",
+        "desc": "Temukan harta karun paling berharga dari ruang penyimpanan soda di Scorchsand Audition Venue",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053203": {
+        "id": "4053203",
+        "series_id": "5",
+        "title": "Jam ... Emas dan Mesin?",
+        "desc": "Temukan rahasia Clockie yang mengubah batu menjadi emas di Scorchsand Audition Venue",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053204": {
+        "id": "4053204",
+        "series_id": "5",
+        "title": "Hanya Sebuah Bayangan yang Berjalan",
+        "desc": "Dengarkan kisah tentang delapan puppet di samping panggung Penacony Grand Theater",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053205": {
+        "id": "4053205",
+        "series_id": "5",
+        "title": "Stiker, Stikernya Banyak Sekali",
+        "desc": "Progres penyelesaian semua halaman \"Paspor Dunia Mimpi\" mencapai 100%",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053206": {
+        "id": "4053206",
+        "series_id": "5",
+        "title": "Syair Mimpi yang Belum Selesai",
+        "desc": "Bujuk Orla untuk bangun dari dunia mimpi",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053207": {
+        "id": "4053207",
+        "series_id": "5",
+        "title": "Lebih Baik Pulang",
+        "desc": "Biarkan Orla pergi bersama rekan-rekannya",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053208": {
+        "id": "4053208",
+        "series_id": "5",
+        "title": "Lahirnya Persatuan Hanu",
+        "desc": "Membawa seluruh pekerja papan iklan melarikan diri di Iklan \"Perampokan Besar Bro Hanu\" pada \"Kenangan Mimpi Indah\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053209": {
+        "id": "4053209",
+        "series_id": "5",
+        "title": "Perwakilan SoulGlad",
+        "desc": "Menginjak semua \"Lantai SoulGlad\" di Iklan \"Clockie Pecinta Soda\" pada \"Kenangan Mimpi Indah\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053210": {
+        "id": "4053210",
+        "series_id": "5",
+        "title": "Pesulap Dreamville",
+        "desc": "Semua pengambilan gambar memenuhi persyaratan sutradara dengan sempurna di Iklan \"Petualangan Ajaib Mimpi Indah\" pada \"Kenangan Mimpi Indah\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053211": {
+        "id": "4053211",
+        "series_id": "5",
+        "title": "Clockie dan Teman-Temannya",
+        "desc": "Bantu animator \"Kenangan Mimpi Indah\" untuk membuat semua cerita sampingan animasi",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053212": {
+        "id": "4053212",
+        "series_id": "5",
+        "title": "Railboard 100",
+        "desc": "Berhasil mendapat kaset rekaman Robin",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053213": {
+        "id": "4053213",
+        "series_id": "5",
+        "title": "Sekoci Penyelamat",
+        "desc": "Bantu SoulGlad yang ingin menjadi superstar",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053214": {
+        "id": "4053214",
+        "series_id": "5",
+        "title": "Kelompok Belajar Dreamflux",
+        "desc": "Ciptakan satu rumah baru untuk para gelandangan",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053215": {
+        "id": "4053215",
+        "series_id": "5",
+        "title": "Gumaman Malaikat",
+        "desc": "Saksikan akhir dari \"Emanator Tong\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053216": {
+        "id": "4053216",
+        "series_id": "5",
+        "title": "Bulu yang Dia Jatuhkan",
+        "desc": "Bantu Robin menemukan petunjuk tentang Sunday",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053217": {
+        "id": "4053217",
+        "series_id": "5",
+        "title": "Tiket Permanen",
+        "desc": "Kendarai Spheroid untuk pergi ke stasiun misterius di Dreamflux Reef",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053218": {
+        "id": "4053218",
+        "series_id": "5",
+        "title": "Intinya, Sangat Keren",
+        "desc": "Temukan 7 tutup got spesial di Dreamflux Reef",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053219": {
+        "id": "4053219",
+        "series_id": "5",
+        "title": "Keindahan yang Menyebabkan Kesedihan",
+        "desc": "Temukan jejak Clockie di dalam poros lift di Dreamflux Reef",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053220": {
+        "id": "4053220",
+        "series_id": "5",
+        "title": "Betapa Ajaibnya Waktu",
+        "desc": "Selesaikan Misi Petualangan \"Suatu Hari di Dreamville ....\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053221": {
+        "id": "4053221",
+        "series_id": "5",
+        "title": "Semua Masa Lalu",
+        "desc": "Selesaikan pengeditan semua akhir film di \"Kenangan Mimpi Indah\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053222": {
+        "id": "4053222",
+        "series_id": "5",
+        "title": "TOP 100 Dunia Mimpi",
+        "desc": "Capai #1 Skor Penonton dalam Omnibus di \"Kenangan Mimpi Indah\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053223": {
+        "id": "4053223",
+        "series_id": "5",
+        "title": "Emosi yang Meluap ke Luar Layar",
+        "desc": "Ketiga Emosi Penonton secara bersamaan mencapai lebih dari #1 di \"Kenangan Mimpi Indah\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053224": {
+        "id": "4053224",
+        "series_id": "5",
+        "title": "Generasi yang Kehilangan Arah",
+        "desc": "Masuk ke cabang alur cerita khusus di \"Kenangan Mimpi Indah\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053225": {
+        "id": "4053225",
+        "series_id": "5",
+        "title": "Film Bermodal Tinggi",
+        "desc": "Dapatkan setidaknya #1 atau lebih Dadu Waktu #2 dalam satu giliran yang sama di \"Kenangan Mimpi Indah\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053226": {
+        "id": "4053226",
+        "series_id": "5",
+        "title": "Sesuai Pesanan Ya",
+        "desc": "Saat melaksanakan penilaian uji coba tayang di \"Kenangan Mimpi Indah\", semua Emosi yang diperlukan harus setara persis dengan persyaratan penilaian.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053227": {
+        "id": "4053227",
+        "series_id": "5",
+        "title": "Rail Road, Take Me Home",
+        "desc": "Masuk ke A Child's Dream melalui gelembung mimpi \"Watchmaker\" di Dreamflux Reef",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053228": {
+        "id": "4053228",
+        "series_id": "5",
+        "title": "Kamu Mau ke Mana, Mikhail?",
+        "desc": "Aku telah menempuh jalan yang harus kulewati",
+        "hide_desc": "※ Setelah semuanya berakhir, kembali ke tempat anak-anak menatap bulan",
+        "hide": false
+    },
+    "4053229": {
+        "id": "4053229",
+        "series_id": "5",
+        "title": "Permainan Kotak dan Tangga",
+        "desc": "Naik ke puncak tumpukan peti kayu di Dreamflux Reef",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053230": {
+        "id": "4053230",
+        "series_id": "5",
+        "title": "Menunggu Godot",
+        "desc": "Tunggu kedatangan kereta hantu dengan sabar",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053231": {
+        "id": "4053231",
+        "series_id": "5",
+        "title": "Bisa Bersantai Sepanjang Siang",
+        "desc": "Nikmati waktu istirahat sesaat di sofa di Dreamflux Reef",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053232": {
+        "id": "4053232",
+        "series_id": "5",
+        "title": "Kita Bikin Romantis",
+        "desc": "Bantu papan iklan \"CintaBersemi\" menyampaikan pesan kepada kekasihnya",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053301": {
+        "id": "4053301",
+        "series_id": "5",
+        "title": "Dilarang Melaksanakan Misi di Hotel",
+        "desc": "Selesaikan Misi Petualangan \"Check-Out\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053302": {
+        "id": "4053302",
+        "series_id": "5",
+        "title": "Pemakaman Mawar",
+        "desc": "Selesaikan Misi Petualangan \"Rol Film 'Finality' yang Kelam\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053303": {
+        "id": "4053303",
+        "series_id": "5",
+        "title": "Kaptenku, Kapalku",
+        "desc": "Selesaikan Misi Petualangan \"Awan Berlayar ke Hati\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4053304": {
+        "id": "4053304",
+        "series_id": "5",
+        "title": "Foto Bersama yang Tak Terduga",
+        "desc": "Ambil foto bersama pada event \"Adu Jotos Burung Origami\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053305": {
+        "id": "4053305",
+        "series_id": "5",
+        "title": "Omega Ruby",
+        "desc": "Dalam event \"Adu Jotos Burung Origami\", tempatkan Burungwolf, Burungfly, dan Burungzer pada sisi yang sama di mesin arkade",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053306": {
+        "id": "4053306",
+        "series_id": "5",
+        "title": "Alpha Sapphire",
+        "desc": "Dalam event \"Adu Jotos Burung Origami\", tempatkan Burungzer dan Burung 7th di mesin arkade yang berdekatan",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053307": {
+        "id": "4053307",
+        "series_id": "5",
+        "title": "Semudah Membalikkan Tangan",
+        "desc": "Pada event \"Adu Jotos Burung Origami\", kemampuan Burung Origami terpicu sebanyak #1 kali dalam duel 1 ronde",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053308": {
+        "id": "4053308",
+        "series_id": "5",
+        "title": "Burung Origami yang Marah",
+        "desc": "Pada event \"Adu Jotos Burung Origami\", picu kombinasi bom sebanyak #1 kali secara manual dalam duel 1 ronde",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053309": {
+        "id": "4053309",
+        "series_id": "5",
+        "title": "Burung! Burung! Burung!",
+        "desc": "Pada event \"Adu Jotos Burung Origami\", kekuatan tempur tertinggi Burung Origami dalam duel 1 ronde mencapai #1",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053310": {
+        "id": "4053310",
+        "series_id": "5",
+        "title": "Kebun Binatang Origami",
+        "desc": "Menangkan semua Tantangan Bebas dalam event \"Adu Jotos Burung Origami\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053311": {
+        "id": "4053311",
+        "series_id": "5",
+        "title": "Kelahiran Seorang Bintang",
+        "desc": "Atur pemain pertunjukan yang sesuai di atas panggung {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053312": {
+        "id": "4053312",
+        "series_id": "5",
+        "title": "Need for Speed",
+        "desc": "Memarkirkan kendaraan di tempat parkir khusus di {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053313": {
+        "id": "4053313",
+        "series_id": "5",
+        "title": "Bioskop Keluarga",
+        "desc": "Gunakan proyektor di {TEXTJOIN#87} dan undang kru untuk menonton",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053315": {
+        "id": "4053315",
+        "series_id": "5",
+        "title": "Delapan Belas Raja Tong",
+        "desc": "Selesaikan semua tantangan Tong Ujian di {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053316": {
+        "id": "4053316",
+        "series_id": "5",
+        "title": "Paket Keberuntungan Kilat",
+        "desc": "Tanda tangan di {TEXTJOIN#87} untuk menerima paket dari Aventurine",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053317": {
+        "id": "4053317",
+        "series_id": "5",
+        "title": "Acara Malam Astral Express",
+        "desc": "Gunakan Koin Mesin Kapsul Emas untuk membeli televisi Bro Hanu dan pasang di gerbong Express",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053318": {
+        "id": "4053318",
+        "series_id": "5",
+        "title": "Tamu Tak Kasat Mata",
+        "desc": "Berubah menjadi Bro Hanu dan menyusup masuk ke kamar kru lain",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053319": {
+        "id": "4053319",
+        "series_id": "5",
+        "title": "Merchandise Berbayar",
+        "desc": "Dapatkan merchandise Kapten {NICKNAME}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053320": {
+        "id": "4053320",
+        "series_id": "5",
+        "title": "Kapten Bayangan",
+        "desc": "Bicara dengan papan iklan Kapten {NICKNAME}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053321": {
+        "id": "4053321",
+        "series_id": "8",
+        "title": "Ikut Aturan Tuan Rumah",
+        "desc": "Sebelum mengambil alih hak kepemilikan {TEXTJOIN#87}, dimarahi karena berlari dan bermain di dalam kolam renang",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053322": {
+        "id": "4053322",
+        "series_id": "5",
+        "title": "Di Bawah Cermin Hitam",
+        "desc": "Aktifkan kamera pengawas di ruang kendali untuk mengamati badan kapal {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053323": {
+        "id": "4053323",
+        "series_id": "5",
+        "title": "Kembali Pada Kejayaan",
+        "desc": "Ganti nama Radiant Feldspar dan ubah gambar yang ada di bagian ekornya",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053324": {
+        "id": "4053324",
+        "series_id": "5",
+        "title": "Kota Tak Kasat Mata",
+        "desc": "Gunakan teleskop di {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053325": {
+        "id": "4053325",
+        "series_id": "5",
+        "title": "Hatiku Tetap Abadi",
+        "desc": "Menatap ke kejauhan di haluan kapal {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053326": {
+        "id": "4053326",
+        "series_id": "5",
+        "title": "Cerita Horor yang Lengkap",
+        "desc": "Gunakan Clockwork untuk membaca semua emosi Bella",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053327": {
+        "id": "4053327",
+        "series_id": "5",
+        "title": "Dirasuki Roh Jahat",
+        "desc": "Gunakan Clockwork untuk membaca emosi \"Senang\" Stefano",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053328": {
+        "id": "4053328",
+        "series_id": "5",
+        "title": "Koin Emas Bintang",
+        "desc": "Kumpulkan semua Koin Mesin Kapsul Emas di Penacony",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4053329": {
+        "id": "4053329",
+        "series_id": "5",
+        "title": "Kapten! Kaptenku!",
+        "desc": "Masuk ke ruangan eksklusif Kapten {TEXTJOIN#87} untuk pertama kalinya",
+        "hide_desc": "",
+        "hide": true
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -4179,7 +4963,7 @@
         "id": "4072609",
         "series_id": "8",
         "title": "Bola Meriam Terbang",
-        "desc": "Dalam penjelajahan, memasuki pertempuran dengan cara menyerang musuh dari jarak yang sangat jauh menggunakan Natasha",
+        "desc": "Dalam penjelajahan, memasuki pertempuran dengan musuh atau menghancurkan objek yang bisa dihancurkan dengan cara menyerang dari jarak yang sangat jauh menggunakan Natasha",
         "hide_desc": "",
         "hide": true
     },
@@ -4476,6 +5260,150 @@
         "series_id": "7",
         "title": "Evaluasi Performa Kerja",
         "desc": "Menggunakan Aventurine untuk melancarkan serangan kemenangan melawan Senior Staff: Team Leader",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073201": {
+        "id": "4073201",
+        "series_id": "7",
+        "title": "JACKPOT!",
+        "desc": "Buat \"Dreamjolt Troupe's Fortune Seller\" mengeluarkan 1 kali \"Jackpot!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073202": {
+        "id": "4073202",
+        "series_id": "7",
+        "title": "Opera Sabun",
+        "desc": "Saat bertarung dengan \"Tomorrow in Harmonious Chords\", rata-rata ada #1 karakter tertidur",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073203": {
+        "id": "4073203",
+        "series_id": "7",
+        "title": "Drama Tragedi",
+        "desc": "Gunakan 1 karakter untuk menerima seluruh DMG dari kemampuan \"Desmios Evangelion\" milik \"Past Confined and Caged\" tanpa dikalahkan",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073204": {
+        "id": "4073204",
+        "series_id": "7",
+        "title": "Drama Ensambel",
+        "desc": "Pada tahap pertama \"The Past, Present, and Eternal Show\", buat #1 musuh bergantian menjadi \"Impresario\" sebanyak 1 kali",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073205": {
+        "id": "4073205",
+        "series_id": "7",
+        "title": "Drama Tunggal",
+        "desc": "Pada tahap kedua \"The Past, Present, and Eternal Show\", musuh melancarkan \"Dance for Synchrony\" maksimal 1 kali",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073206": {
+        "id": "4073206",
+        "series_id": "7",
+        "title": "Potongan Karya Sastra",
+        "desc": "Setelah \"Present Inebriated in Revelry\" memasuki status Charge, interupsi Charge miliknya.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073207": {
+        "id": "4073207",
+        "series_id": "7",
+        "title": "Durasi Sebuah Lagu",
+        "desc": "Dengarkan suara nyanyian Robin",
+        "hide_desc": "※ Setelah melancarkan Ultimate \"Vox Harmonique, Opus Cosmique\" dalam pertempuran, tonton Robin di antarmuka Kondisi Pertempuran selama lebih dari #1 detik",
+        "hide": false
+    },
+    "4073208": {
+        "id": "4073208",
+        "series_id": "7",
+        "title": "Peniup Seruling Hamelin",
+        "desc": "Setelah menggunakan Technique \"Overture of Inebriation\" milik Robin dalam penjelajahan, pancing lebih dari #1 musuh untuk mengikuti",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073209": {
+        "id": "4073209",
+        "series_id": "7",
+        "title": "Tarian Maksimal!",
+        "desc": "Dalam pertempuran, gunakan efek \"Backup Dancer\" dari Ultimate \"All-Out Footlight Parade\" milik {NICKNAME} — Harmony untuk mengalahkan 1 musuh elite",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073210": {
+        "id": "4073210",
+        "series_id": "7",
+        "title": "Kompetisi Pertaruhan Nyawa",
+        "desc": "Dalam pertempuran, rekan tim Boothill memperoleh total #1 lapis \"Pocket Trickshot\" dalam 1 giliran",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073211": {
+        "id": "4073211",
+        "series_id": "7",
+        "title": "Hari Kerja Tanpa Dewa",
+        "desc": "Kalahkan semua Echo of Faded Dreams sebelum \"Harmonious Choir\" The Great Septimus melancarkan \"Volteggiando\" atau \"Tempestoso\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4073212": {
+        "id": "4073212",
+        "series_id": "7",
+        "title": "Lalu, Hari Senin ....",
+        "desc": "Kumpulkan Shield yang cukup untuk sepenuhnya menangkis DMG yang diakibatkan oleh kemampuan \"Im Anfang war die Tat\" milik \"Embryo of Philosophy\" Sunday",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073301": {
+        "id": "4073301",
+        "series_id": "7",
+        "title": "Tim Khusus Planet Perayaan",
+        "desc": "Memenangkan 1 pertempuran dengan tim yang terdiri dari Topaz & Numby, Dr. Ratio, Aventurine, dan Jade",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073302": {
+        "id": "4073302",
+        "series_id": "7",
+        "title": "\"Selamatkan Kucing\"",
+        "desc": "Memenangkan 1 pertempuran dengan tim yang terdiri dari Silver Wolf, Blade, Kafka, dan Firefly",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073303": {
+        "id": "4073303",
+        "series_id": "7",
+        "title": "Perjanjian Mematikan",
+        "desc": "Dalam 1 pertempuran, mengonsumsi HP rekan tim yang memiliki efek \"Debt Collector\" dari Skill Jade hingga #1",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073304": {
+        "id": "4073304",
+        "series_id": "7",
+        "title": "Pergilah ... A— SAM",
+        "desc": "Gunakan Firefly untuk melawan Kafka dan membuat Firefly terkena status \"Dominated\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073305": {
+        "id": "4073305",
+        "series_id": "7",
+        "title": "Aku Akan Membakar Lautan!",
+        "desc": "Dalam 1 pertempuran, gunakan SAM untuk melancarkan #1 kali \"Fyrefly Type-IV: Deathstar Overload\" sebelum status \"Complete Combustion\" berakhir",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4073306": {
+        "id": "4073306",
+        "series_id": "7",
+        "title": "Berjumpa di Musim Panas",
+        "desc": "Memenangkan 1 pertempuran dengan tim yang terdiri dari Firefly dan {NICKNAME}",
         "hide_desc": "",
         "hide": true
     },
@@ -4974,6 +5902,30 @@
         "desc": "Tarik Burung Origami Besar di Dewlight Pavilion",
         "hide_desc": "",
         "hide": false
+    },
+    "4083202": {
+        "id": "4083202",
+        "series_id": "8",
+        "title": "Berhati-Hati Sebelum Bertindak",
+        "desc": "Setelah menempatkan Jembatan Gelembung Mimpi di Modul Mimpi, pindahkan Modul Mimpi tanpa melewati Jembatan Gelembung Mimpi",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083203": {
+        "id": "4083203",
+        "series_id": "8",
+        "title": "Patungan",
+        "desc": "※ Dalam 1 pertempuran yang sama, picu suara Aventurine \"Skill: 1\" dan Boothill \"Pertempuran Dimulai: Weakness Break\"",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4083301": {
+        "id": "4083301",
+        "series_id": "8",
+        "title": "Ikut Aturan Tamu",
+        "desc": "Berlari dan bermain di dalam kolam renang setelah memperoleh hak kepemilikan {TEXTJOIN#87}",
+        "hide_desc": "",
+        "hide": true
     },
     "4090201": {
         "id": "4090201",

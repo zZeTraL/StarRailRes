@@ -407,10 +407,8 @@
         "come_from": [
             "Salão Esquecido",
             "Pura Ficção",
-            "Eco da Guerra (Zona de Abastecimento)",
-            "Eco da Guerra (Colina do Inverno Eterno)",
-            "Eco da Guerra (Desfiladeiro Escamado Aquático)",
-            "Eco da Guerra (Zona de Reclusão)"
+            "Sombra Apocalíptica",
+            "Eco da Guerra"
         ]
     },
     "262": {
@@ -422,7 +420,8 @@
         "icon": "icon/item/262.png",
         "come_from": [
             "Salão Esquecido",
-            "Pura Ficção"
+            "Pura Ficção",
+            "Sombra Apocalíptica"
         ]
     },
     "271": {
@@ -877,6 +876,24 @@
         "icon": "icon/item/11003.png",
         "come_from": []
     },
+    "11309": {
+        "id": "11309",
+        "name": "Eidolon de Robin",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11310": {
+        "id": "11310",
+        "name": "Eidolon da Vaga-lume",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
     "11312": {
         "id": "11312",
         "name": "Eidolon de Misha",
@@ -884,6 +901,24 @@
         "sub_type": "Eidolon",
         "rarity": 4,
         "icon": "icon/item/11001.png",
+        "come_from": []
+    },
+    "11314": {
+        "id": "11314",
+        "name": "Eidolon da Jade",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11315": {
+        "id": "11315",
+        "name": "Eidolon de Boothill",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
         "come_from": []
     },
     "18001": {
@@ -928,6 +963,27 @@
         "sub_type": "Eidolon",
         "rarity": 5,
         "icon": "icon/item/18003.png",
+        "come_from": []
+    },
+    "18005": {
+        "id": "18005",
+        "name": "Sombra da Harmonia",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18005.png",
+        "come_from": [
+            "Recompensas de Missão de Desbravamento",
+            "Obtido ao melhorar a Estátua do Relogin"
+        ]
+    },
+    "18006": {
+        "id": "18006",
+        "name": "Sombra da Harmonia",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/18005.png",
         "come_from": []
     },
     "71000": {
@@ -1794,6 +1850,82 @@
             "Caverna da Corrosão: Devaneio (Mundonírico)"
         ]
     },
+    "81191": {
+        "id": "81191",
+        "name": "Cavalaria de Ferro Contra a Praga",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71032.png",
+        "come_from": []
+    },
+    "81192": {
+        "id": "81192",
+        "name": "Cavalaria de Ferro Contra a Praga",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71032.png",
+        "come_from": []
+    },
+    "81193": {
+        "id": "81193",
+        "name": "Cavalaria de Ferro Contra a Praga",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71032.png",
+        "come_from": []
+    },
+    "81194": {
+        "id": "81194",
+        "name": "Cavalaria de Ferro Contra a Praga",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71032.png",
+        "come_from": [
+            "Caverna da Corrosão: Grande Teatro de Penacony"
+        ]
+    },
+    "81201": {
+        "id": "81201",
+        "name": "Coragem Como Vento e Nuvem",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71033.png",
+        "come_from": []
+    },
+    "81202": {
+        "id": "81202",
+        "name": "Coragem Como Vento e Nuvem",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71033.png",
+        "come_from": []
+    },
+    "81203": {
+        "id": "81203",
+        "name": "Coragem Como Vento e Nuvem",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71033.png",
+        "come_from": []
+    },
+    "81204": {
+        "id": "81204",
+        "name": "Coragem Como Vento e Nuvem",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71033.png",
+        "come_from": [
+            "Caverna da Corrosão: Grande Teatro de Penacony"
+        ]
+    },
     "83011": {
         "id": "83011",
         "name": "Estação de Vedação Espacial",
@@ -1829,7 +1961,8 @@
         "rarity": 5,
         "icon": "icon/item/71012.png",
         "come_from": [
-            "Universo Simulado: Mundo 3 - Resgate do Dispositivo de Imersão"
+            "Universo Simulado: Mundo 3 - Resgate do Dispositivo de Imersão",
+            "Universo Divergente: Extração de Ornamentos Planos"
         ]
     },
     "83021": {
@@ -1867,7 +2000,8 @@
         "rarity": 5,
         "icon": "icon/item/71013.png",
         "come_from": [
-            "Universo Simulado: Mundo 3 - Resgate do Dispositivo de Imersão"
+            "Universo Simulado: Mundo 3 - Resgate do Dispositivo de Imersão",
+            "Universo Divergente: Extração de Ornamentos Planos"
         ]
     },
     "83031": {
@@ -1905,7 +2039,8 @@
         "rarity": 5,
         "icon": "icon/item/71014.png",
         "come_from": [
-            "Universo Simulado: Mundo 5 - Resgate do Dispositivo de Imersão"
+            "Universo Simulado: Mundo 5 - Resgate do Dispositivo de Imersão",
+            "Universo Divergente: Extração de Ornamentos Planos"
         ]
     },
     "83041": {
@@ -1943,7 +2078,8 @@
         "rarity": 5,
         "icon": "icon/item/71015.png",
         "come_from": [
-            "Universo Simulado: Mundo 6 - Resgate do Dispositivo de Imersão"
+            "Universo Simulado: Mundo 6 - Resgate do Dispositivo de Imersão",
+            "Universo Divergente: Extração de Ornamentos Planos"
         ]
     },
     "83051": {
@@ -1981,7 +2117,8 @@
         "rarity": 5,
         "icon": "icon/item/71016.png",
         "come_from": [
-            "Universo Simulado: Mundo 5 - Resgate do Dispositivo de Imersão"
+            "Universo Simulado: Mundo 5 - Resgate do Dispositivo de Imersão",
+            "Universo Divergente: Extração de Ornamentos Planos"
         ]
     },
     "83061": {
@@ -2019,7 +2156,8 @@
         "rarity": 5,
         "icon": "icon/item/71017.png",
         "come_from": [
-            "Universo Simulado: Mundo 6 - Resgate do Dispositivo de Imersão"
+            "Universo Simulado: Mundo 6 - Resgate do Dispositivo de Imersão",
+            "Universo Divergente: Extração de Ornamentos Planos"
         ]
     },
     "83071": {
@@ -2057,7 +2195,8 @@
         "rarity": 5,
         "icon": "icon/item/71018.png",
         "come_from": [
-            "Universo Simulado: Mundo 4 - Resgate do Dispositivo de Imersão"
+            "Universo Simulado: Mundo 4 - Resgate do Dispositivo de Imersão",
+            "Universo Divergente: Extração de Ornamentos Planos"
         ]
     },
     "83081": {
@@ -2095,7 +2234,8 @@
         "rarity": 5,
         "icon": "icon/item/71019.png",
         "come_from": [
-            "Universo Simulado: Mundo 4 - Resgate do Dispositivo de Imersão"
+            "Universo Simulado: Mundo 4 - Resgate do Dispositivo de Imersão",
+            "Universo Divergente: Extração de Ornamentos Planos"
         ]
     },
     "83091": {
@@ -2133,7 +2273,8 @@
         "rarity": 5,
         "icon": "icon/item/71022.png",
         "come_from": [
-            "Universo Simulado: Mundo 7 - Resgate do Dispositivo de Imersão"
+            "Universo Simulado: Mundo 7 - Resgate do Dispositivo de Imersão",
+            "Universo Divergente: Extração de Ornamentos Planos"
         ]
     },
     "83101": {
@@ -2171,7 +2312,8 @@
         "rarity": 5,
         "icon": "icon/item/71023.png",
         "come_from": [
-            "Universo Simulado: Mundo 7 - Resgate do Dispositivo de Imersão"
+            "Universo Simulado: Mundo 7 - Resgate do Dispositivo de Imersão",
+            "Universo Divergente: Extração de Ornamentos Planos"
         ]
     },
     "83111": {
@@ -2209,7 +2351,8 @@
         "rarity": 5,
         "icon": "icon/item/71026.png",
         "come_from": [
-            "Universo Simulado: Mundo 8 - Resgate do Dispositivo de Imersão"
+            "Universo Simulado: Mundo 8 - Resgate do Dispositivo de Imersão",
+            "Universo Divergente: Extração de Ornamentos Planos"
         ]
     },
     "83121": {
@@ -2247,7 +2390,8 @@
         "rarity": 5,
         "icon": "icon/item/71027.png",
         "come_from": [
-            "Universo Simulado: Mundo 8 - Resgate do Dispositivo de Imersão"
+            "Universo Simulado: Mundo 8 - Resgate do Dispositivo de Imersão",
+            "Universo Divergente: Extração de Ornamentos Planos"
         ]
     },
     "83131": {
@@ -2285,7 +2429,8 @@
         "rarity": 5,
         "icon": "icon/item/71030.png",
         "come_from": [
-            "Universo Simulado: Mundo 9 - Resgate do Dispositivo de Imersão"
+            "Universo Simulado: Mundo 9 - Resgate do Dispositivo de Imersão",
+            "Universo Divergente: Extração de Ornamentos Planos"
         ]
     },
     "83141": {
@@ -2323,7 +2468,84 @@
         "rarity": 5,
         "icon": "icon/item/71031.png",
         "come_from": [
-            "Universo Simulado: Mundo 9 - Resgate do Dispositivo de Imersão"
+            "Universo Simulado: Mundo 9 - Resgate do Dispositivo de Imersão",
+            "Universo Divergente: Extração de Ornamentos Planos"
+        ]
+    },
+    "83151": {
+        "id": "83151",
+        "name": "Duran, Dinastia dos Lobos Errantes",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71034.png",
+        "come_from": []
+    },
+    "83152": {
+        "id": "83152",
+        "name": "Duran, Dinastia dos Lobos Errantes",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71034.png",
+        "come_from": []
+    },
+    "83153": {
+        "id": "83153",
+        "name": "Duran, Dinastia dos Lobos Errantes",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71034.png",
+        "come_from": []
+    },
+    "83154": {
+        "id": "83154",
+        "name": "Duran, Dinastia dos Lobos Errantes",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71034.png",
+        "come_from": [
+            "Universo Divergente: Extração de Ornamentos Planos"
+        ]
+    },
+    "83161": {
+        "id": "83161",
+        "name": "Forja da Lanterna Kalpagni",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71035.png",
+        "come_from": []
+    },
+    "83162": {
+        "id": "83162",
+        "name": "Forja da Lanterna Kalpagni",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71035.png",
+        "come_from": []
+    },
+    "83163": {
+        "id": "83163",
+        "name": "Forja da Lanterna Kalpagni",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71035.png",
+        "come_from": []
+    },
+    "83164": {
+        "id": "83164",
+        "name": "Forja da Lanterna Kalpagni",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71035.png",
+        "come_from": [
+            "Universo Divergente: Extração de Ornamentos Planos"
         ]
     },
     "89001": {
@@ -2735,6 +2957,92 @@
             "Sintetizador Omni — Troca de Material"
         ]
     },
+    "110191": {
+        "id": "110191",
+        "name": "Bala Meteórica",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/110191.png",
+        "come_from": [
+            "Cálice: Local das Audições FelizAlma da Brasareia",
+            "Cálice: Local das Audições FelizAlma da Brasareia",
+            "Troca de Brasas",
+            "Sintetizador Omni — Troca de Material"
+        ]
+    },
+    "110192": {
+        "id": "110192",
+        "name": "Expiração do Destino",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/110192.png",
+        "come_from": [
+            "Cálice: Local das Audições FelizAlma da Brasareia",
+            "Cálice: Local das Audições FelizAlma da Brasareia",
+            "Sintetizador Omni — Síntese de Material",
+            "Troca de Brasas",
+            "Sintetizador Omni — Troca de Material"
+        ]
+    },
+    "110193": {
+        "id": "110193",
+        "name": "Tiro Contra-Temporal",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/110193.png",
+        "come_from": [
+            "Cálice: Local das Audições FelizAlma da Brasareia",
+            "Cálice: Local das Audições FelizAlma da Brasareia",
+            "Sintetizador Omni — Síntese de Material",
+            "Sintetizador Omni — Troca de Material"
+        ]
+    },
+    "110201": {
+        "id": "110201",
+        "name": "Esboço",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 2,
+        "icon": "icon/item/110201.png",
+        "come_from": [
+            "Cálice: Grande Teatro de Penacony",
+            "Cálice: Grande Teatro de Penacony",
+            "Troca de Brasas",
+            "Sintetizador Omni — Troca de Material"
+        ]
+    },
+    "110202": {
+        "id": "110202",
+        "name": "Contorno Dinâmico",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/110202.png",
+        "come_from": [
+            "Cálice: Grande Teatro de Penacony",
+            "Cálice: Grande Teatro de Penacony",
+            "Sintetizador Omni — Síntese de Material",
+            "Troca de Brasas",
+            "Sintetizador Omni — Troca de Material"
+        ]
+    },
+    "110203": {
+        "id": "110203",
+        "name": "Esboço Colorido Primoroso",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/110203.png",
+        "come_from": [
+            "Cálice: Grande Teatro de Penacony",
+            "Cálice: Grande Teatro de Penacony",
+            "Sintetizador Omni — Síntese de Material",
+            "Sintetizador Omni — Troca de Material"
+        ]
+    },
     "110211": {
         "id": "110211",
         "name": "Poeira Estelar Dispersa",
@@ -3101,6 +3409,19 @@
             "Sintetizador Omni — Troca de Material"
         ]
     },
+    "110421": {
+        "id": "110421",
+        "name": "Visto de Trabalho da CPI",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/110421.png",
+        "come_from": [
+            "Sombra Estagnada: Parque Temático dos Estúdios Clock",
+            "Sombra Estagnada: Parque Temático dos Estúdios Clock",
+            "Sintetizador Omni — Troca de Material"
+        ]
+    },
     "110422": {
         "id": "110422",
         "name": "Coração Violento",
@@ -3184,6 +3505,17 @@
             "Eco da Guerra (Zona de Reclusão)"
         ]
     },
+    "110505": {
+        "id": "110505",
+        "name": "Eco Perdido do Desejo Partilhado",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/110505.png",
+        "come_from": [
+            "Eco da Guerra: Grande Teatro de Penacony"
+        ]
+    },
     "111001": {
         "id": "111001",
         "name": "Núcleo Apagado",
@@ -3193,6 +3525,7 @@
         "icon": "icon/item/111001.png",
         "come_from": [
             "Certos Monstros do Fragmentum",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Recompensas de Atribuição",
             "Troca de Brasas",
@@ -3210,6 +3543,7 @@
         "come_from": [
             "Certos Monstros do Fragmentum no Nível de Equilíbrio 2 ou superior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3224,6 +3558,7 @@
         "come_from": [
             "Certos Monstros do Fragmentum no Nível de Equilíbrio 4 ou superior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3237,6 +3572,7 @@
         "icon": "icon/item/111011.png",
         "come_from": [
             "Legião Antimatéria",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Recompensas de Atribuição",
             "Troca de Brasas",
@@ -3254,6 +3590,7 @@
         "come_from": [
             "Legião Antimatéria no Nível de Equilíbrio 2 ou superior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3268,6 +3605,7 @@
         "come_from": [
             "Legião Antimatéria no Nível de Equilíbrio 4 ou superior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3282,6 +3620,7 @@
         "come_from": [
             "Sombrio do Inverno Eterno e Sombra de Incineração",
             "Guardas Crinalva e Andarilhos",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Recompensas de Atribuição",
             "Troca de Brasas",
@@ -3300,6 +3639,7 @@
             "Sombrio do Inverno Eterno e Sombra de Incineração no Nível de Equilíbrio 2 ou superior",
             "Guardas Crinalva e Andarilhos no Nível de Equilíbrio 2 ou superior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3315,6 +3655,7 @@
             "Sombrio do Inverno Eterno e Sombra de Incineração no Nível de Equilíbrio 4 ou superior",
             "Guardas Crinalva e Andarilhos no Nível de Equilíbrio 4 ou superior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3328,6 +3669,7 @@
         "icon": "icon/item/112011.png",
         "come_from": [
             "Autômatos",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Recompensas de Atribuição",
             "Troca de Brasas",
@@ -3345,6 +3687,7 @@
         "come_from": [
             "Autômatos no Nível de Equilíbrio 2 ou superior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3359,6 +3702,7 @@
         "come_from": [
             "Autômatos no Nível de Equilíbrio 4 ou superior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3372,6 +3716,7 @@
         "icon": "icon/item/113001.png",
         "come_from": [
             "Abominações da Abundância",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Recompensas de Atribuição",
             "Troca de Brasas",
@@ -3389,6 +3734,7 @@
         "come_from": [
             "Abominações da Abundância no Nível de Equilíbrio 2 ou superior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3403,6 +3749,7 @@
         "come_from": [
             "Abominações da Abundância no Nível de Equilíbrio 4 ou superior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3416,10 +3763,11 @@
         "icon": "icon/item/113011.png",
         "come_from": [
             "Magi-Engenhos",
-            "Sintetizador Omni — Troca de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
-            "Troca de Brasas",
             "Recompensas de Atribuição",
+            "Troca de Brasas",
+            "Sintetizador Omni — Troca de Material",
             "Cálice (Dourado)"
         ]
     },
@@ -3433,6 +3781,7 @@
         "come_from": [
             "Magi-Engenhos no Nível de Equilíbrio 2 ou superior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3447,6 +3796,7 @@
         "come_from": [
             "Magi-Engenhos no Nível de Equilíbrio 4 ou superior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3460,6 +3810,7 @@
         "icon": "icon/item/114001.png",
         "come_from": [
             "Trupe dos Pesadelos Amargos",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Recompensas de Atribuição",
             "Troca de Brasas",
@@ -3477,6 +3828,7 @@
         "come_from": [
             "Trupe dos Pesadelos Amargos no Nível de Equilíbrio 2 ou superior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3491,6 +3843,7 @@
         "come_from": [
             "Trupe dos Pesadelos Amargos no Nível de Equilíbrio 4 ou superior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3504,10 +3857,11 @@
         "icon": "icon/item/114011.png",
         "come_from": [
             "Obtenção de Mimema da Zona da Memória",
-            "Sintetizador Omni — Troca de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
-            "Troca de Brasas",
             "Recompensas de Atribuição",
+            "Troca de Brasas",
+            "Sintetizador Omni — Troca de Material",
             "Cálice (Dourado)"
         ]
     },
@@ -3521,6 +3875,7 @@
         "come_from": [
             "Mimema da Zona da Memória no Nível de Equilíbrio 2 ou superior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3535,6 +3890,7 @@
         "come_from": [
             "Mimema da Zona da Memória no Nível de Equilíbrio 4 ou maior",
             "Sintetizador Omni — Síntese de Material",
+            "Espólio deixado por inimigos no Universo Divergente",
             "Inimigos do Universo Simulado",
             "Sintetizador Omni — Troca de Material"
         ]
@@ -3606,6 +3962,17 @@
         "icon": "icon/item/121001.png",
         "come_from": [
             "Obtido ao aumentar seu nível de popularidade no \"Bosque dos Fantasmas\""
+        ]
+    },
+    "121002": {
+        "id": "121002",
+        "name": "Caderno de Inspiração Truquelógio",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/121002.png",
+        "come_from": [
+            "Obtém ao aumentar o progresso de Edição do Filme para \"Memórias de Sonhótimo\""
         ]
     },
     "122000": {
@@ -4929,7 +5296,7 @@
     },
     "140210": {
         "id": "140210",
-        "name": "Componente com uma Foto de Pela e Sua Mãe",
+        "name": "Disquete com uma Foto de Pela e Sua Mãe",
         "type": "Mission",
         "sub_type": "Mission",
         "rarity": 3,
@@ -6648,7 +7015,7 @@
     },
     "140414": {
         "id": "140414",
-        "name": "Token de Aventurine",
+        "name": "Ficha de Aventurine",
         "type": "Mission",
         "sub_type": "Mission",
         "rarity": 3,
@@ -7213,6 +7580,186 @@
         "icon": "icon/item/140400.png",
         "come_from": []
     },
+    "140477": {
+        "id": "140477",
+        "name": "\"Os Arquivos dos Tece-Sonhos\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "140478": {
+        "id": "140478",
+        "name": "Fotografia dos Arquivos",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140478.png",
+        "come_from": []
+    },
+    "140479": {
+        "id": "140479",
+        "name": "Foto em Grupo dos Tece-Sonhos",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140478.png",
+        "come_from": []
+    },
+    "140483": {
+        "id": "140483",
+        "name": "Rolo de Filme das \"Histórias Secundárias do Sr. Refri\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140483.png",
+        "come_from": []
+    },
+    "140484": {
+        "id": "140484",
+        "name": "Rolo de Filme das \"Histórias Secundárias do Irmão Hanu\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140484.png",
+        "come_from": []
+    },
+    "140485": {
+        "id": "140485",
+        "name": "Rolo de Filme das \"Histórias Secundárias do Chefe Pedreira\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140485.png",
+        "come_from": []
+    },
+    "140486": {
+        "id": "140486",
+        "name": "Rolo de Filme das \"Histórias Secundárias do Pássaro de Origami\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140486.png",
+        "come_from": []
+    },
+    "140487": {
+        "id": "140487",
+        "name": "Rolo de Filme das \"Histórias Secundárias do Velhote Madeira\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140487.png",
+        "come_from": []
+    },
+    "140488": {
+        "id": "140488",
+        "name": "Rolo de Filme das \"Histórias Secundárias do Cavaleiro Bola de Hamster\"",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140488.png",
+        "come_from": []
+    },
+    "140489": {
+        "id": "140489",
+        "name": "Sonhos Amargos",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140489.png",
+        "come_from": []
+    },
+    "140490": {
+        "id": "140490",
+        "name": "Doçura Submersa",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140490.png",
+        "come_from": []
+    },
+    "140491": {
+        "id": "140491",
+        "name": "Maravilhoso Mapa do Tesouro da Sparkle",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140099.png",
+        "come_from": []
+    },
+    "140492": {
+        "id": "140492",
+        "name": "Propriedade Perdida",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "140493": {
+        "id": "140493",
+        "name": "Coração Quebrado do Grande Relógio Onírico (I)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140493.png",
+        "come_from": []
+    },
+    "140494": {
+        "id": "140494",
+        "name": "Coração Quebrado do Grande Relógio Onírico (II)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140493.png",
+        "come_from": []
+    },
+    "140495": {
+        "id": "140495",
+        "name": "Coração Quebrado do Grande Relógio Onírico (III)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140493.png",
+        "come_from": []
+    },
+    "140498": {
+        "id": "140498",
+        "name": "Televisão (Edição Limitada)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/223905.png",
+        "come_from": []
+    },
+    "140499": {
+        "id": "140499",
+        "name": "Simbolo da Sorte",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140430.png",
+        "come_from": []
+    },
+    "140500": {
+        "id": "140500",
+        "name": "Miniatura do Expresso Astral (Edição Limitada)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140500.png",
+        "come_from": []
+    },
+    "140501": {
+        "id": "140501",
+        "name": "Página dos Sonhos Antigos",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140501.png",
+        "come_from": []
+    },
     "149957": {
         "id": "149957",
         "name": "Foto com a 7 de Março",
@@ -7771,6 +8318,33 @@
         "icon": "icon/item/140099.png",
         "come_from": []
     },
+    "150036": {
+        "id": "150036",
+        "name": "Coração Quebrado do Grande Relógio Onírico (I)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140493.png",
+        "come_from": []
+    },
+    "150037": {
+        "id": "150037",
+        "name": "Coração Quebrado do Grande Relógio Onírico (II)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140493.png",
+        "come_from": []
+    },
+    "150038": {
+        "id": "150038",
+        "name": "Coração Quebrado do Grande Relógio Onírico (III)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140493.png",
+        "come_from": []
+    },
     "150039": {
         "id": "150039",
         "name": "Foto em Grupo do Albergue dos Pesadelos",
@@ -7778,6 +8352,78 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/149975.png",
+        "come_from": []
+    },
+    "150040": {
+        "id": "150040",
+        "name": "Casquinha Sonhadora (Três Sabores)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/408801.png",
+        "come_from": []
+    },
+    "150041": {
+        "id": "150041",
+        "name": "OVNIBurger",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/408609.png",
+        "come_from": []
+    },
+    "150042": {
+        "id": "150042",
+        "name": "Pizza Relogin (Inteira)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/408610.png",
+        "come_from": []
+    },
+    "150043": {
+        "id": "150043",
+        "name": "Sundae de Batata Frita",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/408611.png",
+        "come_from": []
+    },
+    "150044": {
+        "id": "150044",
+        "name": "Rocamboles de Carvalho",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/408612.png",
+        "come_from": []
+    },
+    "150045": {
+        "id": "150045",
+        "name": "Refrigerante de Uva Branca Pikachuva",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/408613.png",
+        "come_from": []
+    },
+    "150046": {
+        "id": "150046",
+        "name": "FelizAlma Original",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 2,
+        "icon": "icon/item/401025.png",
+        "come_from": []
+    },
+    "150047": {
+        "id": "150047",
+        "name": "Cartão de Identificação {M#do Desbr-ave-ador}{F#da Desbr-ave-adora}",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/150047.png",
         "come_from": []
     },
     "180001": {
@@ -8999,7 +9645,7 @@
     },
     "190178": {
         "id": "190178",
-        "name": "Capítulo 1 do Conto das Terras Invernais: Longe de Casa (Parte 1)",
+        "name": "Capítulo 1 do Conto das Terras Invernais: Longe de Casa (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -9008,7 +9654,7 @@
     },
     "190179": {
         "id": "190179",
-        "name": "Capítulo 2 do Conto das Terras Invernais: Cidade Congelada (Parte 1)",
+        "name": "Capítulo 2 do Conto das Terras Invernais: Cidade Congelada (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -9017,7 +9663,7 @@
     },
     "190180": {
         "id": "190180",
-        "name": "Capítulo 2 do Conto das Terras Invernais: Cidade Congelada (Parte 2)",
+        "name": "Capítulo 2 do Conto das Terras Invernais: Cidade Congelada (II)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -9026,7 +9672,7 @@
     },
     "190181": {
         "id": "190181",
-        "name": "Capítulo 2 do Conto das Terras Invernais: Cidade Congelada (Parte 3)",
+        "name": "Capítulo 2 do Conto das Terras Invernais: Cidade Congelada (III)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -9035,7 +9681,7 @@
     },
     "190182": {
         "id": "190182",
-        "name": "Capítulo 4 do Conto das Terras Invernais: Pasto da Primavera (Parte 1)",
+        "name": "Capítulo 4 do Conto das Terras Invernais: Pasto da Primavera (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -9044,7 +9690,7 @@
     },
     "190183": {
         "id": "190183",
-        "name": "Capítulo 5 do Conto das Terras Invernais: Prisão de Água (Parte 1)",
+        "name": "Capítulo 5 do Conto das Terras Invernais: Prisão de Água (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -9053,7 +9699,7 @@
     },
     "190184": {
         "id": "190184",
-        "name": "Capítulo 6 do Conto das Terras Invernais: Reino de Lava (Parte 1)",
+        "name": "Capítulo 6 do Conto das Terras Invernais: Reino de Lava (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -9062,7 +9708,7 @@
     },
     "190185": {
         "id": "190185",
-        "name": "Capítulo 6 do Conto das Terras Invernais: Reino de Lava (Parte 2)",
+        "name": "Capítulo 6 do Conto das Terras Invernais: Reino de Lava (II)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -9071,7 +9717,7 @@
     },
     "190186": {
         "id": "190186",
-        "name": "Capítulo Final de Conto das Terras Invernais: Satelleden (Parte 1)",
+        "name": "Capítulo Final de Conto das Terras Invernais: Satelleden (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -9980,7 +10626,7 @@
     },
     "190287": {
         "id": "190287",
-        "name": "Anotações dos Pesquisadores (Parte 1)",
+        "name": "Anotações dos Pesquisadores (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -9989,7 +10635,7 @@
     },
     "190288": {
         "id": "190288",
-        "name": "Anotações dos Pesquisadores (Parte 2)",
+        "name": "Anotações dos Pesquisadores (II)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -9998,7 +10644,7 @@
     },
     "190289": {
         "id": "190289",
-        "name": "Anotações dos Pesquisadores (Parte 3)",
+        "name": "Anotações dos Pesquisadores (III)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10007,7 +10653,7 @@
     },
     "190290": {
         "id": "190290",
-        "name": "Anotações dos Pesquisadores (Parte 4)",
+        "name": "Anotações dos Pesquisadores (IV)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10016,7 +10662,7 @@
     },
     "190291": {
         "id": "190291",
-        "name": "Anotações dos Pesquisadores (Parte 5)",
+        "name": "Anotações dos Pesquisadores (V)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10025,7 +10671,7 @@
     },
     "190292": {
         "id": "190292",
-        "name": "Anotações dos Pesquisadores (Parte 6)",
+        "name": "Anotações dos Pesquisadores (VI)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10070,7 +10716,7 @@
     },
     "190297": {
         "id": "190297",
-        "name": "Diário de Pascal (Parte 1)",
+        "name": "Diário de Pascal (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10079,7 +10725,7 @@
     },
     "190298": {
         "id": "190298",
-        "name": "Diário de Pascal (Parte 2)",
+        "name": "Diário de Pascal (II)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10088,7 +10734,7 @@
     },
     "190299": {
         "id": "190299",
-        "name": "Diário de Pascal (Parte 3)",
+        "name": "Diário de Pascal (III)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10124,7 +10770,7 @@
     },
     "190303": {
         "id": "190303",
-        "name": "Quiz do Ministério da Educação (Parte 1)",
+        "name": "Quiz do Ministério da Educação (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10133,7 +10779,7 @@
     },
     "190304": {
         "id": "190304",
-        "name": "Quiz do Ministério da Educação (Parte 2)",
+        "name": "Quiz do Ministério da Educação (II)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10142,7 +10788,7 @@
     },
     "190305": {
         "id": "190305",
-        "name": "Quiz do Ministério da Educação (Parte 3)",
+        "name": "Quiz do Ministério da Educação (III)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10151,7 +10797,7 @@
     },
     "190306": {
         "id": "190306",
-        "name": "Quiz do Ministério da Educação (Parte 4)",
+        "name": "Quiz do Ministério da Educação (IV)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10160,7 +10806,7 @@
     },
     "190307": {
         "id": "190307",
-        "name": "Quiz do Ministério da Educação (Parte 5)",
+        "name": "Quiz do Ministério da Educação (V)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10169,7 +10815,7 @@
     },
     "190308": {
         "id": "190308",
-        "name": "Quiz do Ministério da Educação (Parte 6)",
+        "name": "Quiz do Ministério da Educação (VI)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10178,7 +10824,7 @@
     },
     "190309": {
         "id": "190309",
-        "name": "Quiz do Ministério da Educação (Parte 7)",
+        "name": "Quiz do Ministério da Educação (VII)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10187,7 +10833,7 @@
     },
     "190310": {
         "id": "190310",
-        "name": "Quiz do Ministério da Educação (Parte 8)",
+        "name": "Quiz do Ministério da Educação (VIII)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10241,7 +10887,7 @@
     },
     "190316": {
         "id": "190316",
-        "name": "Um Serviço Impróprio para uma Marionete (Parte 1)",
+        "name": "Um Serviço Impróprio para uma Marionete (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10250,7 +10896,7 @@
     },
     "190317": {
         "id": "190317",
-        "name": "Um Serviço Impróprio para uma Marionete (Parte 2)",
+        "name": "Um Serviço Impróprio para uma Marionete (II)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10259,7 +10905,7 @@
     },
     "190318": {
         "id": "190318",
-        "name": "Um Serviço Impróprio para uma Marionete (Parte 3)",
+        "name": "Um Serviço Impróprio para uma Marionete (III)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10268,7 +10914,7 @@
     },
     "190319": {
         "id": "190319",
-        "name": "Protegendo o Refúgio dos Esquifes Estelares (Parte 1)",
+        "name": "Protegendo o Refúgio dos Esquifes Estelares (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10277,7 +10923,7 @@
     },
     "190320": {
         "id": "190320",
-        "name": "Protegendo o Refúgio dos Esquifes Estelares (Parte 2)",
+        "name": "Protegendo o Refúgio dos Esquifes Estelares (II)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10286,7 +10932,7 @@
     },
     "190321": {
         "id": "190321",
-        "name": "Protegendo o Refúgio dos Esquifes Estelares (Parte 3)",
+        "name": "Protegendo o Refúgio dos Esquifes Estelares (III)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10790,7 +11436,7 @@
     },
     "190382": {
         "id": "190382",
-        "name": "Edição Especial da \"Sombra da Borboleta\": As Dez Melhores Imérsias de Borboleta do Milênio — N.º 3: \"Última Noite no Luofu\"",
+        "name": "Edição Especial da \"Sombra da Borboleta\": As Dez Melhores Imérsias de Borboleta do Milênio — N.º 3: \"As Últimas Noites no Luofu\"",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -10970,7 +11616,7 @@
     },
     "190402": {
         "id": "190402",
-        "name": "Um Estudo Sobre os Marafílicos (Parte 1)",
+        "name": "Um Estudo Sobre os Marafílicos (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11006,7 +11652,7 @@
     },
     "190406": {
         "id": "190406",
-        "name": "Diário de Dahao (Parte 1)",
+        "name": "Diário de Dahao (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11015,7 +11661,7 @@
     },
     "190407": {
         "id": "190407",
-        "name": "Diário de Dahao (Parte 2)",
+        "name": "Diário de Dahao (II)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11132,7 +11778,7 @@
     },
     "190422": {
         "id": "190422",
-        "name": "Um Apelo dos Vidyadhara (Parte 1)",
+        "name": "Um Apelo dos Vidyadhara (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11141,7 +11787,7 @@
     },
     "190423": {
         "id": "190423",
-        "name": "Um Apelo dos Vidyadhara (Parte 2)",
+        "name": "Um Apelo dos Vidyadhara (II)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11213,7 +11859,7 @@
     },
     "190431": {
         "id": "190431",
-        "name": "Diário de Dan Shu (Parte 1)",
+        "name": "Diário de Dan Shu (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11222,7 +11868,7 @@
     },
     "190432": {
         "id": "190432",
-        "name": "Diário de Dan Shu (Parte 2)",
+        "name": "Diário de Dan Shu (II)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11276,7 +11922,7 @@
     },
     "190438": {
         "id": "190438",
-        "name": "Compêndio de Remédios (Parte 1)",
+        "name": "Compêndio de Remédios (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11285,7 +11931,7 @@
     },
     "190439": {
         "id": "190439",
-        "name": "Compêndio de Remédios (Parte 2)",
+        "name": "Compêndio de Remédios (II)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11618,7 +12264,7 @@
     },
     "190476": {
         "id": "190476",
-        "name": "Vistas do Universo de Dentro de um Esquife Estelar: O Zhuming do Xianzhou (Parte 1)",
+        "name": "Vistas do Universo de Dentro de um Esquife Estelar: O Zhuming do Xianzhou (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11627,7 +12273,7 @@
     },
     "190477": {
         "id": "190477",
-        "name": "Vistas do Universo de Dentro de um Esquife Estelar: O Zhuming do Xianzhou (Parte 2)",
+        "name": "Vistas do Universo de Dentro de um Esquife Estelar: O Zhuming do Xianzhou (II)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11636,7 +12282,7 @@
     },
     "190478": {
         "id": "190478",
-        "name": "Vistas do Universo de Dentro de um Esquife Estelar: O Zhuming do Xianzhou (Parte 3)",
+        "name": "Vistas do Universo de Dentro de um Esquife Estelar: O Zhuming do Xianzhou (III)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11717,7 +12363,7 @@
     },
     "190487": {
         "id": "190487",
-        "name": "Uma Visão Geral da Crise da Fé na Aliança Xianzhou (Parte 1)",
+        "name": "Uma Visão Geral da Crise da Fé na Aliança Xianzhou (I)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11726,7 +12372,7 @@
     },
     "190488": {
         "id": "190488",
-        "name": "Uma Visão Geral da Crise da Fé na Aliança Xianzhou (Parte 2)",
+        "name": "Uma Visão Geral da Crise da Fé na Aliança Xianzhou (II)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11735,7 +12381,7 @@
     },
     "190489": {
         "id": "190489",
-        "name": "Uma Visão Geral da Crise da Fé na Aliança Xianzhou (Parte 3)",
+        "name": "Uma Visão Geral da Crise da Fé na Aliança Xianzhou (III)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11744,7 +12390,7 @@
     },
     "190490": {
         "id": "190490",
-        "name": "Uma Visão Geral da Crise da Fé na Aliança Xianzhou (Parte 4)",
+        "name": "Uma Visão Geral da Crise da Fé na Aliança Xianzhou (IV)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11960,7 +12606,7 @@
     },
     "190515": {
         "id": "190515",
-        "name": "Contos Noturnos do Jardim Flamavulpe: Cena Um (Parte 2)",
+        "name": "Contos Noturnos do Jardim Flamavulpe: Cena Um (II)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -11969,7 +12615,7 @@
     },
     "190516": {
         "id": "190516",
-        "name": "Contos Noturnos do Jardim Flamavulpe: Cena Um (Parte 3)",
+        "name": "Contos Noturnos do Jardim Flamavulpe: Cena Um (III)",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -12489,6 +13135,24 @@
         "icon": "icon/item/190015.png",
         "come_from": []
     },
+    "190574": {
+        "id": "190574",
+        "name": "Cartão Colecionável do Planeta das Festividades – Planeta das Festividades: Hanunue",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190575": {
+        "id": "190575",
+        "name": "Cartão Colecionável do Planeta das Festividades – Planeta das Festividades: Glaux",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
     "190576": {
         "id": "190576",
         "name": "Cartão Colecionável do Planeta das Festividades – Planeta das Festividades: Oti Alfafa",
@@ -12510,6 +13174,15 @@
     "190578": {
         "id": "190578",
         "name": "Cartão Colecionável do Planeta das Festividades – Planeta das Festividades: Sr. Aideen",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190579": {
+        "id": "190579",
+        "name": "Cartão Colecionável do Planeta das Festividades – Planeta das Festividades: Heróis Inominados",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -12696,6 +13369,33 @@
         "icon": "icon/item/190016.png",
         "come_from": []
     },
+    "190600": {
+        "id": "190600",
+        "name": "Relatório Investigativo sobre Clandestinos – Parte 1",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190013.png",
+        "come_from": []
+    },
+    "190601": {
+        "id": "190601",
+        "name": "Relatório Investigativo sobre Clandestinos – Parte 2",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190013.png",
+        "come_from": []
+    },
+    "190602": {
+        "id": "190602",
+        "name": "Guia de Voo de Penacony",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
     "190603": {
         "id": "190603",
         "name": "Comentários sobre \"Aventura em Brasareia\"",
@@ -12861,6 +13561,456 @@
     "190622": {
         "id": "190622",
         "name": "\"Aventuras de Hanu\" Parte 2, Capítulo 4",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190624": {
+        "id": "190624",
+        "name": "Cartão Colecionável do Planeta das Festividades – Planeta das Festividades: Tece-Sonhos de Origami",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190625": {
+        "id": "190625",
+        "name": "Propriedade Perdida",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190626": {
+        "id": "190626",
+        "name": "Tesouro de alguém",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190627": {
+        "id": "190627",
+        "name": "Guia de Viagem do Recife do Fluxonírico 19.0",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190628": {
+        "id": "190628",
+        "name": "\"Relogin e Capitão Revólver\" Parte 1",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190629": {
+        "id": "190629",
+        "name": "\"Relogin e Capitão Revólver\" Parte 2",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190630": {
+        "id": "190630",
+        "name": "\"Relogin e Capitão Revólver\" Parte 3",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190631": {
+        "id": "190631",
+        "name": "\"Aventuras de Hanu\" Parte 3, Capítulo 1",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190632": {
+        "id": "190632",
+        "name": "\"Aventuras de Hanu\" Parte 3, Capítulo 2",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190634": {
+        "id": "190634",
+        "name": "\"Histórias Secundárias do Sr. Refri\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190635": {
+        "id": "190635",
+        "name": "\"Histórias Secundárias do Chefe Pedreira\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190636": {
+        "id": "190636",
+        "name": "\"Histórias Secundárias do Irmão Hanu\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190637": {
+        "id": "190637",
+        "name": "\"Histórias Secundárias do Pássaro de Origami\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190638": {
+        "id": "190638",
+        "name": "\"Histórias Secundárias do Velhote Madeira\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190639": {
+        "id": "190639",
+        "name": "\"Histórias Secundárias do Cavaleiro Bola de Hamster\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190014.png",
+        "come_from": []
+    },
+    "190640": {
+        "id": "190640",
+        "name": "\"Os Arquivos dos Tece-Sonhos\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190641": {
+        "id": "190641",
+        "name": "Pistas Reunidas de Claudia (II)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190642": {
+        "id": "190642",
+        "name": "Morte do Corvo",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190643": {
+        "id": "190643",
+        "name": "A História da FelizAlma: Sonhos Engarrafados",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190644": {
+        "id": "190644",
+        "name": "Roteiro de \"Noite dos Sonhos em Chamas\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190645": {
+        "id": "190645",
+        "name": "Coleção de Casos de Violação de Audições",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190013.png",
+        "come_from": []
+    },
+    "190646": {
+        "id": "190646",
+        "name": "Cem Verdades sobre os Pepeshianos",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190647": {
+        "id": "190647",
+        "name": "\"Histórias Noturnas da Taverna: Edição Especial da FelizAlma\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190013.png",
+        "come_from": []
+    },
+    "190648": {
+        "id": "190648",
+        "name": "O Caminho Não Escolhido (I)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190649": {
+        "id": "190649",
+        "name": "O Caminho Não Escolhido (II)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190650": {
+        "id": "190650",
+        "name": "O Caminho Não Escolhido (III)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190651": {
+        "id": "190651",
+        "name": "O Caminho Não Escolhido (IV)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190652": {
+        "id": "190652",
+        "name": "O Caminho Não Escolhido (V)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190653": {
+        "id": "190653",
+        "name": "O Caminho Não Escolhido (VI)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190654": {
+        "id": "190654",
+        "name": "Isto_é_um_vírus_memético.exe",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190655": {
+        "id": "190655",
+        "name": "Rascunho da Proposta Comercial Arquivada (versão 7.0)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190656": {
+        "id": "190656",
+        "name": "Histórias Noturnas da Taverna: Edição Especial Haloviana",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190013.png",
+        "come_from": []
+    },
+    "190657": {
+        "id": "190657",
+        "name": "Carta a Ser Enviada",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190658": {
+        "id": "190658",
+        "name": "De Volta à Feldspato Radiante",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190013.png",
+        "come_from": []
+    },
+    "190659": {
+        "id": "190659",
+        "name": "Trecho de \"A História do Design de Aeronaves de Penacony\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190660": {
+        "id": "190660",
+        "name": "Sussurros das Elites: Correspondência de uma Repórter",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190661": {
+        "id": "190661",
+        "name": "Trecho de \"Era dos Sonhos: Registro de Capitães Lendários\"",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190662": {
+        "id": "190662",
+        "name": "Cartão Endereçado a uma Visitante",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190663": {
+        "id": "190663",
+        "name": "A Busca por Calipso",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190664": {
+        "id": "190664",
+        "name": "Diário de Viagem Fabricado",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190665": {
+        "id": "190665",
+        "name": "Lista de Refeições de Origem Desconhecida",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190666": {
+        "id": "190666",
+        "name": "Bilhete de Penhora Inválido",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190667": {
+        "id": "190667",
+        "name": "Anotações Sobre Bolha de Sonhos",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190668": {
+        "id": "190668",
+        "name": "Notas de Observação Sobre as Formas de Vida da Zona da Memória",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190669": {
+        "id": "190669",
+        "name": "As Obras Literárias Mais Vendidas do Mundonírico",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190013.png",
+        "come_from": []
+    },
+    "190670": {
+        "id": "190670",
+        "name": "Guia de Itinerário VIP",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190671": {
+        "id": "190671",
+        "name": "Contos de Fadas da Zona da Memória: O Navio Fantasma",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190672": {
+        "id": "190672",
+        "name": "Precauções Durante o Voo",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "190673": {
+        "id": "190673",
+        "name": "Convite Misterioso Recebido por Qingque",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190015.png",
+        "come_from": []
+    },
+    "190674": {
+        "id": "190674",
+        "name": "Bilhete Deixado por Gallagher",
         "type": "Usable",
         "sub_type": "Book",
         "rarity": 1,
@@ -13850,7 +15000,7 @@
     },
     "210316": {
         "id": "210316",
-        "name": "City Upon a Hill",
+        "name": "\"City Upon a Hill\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -13920,6 +15070,294 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210324": {
+        "id": "210324",
+        "name": "\"Into the Yawning Chasm\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210325": {
+        "id": "210325",
+        "name": "\"Dream First!\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210326": {
+        "id": "210326",
+        "name": "\"Speedy Hamz\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210327": {
+        "id": "210327",
+        "name": "\"Omertà\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210328": {
+        "id": "210328",
+        "name": "\"Polaris\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210329": {
+        "id": "210329",
+        "name": "\"Oed' und leer das Meer\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210330": {
+        "id": "210330",
+        "name": "\"Fast & Furynuts\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210331": {
+        "id": "210331",
+        "name": "\"Way of the Wolf\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210332": {
+        "id": "210332",
+        "name": "\"Infirma Nostri Corporis\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210333": {
+        "id": "210333",
+        "name": "\"Symphony No.8 'A Thousand Suns'\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210334": {
+        "id": "210334",
+        "name": "\"Hope Is the Thing With Feathers\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210335": {
+        "id": "210335",
+        "name": "\"Some Like It Hot\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210336": {
+        "id": "210336",
+        "name": "\"No Business Like Show Business\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210337": {
+        "id": "210337",
+        "name": "\"The Strength of Sin Is the Law\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210338": {
+        "id": "210338",
+        "name": "\"The Sting of Death Is Sin\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210339": {
+        "id": "210339",
+        "name": "\"The City in the Sea\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210340": {
+        "id": "210340",
+        "name": "\"A Star Is Born\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210341": {
+        "id": "210341",
+        "name": "\"An Actor Prepares\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210342": {
+        "id": "210342",
+        "name": "\"Little Little Caesar\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210343": {
+        "id": "210343",
+        "name": "\"Nobility of Time\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210344": {
+        "id": "210344",
+        "name": "\"Walk of Fame\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210345": {
+        "id": "210345",
+        "name": "\"Lux Aeterna\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210346": {
+        "id": "210346",
+        "name": "\"Hosanna in Excelsis\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210347": {
+        "id": "210347",
+        "name": "\"Confutatis\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210348": {
+        "id": "210348",
+        "name": "\"Agnus Aeon\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210349": {
+        "id": "210349",
+        "name": "\"Requiem Aeternam\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210350": {
+        "id": "210350",
+        "name": "\"Sway to My Beat in Cosmos\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210351": {
+        "id": "210351",
+        "name": "\"Hope Is the Thing With Feathers (Overture)\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210352": {
+        "id": "210352",
+        "name": "\"Morns Like These\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210353": {
+        "id": "210353",
+        "name": "\"Now, Voyager\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210354": {
+        "id": "210354",
+        "name": "\"La Messe de l'athée\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210355": {
+        "id": "210355",
+        "name": "\"Had I Not Seen the Sun\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "220000": {
         "id": "220000",
         "name": "A Arte do Idioma",
@@ -13973,6 +15411,17 @@
         "icon": "icon/item/220004.png",
         "come_from": [
             "Obtém de Vinhetas em um Copo"
+        ]
+    },
+    "220005": {
+        "id": "220005",
+        "name": "Cinemática dos Caçadores de Sonhos",
+        "type": "Usable",
+        "sub_type": "ChatBubble",
+        "rarity": 4,
+        "icon": "icon/item/220005.png",
+        "come_from": [
+            "Caixa de Bate-Papo obtida do evento \"Memórias de Sonhótimo\""
         ]
     },
     "221000": {
@@ -14037,6 +15486,17 @@
         "icon": "icon/item/221005.png",
         "come_from": [
             "Obtém no evento \"Cosmodisseia\"."
+        ]
+    },
+    "221006": {
+        "id": "221006",
+        "name": "Tarefa em Progresso",
+        "type": "Usable",
+        "sub_type": "PhoneTheme",
+        "rarity": 4,
+        "icon": "icon/item/221006.png",
+        "come_from": [
+            "Papel de parede de celular obtido no Universo Divergente: A Comédia Humana"
         ]
     },
     "222000": {
@@ -14145,6 +15605,24 @@
         "sub_type": "TravelBrochurePaster",
         "rarity": 4,
         "icon": "icon/item/223010.png",
+        "come_from": []
+    },
+    "223011": {
+        "id": "223011",
+        "name": "Boothill",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223011.png",
+        "come_from": []
+    },
+    "223012": {
+        "id": "223012",
+        "name": "Argenti",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223012.png",
         "come_from": []
     },
     "223020": {
@@ -14280,6 +15758,15 @@
         "sub_type": "TravelBrochurePaster",
         "rarity": 4,
         "icon": "icon/item/223059.png",
+        "come_from": []
+    },
+    "223060": {
+        "id": "223060",
+        "name": "Jazz",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223060.png",
         "come_from": []
     },
     "223080": {
@@ -15182,6 +16669,15 @@
         "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
+    "223412": {
+        "id": "223412",
+        "name": "Vaidade Insaciável",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223412.png",
+        "come_from": []
+    },
     "223430": {
         "id": "223430",
         "name": "Perdido (I)",
@@ -15596,6 +17092,15 @@
         "icon": "icon/item/223706.png",
         "come_from": []
     },
+    "223707": {
+        "id": "223707",
+        "name": "Glaux",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223707.png",
+        "come_from": []
+    },
     "223708": {
         "id": "223708",
         "name": "Hamz",
@@ -15605,6 +17110,15 @@
         "icon": "icon/item/223708.png",
         "come_from": []
     },
+    "223709": {
+        "id": "223709",
+        "name": "Hanunue",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223709.png",
+        "come_from": []
+    },
     "223710": {
         "id": "223710",
         "name": "Lesley Dean",
@@ -15612,6 +17126,15 @@
         "sub_type": "TravelBrochurePaster",
         "rarity": 4,
         "icon": "icon/item/223710.png",
+        "come_from": []
+    },
+    "223711": {
+        "id": "223711",
+        "name": "Herói Inominado",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223711.png",
         "come_from": []
     },
     "223712": {
@@ -15639,6 +17162,15 @@
         "sub_type": "TravelBrochurePaster",
         "rarity": 4,
         "icon": "icon/item/223714.png",
+        "come_from": []
+    },
+    "223715": {
+        "id": "223715",
+        "name": "Cinco Origamistas Célebres",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223715.png",
         "come_from": []
     },
     "223731": {
@@ -15680,6 +17212,654 @@
     "223735": {
         "id": "223735",
         "name": "Ensinamentos da Família Iris",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "223800": {
+        "id": "223800",
+        "name": "Grafite 1",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223800.png",
+        "come_from": []
+    },
+    "223801": {
+        "id": "223801",
+        "name": "Grafite 2",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223801.png",
+        "come_from": []
+    },
+    "223802": {
+        "id": "223802",
+        "name": "Grafite 3",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223802.png",
+        "come_from": []
+    },
+    "223803": {
+        "id": "223803",
+        "name": "Repouso na Rua",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223803.png",
+        "come_from": []
+    },
+    "223804": {
+        "id": "223804",
+        "name": "Chapéu do Relojoeiro",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223804.png",
+        "come_from": []
+    },
+    "223805": {
+        "id": "223805",
+        "name": "Torpor de Mikhail",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223805.png",
+        "come_from": []
+    },
+    "223806": {
+        "id": "223806",
+        "name": "A Existência Divina",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223806.png",
+        "come_from": []
+    },
+    "223807": {
+        "id": "223807",
+        "name": "Velho Amigo",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223807.png",
+        "come_from": []
+    },
+    "223808": {
+        "id": "223808",
+        "name": "Cidade Adormecida",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223808.png",
+        "come_from": []
+    },
+    "223809": {
+        "id": "223809",
+        "name": "A Essência dos Sonhos",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223809.png",
+        "come_from": []
+    },
+    "223811": {
+        "id": "223811",
+        "name": "Diário Perdido: Soldado",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "223812": {
+        "id": "223812",
+        "name": "Diário Perdido: Dançarino",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "223813": {
+        "id": "223813",
+        "name": "Diário Perdido: Andarilho",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "223814": {
+        "id": "223814",
+        "name": "Diário Perdido: Homem Rico",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "223901": {
+        "id": "223901",
+        "name": "No Set",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223901.png",
+        "come_from": []
+    },
+    "223902": {
+        "id": "223902",
+        "name": "Embaixador de Marca",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223902.png",
+        "come_from": []
+    },
+    "223903": {
+        "id": "223903",
+        "name": "Ação!",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223903.png",
+        "come_from": []
+    },
+    "223904": {
+        "id": "223904",
+        "name": "Patrocinador",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223904.png",
+        "come_from": []
+    },
+    "223905": {
+        "id": "223905",
+        "name": "Campo Base",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223905.png",
+        "come_from": []
+    },
+    "223906": {
+        "id": "223906",
+        "name": "Gigante Solitário",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223906.png",
+        "come_from": []
+    },
+    "223907": {
+        "id": "223907",
+        "name": "Ponto de Início do Festival",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223907.png",
+        "come_from": []
+    },
+    "223908": {
+        "id": "223908",
+        "name": "O Nascimento de uma Superestrela",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/223908.png",
+        "come_from": []
+    },
+    "223911": {
+        "id": "223911",
+        "name": "Nota do Competidor Vulpe",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "223912": {
+        "id": "223912",
+        "name": "Nota do Participante Mascarado",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "223913": {
+        "id": "223913",
+        "name": "Nota do Participante Cavaleiro da Beleza",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "224001": {
+        "id": "224001",
+        "name": "Olho Que Tudo Vê",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224001.png",
+        "come_from": []
+    },
+    "224002": {
+        "id": "224002",
+        "name": "Intervalo",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224002.png",
+        "come_from": []
+    },
+    "224003": {
+        "id": "224003",
+        "name": "Onde a Luz das Estrelas se Congregam",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224003.png",
+        "come_from": []
+    },
+    "224004": {
+        "id": "224004",
+        "name": "Lista de Programas",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224004.png",
+        "come_from": []
+    },
+    "224005": {
+        "id": "224005",
+        "name": "Dançarino 1",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224005.png",
+        "come_from": []
+    },
+    "224006": {
+        "id": "224006",
+        "name": "Dançarino 2",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224006.png",
+        "come_from": []
+    },
+    "224007": {
+        "id": "224007",
+        "name": "Dançarino 3",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224007.png",
+        "come_from": []
+    },
+    "224008": {
+        "id": "224008",
+        "name": "Amanhã em Acordes Harmoniosos",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224008.png",
+        "come_from": []
+    },
+    "224009": {
+        "id": "224009",
+        "name": "Presente Embriagado em Folia",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224009.png",
+        "come_from": []
+    },
+    "224010": {
+        "id": "224010",
+        "name": "Passado Confinado e Enjaulado",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/224010.png",
+        "come_from": []
+    },
+    "224011": {
+        "id": "224011",
+        "name": "Ensaio Geral (I)",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "224012": {
+        "id": "224012",
+        "name": "Ensaio Geral (II)",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "224013": {
+        "id": "224013",
+        "name": "Ensaio Geral (Parte III)",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "225001": {
+        "id": "225001",
+        "name": "Vaga-lume",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225001.png",
+        "come_from": []
+    },
+    "225002": {
+        "id": "225002",
+        "name": "Caçador de Stellaron: SAM",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225002.png",
+        "come_from": []
+    },
+    "225003": {
+        "id": "225003",
+        "name": "Aventurine",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225003.png",
+        "come_from": []
+    },
+    "225004": {
+        "id": "225004",
+        "name": "Akavasha",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225004.png",
+        "come_from": []
+    },
+    "225005": {
+        "id": "225005",
+        "name": "Topaz",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225005.png",
+        "come_from": []
+    },
+    "225006": {
+        "id": "225006",
+        "name": "Dr. Ratio",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225006.png",
+        "come_from": []
+    },
+    "225007": {
+        "id": "225007",
+        "name": "Jade",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225007.png",
+        "come_from": []
+    },
+    "225008": {
+        "id": "225008",
+        "name": "Cisne Negro",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225008.png",
+        "come_from": []
+    },
+    "225009": {
+        "id": "225009",
+        "name": "Acheron",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225009.png",
+        "come_from": []
+    },
+    "225010": {
+        "id": "225010",
+        "name": "Sparkle",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225010.png",
+        "come_from": []
+    },
+    "225011": {
+        "id": "225011",
+        "name": "Bomba da Srta. Sparkle",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225011.png",
+        "come_from": []
+    },
+    "225012": {
+        "id": "225012",
+        "name": "Misha",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225012.png",
+        "come_from": []
+    },
+    "225013": {
+        "id": "225013",
+        "name": "Gallagher",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225013.png",
+        "come_from": []
+    },
+    "225014": {
+        "id": "225014",
+        "name": "Robin",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225014.png",
+        "come_from": []
+    },
+    "225015": {
+        "id": "225015",
+        "name": "Sunday",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225015.png",
+        "come_from": []
+    },
+    "225016": {
+        "id": "225016",
+        "name": "Boothill",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225016.png",
+        "come_from": []
+    },
+    "225017": {
+        "id": "225017",
+        "name": "Argenti",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225017.png",
+        "come_from": []
+    },
+    "225018": {
+        "id": "225018",
+        "name": "Siobhan",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225018.png",
+        "come_from": []
+    },
+    "225019": {
+        "id": "225019",
+        "name": "Micah",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225019.png",
+        "come_from": []
+    },
+    "225020": {
+        "id": "225020",
+        "name": "Lorde Lata de Lixo",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225020.png",
+        "come_from": []
+    },
+    "225021": {
+        "id": "225021",
+        "name": "Relogin",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225021.png",
+        "come_from": []
+    },
+    "225022": {
+        "id": "225022",
+        "name": "Irmão Hanu",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225022.png",
+        "come_from": []
+    },
+    "225023": {
+        "id": "225023",
+        "name": "Dr. Azul",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225023.png",
+        "come_from": []
+    },
+    "225024": {
+        "id": "225024",
+        "name": "Gerente Verdejante",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225024.png",
+        "come_from": []
+    },
+    "225025": {
+        "id": "225025",
+        "name": "Dama Vermilion",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225027.png",
+        "come_from": []
+    },
+    "225026": {
+        "id": "225026",
+        "name": "Chefe Vermelho",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225026.png",
+        "come_from": []
+    },
+    "225027": {
+        "id": "225027",
+        "name": "Jovem Mestre Dourado",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225025.png",
+        "come_from": []
+    },
+    "225028": {
+        "id": "225028",
+        "name": "{NICKNAME}",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225028.png",
+        "come_from": []
+    },
+    "225029": {
+        "id": "225029",
+        "name": "{NICKNAME}",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/225029.png",
+        "come_from": []
+    },
+    "225030": {
+        "id": "225030",
+        "name": "Encontros e Despedidas (I)",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "225031": {
+        "id": "225031",
+        "name": "Encontros e Despedidas (II)",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "225032": {
+        "id": "225032",
+        "name": "Encontros e Despedidas (III)",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "225033": {
+        "id": "225033",
+        "name": "O Final Perfeito (I)",
+        "type": "Usable",
+        "sub_type": "TravelBrochurePaster",
+        "rarity": 4,
+        "icon": "icon/item/TBComStickIcon.png",
+        "come_from": []
+    },
+    "225034": {
+        "id": "225034",
+        "name": "O Final Perfeito (II)",
         "type": "Usable",
         "sub_type": "TravelBrochurePaster",
         "rarity": 4,
@@ -17576,6 +19756,24 @@
         "icon": "icon/item/IconRogueDlcDiceFaceI9.png",
         "come_from": []
     },
+    "250601": {
+        "id": "250601",
+        "name": "O Caminho do Medíocre",
+        "type": "Usable",
+        "sub_type": "RogueMedal",
+        "rarity": 4,
+        "icon": "icon/item/IconRogueTournCollection_TournMedal.png",
+        "come_from": []
+    },
+    "250602": {
+        "id": "250602",
+        "name": "Herta: Edição de Colecionador",
+        "type": "Usable",
+        "sub_type": "RogueMedal",
+        "rarity": 4,
+        "icon": "icon/item/IconRogueTournCollection_HertaPigeon.png",
+        "come_from": []
+    },
     "270000": {
         "id": "270000",
         "name": "Sempre Sorrindo",
@@ -17710,6 +19908,60 @@
         "sub_type": "Virtual",
         "rarity": 3,
         "icon": "icon/item/281017.png",
+        "come_from": []
+    },
+    "281018": {
+        "id": "281018",
+        "name": "Inspiração",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/281018.png",
+        "come_from": []
+    },
+    "281019": {
+        "id": "281019",
+        "name": "Tokens de Guaxinim",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/281019.png",
+        "come_from": []
+    },
+    "281020": {
+        "id": "281020",
+        "name": "Experiência de Direção",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/270001.png",
+        "come_from": []
+    },
+    "281021": {
+        "id": "281021",
+        "name": "Rolo de Filme de \"Memórias de Sonhótimo\"",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/281001.png",
+        "come_from": []
+    },
+    "281022": {
+        "id": "281022",
+        "name": "Pontos de Sincronicidade",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/281022.png",
+        "come_from": []
+    },
+    "281024": {
+        "id": "281024",
+        "name": "",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/Icon_Testmaterial01.png",
         "come_from": []
     },
     "300002": {
@@ -17886,6 +20138,15 @@
     "309003": {
         "id": "309003",
         "name": "Encontro Destinado: Vinhetas em um Copo",
+        "type": "Usable",
+        "sub_type": "ForceOpitonalGift",
+        "rarity": 4,
+        "icon": "icon/item/309001.png",
+        "come_from": []
+    },
+    "309004": {
+        "id": "309004",
+        "name": "Encontro Destinado: Choque de Pássaro de Origami",
         "type": "Usable",
         "sub_type": "ForceOpitonalGift",
         "rarity": 4,
@@ -18199,7 +20460,7 @@
     },
     "401016": {
         "id": "401016",
-        "name": "Coçacostas",
+        "name": "Autarquia",
         "type": "Usable",
         "sub_type": "Food",
         "rarity": 2,
@@ -18777,6 +21038,18 @@
             "Loja de Ofertas do Mundonírico"
         ]
     },
+    "403011": {
+        "id": "403011",
+        "name": "Caixa de Sustos",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 4,
+        "icon": "icon/item/403011.png",
+        "come_from": [
+            "Sintetizador Omni",
+            "Kirk"
+        ]
+    },
     "404004": {
         "id": "404004",
         "name": "Receita: Comida Energética",
@@ -18941,7 +21214,7 @@
     },
     "405016": {
         "id": "405016",
-        "name": "Receita: Coçacostas",
+        "name": "Receita: Autarquia",
         "type": "Usable",
         "sub_type": "Formula",
         "rarity": 2,
@@ -19398,6 +21671,15 @@
         "icon": "icon/item/404001.png",
         "come_from": []
     },
+    "407011": {
+        "id": "407011",
+        "name": "Receita: Caixa de Sustos",
+        "type": "Usable",
+        "sub_type": "Formula",
+        "rarity": 4,
+        "icon": "icon/item/404001.png",
+        "come_from": []
+    },
     "408001": {
         "id": "408001",
         "name": "Lixo",
@@ -19731,6 +22013,94 @@
             "Loja de Ofertas do Mundonírico"
         ]
     },
+    "408419": {
+        "id": "408419",
+        "name": "Hambúrguer Alado Haloviano",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408419.png",
+        "come_from": [
+            "Lanchinho da Jessie"
+        ]
+    },
+    "408420": {
+        "id": "408420",
+        "name": "Blocos da Desilusão",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408420.png",
+        "come_from": [
+            "Kirk"
+        ]
+    },
+    "408421": {
+        "id": "408421",
+        "name": "Brinquedo de \"Pássaro Vazio\"",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408421.png",
+        "come_from": [
+            "Kirk"
+        ]
+    },
+    "408422": {
+        "id": "408422",
+        "name": "Sucão do Sousa Autêntico",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408422.png",
+        "come_from": [
+            "Lanchinho da Jessie"
+        ]
+    },
+    "408423": {
+        "id": "408423",
+        "name": "Soda de Lixo",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408423.png",
+        "come_from": [
+            "Vendedora de Lanches"
+        ]
+    },
+    "408424": {
+        "id": "408424",
+        "name": "Olá e Adeus",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408424.png",
+        "come_from": [
+            "Dahf"
+        ]
+    },
+    "408425": {
+        "id": "408425",
+        "name": "Carvalho Branco de Asdana",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408425.png",
+        "come_from": [
+            "Dahf"
+        ]
+    },
+    "408426": {
+        "id": "408426",
+        "name": "Prova de Confiança",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408426.png",
+        "come_from": [
+            "Vendedora de Lanches"
+        ]
+    },
     "408601": {
         "id": "408601",
         "name": "Linguiça de Belobog",
@@ -19980,6 +22350,83 @@
         "icon": "icon/item/408623.png",
         "come_from": [
             "Restaurante Temático de Sonhópolis"
+        ]
+    },
+    "408624": {
+        "id": "408624",
+        "name": "Acidez Policromática",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408624.png",
+        "come_from": [
+            "Lanchinho da Jessie"
+        ]
+    },
+    "408625": {
+        "id": "408625",
+        "name": "Cubo Insolúvel",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408625.png",
+        "come_from": [
+            "Kirk"
+        ]
+    },
+    "408626": {
+        "id": "408626",
+        "name": "Rugido da Corda Arrebentada",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408626.png",
+        "come_from": [
+            "Banda Automática"
+        ]
+    },
+    "408627": {
+        "id": "408627",
+        "name": "Satisfação Silenciosa",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408627.png",
+        "come_from": [
+            "Banda Automática"
+        ]
+    },
+    "408628": {
+        "id": "408628",
+        "name": "Figure Colecionável de Edição Limitada da Sparkle",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408628.png",
+        "come_from": [
+            "Vendedora de Lanches"
+        ]
+    },
+    "408629": {
+        "id": "408629",
+        "name": "Aços d'Ouro",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408629.png",
+        "come_from": [
+            "Vendedora de Lanches"
+        ]
+    },
+    "408630": {
+        "id": "408630",
+        "name": "Aços d'Ouro",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408630.png",
+        "come_from": [
+            "Vendedora de Lanches"
         ]
     },
     "408801": {

@@ -644,10 +644,30 @@
         "name": "Buổi Hòa Nhạc Hai Người",
         "rarity": 4,
         "path": "Knight",
-        "desc": "\"Anh à, đây là...\" \n\"Đã lâu rồi em không được hát một cách vui vẻ nữa nhỉ... Anh đã chuẩn bị sân khấu cho em rồi, chỉ là... có chút sơ sài.\"\n\"Nhưng giáo viên cảm thấy em không phù hợp...\"\n\"Không, anh thấy rất hay! Sau này em nhất định sẽ thực hiện được ước mơ của mình, đứng hát trên sân khấu lớn hơn nữa...\"\n...\nRất nhiều năm sau đó, cô đứng trên sân khấu tráng lệ, nhìn những người hâm mộ hò reo bên dưới, nhưng lại ngẩn người trong giây lát...\nTrên con đường theo đuổi giấc mơ dài đằng đẵng, cô luôn nhớ tới ánh mắt tin tưởng đó và buổi \"hòa nhạc\" đầu tiên của mình.\nKhông có ánh đèn rực rỡ, không có trang phục hoa lệ, chỉ có một sân khấu của một đứa trẻ, dựng lên để cổ vũ một đứa trẻ khác theo đuổi ước mơ.\n\"Bây giờ, giấc mơ của chúng ta đều đã thành hiện thực. Nhưng... đó vẫn còn là giấc mơ của \"chúng ta\" sao...\"\nCô ấy nắm chặt micro. Trước khi bài hát tiếp theo bắt đầu, cô thậm chí còn không kịp cảm thấy đau buồn.",
+        "desc": "\"Anh à, đây là...\"\n\"Đã lâu rồi em không được hát một cách vui vẻ nữa nhỉ... Anh đã chuẩn bị sân khấu cho em rồi, chỉ là... có chút sơ sài.\"\n\"Nhưng giáo viên cảm thấy em không phù hợp...\"\n\"Không, anh thấy rất hay! Sau này em nhất định sẽ thực hiện được ước mơ của mình, đứng hát trên sân khấu lớn hơn nữa...\"\n...\nRất nhiều năm sau đó, cô đứng trên sân khấu tráng lệ, nhìn những người hâm mộ hò reo bên dưới, nhưng lại ngẩn người trong giây lát...\nTrên con đường theo đuổi giấc mơ dài đằng đẵng, cô luôn nhớ tới ánh mắt tin tưởng đó và buổi \"hòa nhạc\" đầu tiên của mình.\nKhông có ánh đèn rực rỡ, không có trang phục hoa lệ, chỉ có sân khấu của một đứa trẻ, dựng lên để cổ vũ một đứa trẻ khác theo đuổi ước mơ.\n\"Bây giờ, giấc mơ của chúng ta đều đã thành hiện thực. Nhưng... đó vẫn còn là giấc mơ của \"chúng ta\" sao...\"\nCô ấy nắm chặt micro. Trước khi bài hát tiếp theo bắt đầu, cô thậm chí còn không kịp cảm thấy đau buồn.",
         "icon": "icon/light_cone/21043.png",
         "preview": "image/light_cone_preview/21043.png",
         "portrait": "image/light_cone_portrait/21043.png"
+    },
+    "21044": {
+        "id": "21044",
+        "name": "Vũ Điệu Vô Biên",
+        "rarity": 4,
+        "path": "Warlock",
+        "desc": "Bước nhảy nhẹ nhàng, ánh sáng và bóng tối lặng lẽ đan xen. Cô nắm lấy tay đối phương, mỉm cười nhìn đôi mắt lạnh nhạt đó.\n\"Cảnh binh xinh đẹp... Chào mừng đến với vũ đài của \"Ký Ức\". Ở khoảng cách này... Cô lại càng thêm quyến rũ.\"\nXung quanh dần tối đen, một chùm sáng từ mái vòm tràn xuống, đuổi theo bước nhảy không ngừng thay đổi của hai người.\n\"Có điều, có một số người vốn dĩ nên nhảy cùng chúng ta, nhưng họ mãi không đến...\"\nVào khoảnh khắc xoay tròn, cô tiến lại gần gương mặt không chút biểu cảm đó, nắm chặt bàn tay lạnh lẽo, khẽ hỏi...\n\"Có thể nói cho tôi biết, cô đã làm gì không?\"\nTheo bước nhảy ngày càng dồn dập, những mảnh vụn quá khứ tràn vào đầu cô từ ngón tay.\nTrong quá khứ ngày một xa vời, cô nghe thấy tiếng mưa, nghe thấy tiếng thở than trước khi sự sống kết thúc, sau đó cô nhìn thấy vũ công trước mặt đang cầm chiếc ô giấy đỏ như máu trong cơn mưa mịt mờ, và trong tầm mắt của cô...\nVô số thi thể của người chết đuối đang trôi nổi giữa dòng nước lũ.\nCô hoảng hốt muốn rút tay ra, và ngã về phía sau.\nXung quanh lại sáng lên, tiếng huyên náo của buổi tiệc lại xuất hiện, đối phương nhẹ nhàng đỡ lưng cô, dường như hoàn toàn không biết vừa xảy ra chuyện gì.\n\"Người Lưu Giữ Ký Ức, điệu nhảy rất đẹp, muốn nhảy lại lần nữa không?\"",
+        "icon": "icon/light_cone/21044.png",
+        "preview": "image/light_cone_preview/21044.png",
+        "portrait": "image/light_cone_portrait/21044.png"
+    },
+    "21045": {
+        "id": "21045",
+        "name": "Sau Sự Im Lặng Hài Hòa",
+        "rarity": 4,
+        "path": "Mage",
+        "desc": "Mộng đẹp vĩnh hằng hằng mong ước đã tan biến trong chớp mắt. Khi rơi xuống mặt đất, anh không hề bi thương, chỉ muốn nhắm mắt lại.\nHành trình cũ đã đứt đoạn, tương lai vẫn chìm trong sương mù.\n\"Sau khi tỉnh dậy, thế giới vẫn đang trải qua vòng lặp đau đớn, không thứ gì có thể thoát được, giống như mọi khi...\"\nAnh gánh quá khứ trên vai, quay lưng lại với quê hương, tiếp tục kéo lê bước chân hướng tới thiên đường không tồn tại đó.\nVậy tại sao con người lại ngủ say? Tại sao con người phải thức dậy?\n...Hết hành tinh này đến hành tinh khác lướt qua ngoài cửa sổ, câu trả lời này giờ đây cần được trao cho ý nghĩa mới.\n\"Có lẽ... Có lẽ ta vẫn có thể...\"",
+        "icon": "icon/light_cone/21045.png",
+        "preview": "image/light_cone_preview/21045.png",
+        "portrait": "image/light_cone_portrait/21045.png"
     },
     "22000": {
         "id": "22000",
@@ -668,6 +688,16 @@
         "icon": "icon/light_cone/22001.png",
         "preview": "image/light_cone_preview/22001.png",
         "portrait": "image/light_cone_portrait/22001.png"
+    },
+    "22002": {
+        "id": "22002",
+        "name": "Vì Hành Trình Ngày Mai",
+        "rarity": 4,
+        "path": "Shaman",
+        "desc": "Kim la bàn không ngừng xoay tròn, cuối cùng chỉ về thời khắc trong mơ.\nNgoài cửa sổ, tinh hệ Asdana tràn ngập Chất Ký Ức tỏa ra ánh sáng mờ ảo, nhà tù vùng ven nằm ở đó vẫn đang chìm trong chiến tranh.\n\"Mọi người nói xem, thế giới trong mơ sẽ như thế nào? Tôi nhất định phải vẽ một tấm bản đồ hoàn chỉnh cẩn thận!\"\nCô gái cất dụng cụ đo vẽ bản đồ lại, ngắm nhìn thế giới mới trong tầm tay đầy khao khát.\n\"Nơi đó rất hỗn loạn, hai người sau khi đến đừng chạy lung tung. Nếu còn bị người khác bắt cóc như lần trước, tôi...\"\nNgười đàn ông ăn mặc như cao bồi lau chùi vũ khí xong, cầm một ly đồ uống đi về phía sofa, lắc đầu bất lực.\n\"Vùng Đất Trong Mơ, có vô số khả năng, chúng ta nhất định sẽ làm nên nghiệp lớn... Tàu trưởng, nếu chúng tôi yêu thích nơi này và không quay lại, tàu trưởng sẽ nhớ chúng tôi chứ?\"\nKhách Vô Danh ăn mặc như quý tộc nháy mắt với Pom-Pom, mỉm cười nói.\n\"Không được tùy tiện đùa cợt tàu trưởng! Tàu trưởng có phải muốn nói câu này không?\"Cô gái nở nụ cười xảo quyệt.\n\"Mọi người! Thật đáng ghét!\"\nBong bóng trôi nổi trong đồ uống, toa tàu tràn ngập tiếng cười vui vẻ.\n...\nBóng lưng trẻ tuổi của Khách Vô Danh dần bị Chất Ký Ức nuốt chửng.\n\"Chúc thượng lộ... bình an...\"\nKhi quay đầu lại, toa tàu trở nên trống rỗng.\nMột phút bàng hoàng... cảnh tượng này, hình như đã từng trải qua vô số lần.",
+        "icon": "icon/light_cone/22002.png",
+        "preview": "image/light_cone_preview/22002.png",
+        "portrait": "image/light_cone_portrait/22002.png"
     },
     "23000": {
         "id": "23000",
@@ -919,6 +949,46 @@
         "preview": "image/light_cone_preview/23024.png",
         "portrait": "image/light_cone_portrait/23024.png"
     },
+    "23025": {
+        "id": "23025",
+        "name": "Giấc Mộng Sẽ Đi Về Đâu",
+        "rarity": 5,
+        "path": "Warrior",
+        "desc": "Vùng ven tinh hệ Asdana. Biển ký ức cuộn trào những con sóng khổng lồ, cô giống như một đốm lửa, có thể bị gió bão dập tắt bất cứ lúc nào.\n\"Một người không thể nằm mơ muốn bước vào Cõi Mộng Liên Kết Trực Giác, cái giá phải trả thậm chí là cái chết.\"\nGiọng nói lo lắng của đồng đội vẫn vang vọng bên tai cô. Cô hít một hơi thật sâu, bước vào Vùng Hồi Ức.\nKhi thiết bị chuyên dụng chìm sâu vào Vùng Hồi Ức, từng đốm sáng nhỏ lập lòe tỏa ra nơi khe sâu rồi bị bóng tối vô tận nuốt chửng trong chốc lát.\n \"Vì sao phải lao đầu vào cái chết?\"\nTrong biển ký ức ngày càng sâu thẳm, những ánh sáng yếu ớt phát ra từ sinh vật nơi Vùng Ký Ức cứ như ánh mắt ở cõi xa xăm, nhìn chằm chằm vào cô một cách lạnh lùng.\nGiấc mơ đối với cô vẫn là một chuyện quá xa vời. Cô đờ đẫn nhìn vào bóng tối vô biên, dưới áp lực nặng nề của Chất Ký Ức, cơ thể và linh hồn đã đạt đến giới hạn của sự sụp đổ. Ngay cả khi cảm giác được ý thức của mình đang trở nên xa dần, trong đầu vẫn chỉ có những ký ức còn sót lại đó lặp đi lặp lại, hết lần này đến lần khác...\nĐàn côn trùng bao trùm cả bầu trời phá vỡ tiền tuyến, cô ấy bay thẳng vào đàn côn trùng trong sự bao bọc của lửa, tro của đàn côn trùng rơi xuống như tuyết vỡ, bên dưới chỉ còn lại những thi thể cháy đen của các kỵ sĩ.\nCô ấy còn chưa kịp tự tay dâng tặng bó hoa tưởng niệm cho từng thiết kỵ đã hi sinh thân mình. Sinh mệnh của họ nở rộ trong khoảnh khắc rồi lập tức tắt lịm, giống như một chuỗi mã gen chỉ vừa có con số chứ chưa kịp mang họ tên của riêng mình.\n \"Vì sao tôi vẫn sống?\"\nTrong sự tĩnh lặng như cái chết, cô ấy như ngọn lửa hòa tan vào biển, chỉ còn lại một đốm sáng nhỏ nhoi le lói vẫn không ngừng tiến về nơi có ánh sáng, tiến về phía trước...\nKhông biết đã qua bao lâu, cô ấy mở mắt, dường như nhìn thấy \"tương lai\" giống như một viên trân châu, tỏa ra ánh sáng mờ ảo, nước mắt chảy trào, men theo gương mặt nhỏ xuống...\n \"Để tìm ra... giấc mơ thuộc về chính mình...\"",
+        "icon": "icon/light_cone/23025.png",
+        "preview": "image/light_cone_preview/23025.png",
+        "portrait": "image/light_cone_portrait/23025.png"
+    },
+    "23026": {
+        "id": "23026",
+        "name": "Sắc Đêm Rực Sáng",
+        "rarity": 5,
+        "path": "Shaman",
+        "desc": "Năm tháng trôi qua trong gương, cô gái non nớt đã trở thành ca sĩ nổi tiếng.\nCô nhìn mình trong gương, thời gian đã thay đổi tất cả, chỉ có đôi mắt màu xanh lục vẫn tĩnh lặng như mặt hồ, dường như đang nhắc nhở về niềm tin không bao giờ thay đổi.\n\"Hôm nay trông có vẻ rất hào hứng nhỉ.\"\n\"Đúng vậy... Dù sao cũng có \"buổi biểu diễn\" rất quan trọng.\"\n\"Ừm, buổi diễn tập cho Đại Nhạc Hội Hòa Hợp sắp bắt đầu rồi, mời cô đến phòng chuẩn bị.\"\n...\nCô bước ra khỏi phòng trang điểm, và dần dần rời xa nhà hát rực rỡ ánh đèn phía sau.\n\"Sân khấu của tôi không ở nơi này.\"\nCô nhắm mắt lại, mặc cho màn đêm nuốt chửng cái bóng của mình.\n\"Từ trước đến giờ, tiếng hát của tôi chỉ dành cho...\"\n\"Dành cho những người đã mất đi hy vọng.\"",
+        "icon": "icon/light_cone/23026.png",
+        "preview": "image/light_cone_preview/23026.png",
+        "portrait": "image/light_cone_portrait/23026.png"
+    },
+    "23027": {
+        "id": "23027",
+        "name": "Hướng Đến Sinh Mệnh Thứ Hai",
+        "rarity": 5,
+        "path": "Rogue",
+        "desc": "Hắn như rơi xuống biển sâu, mọi thứ rời xa hắn, chỉ còn lại suy nghĩ trống rỗng đang nhảy nhót và giãy giụa.\nSợ hãi, bất an, cô độc, tăm tối, phẫn nộ... Những cảm xúc đó không tan biến theo cơ thể, mà ngược lại còn được lưu giữ trong cơ thể máy móc bằng một hình thức khác, và chúng càng lúc càng nặng nề hơn.\nHắn nghe thấy tiếng gọi của người đã khuất, ngửi thấy mùi cháy khét, tiếng động cơ ong ong quanh tai, dòng máu màu xanh chảy vào trái tim đói khát của hắn...Một số ký ức tàn nhẫn lại hiện lên, thù hận thấu xương hóa thành ánh sáng mờ ảo trong bóng tối, hắn đi theo hướng ánh sáng, dùng hết sức lực để nổi lên khỏi mặt nước.\nHắn mở mắt, một chùm tia lửa lóe qua, hắn nghe thấy lời chúc mừng của bác sĩ...\n\"Chào mừng đến với thế giới này một lần nữa.\"\nHắn nắm chặt hai tay, bây giờ chúng làm bằng sắt, lạnh lẽo...\nHắn sẽ không sống vì bản thân nữa.",
+        "icon": "icon/light_cone/23027.png",
+        "preview": "image/light_cone_preview/23027.png",
+        "portrait": "image/light_cone_portrait/23027.png"
+    },
+    "23028": {
+        "id": "23028",
+        "name": "Hi Vọng Là Vô Giá",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "\"Thưa quý cô Bonajade, nếu không có cô liên tục gửi vật tư và khoản quyên góp đến, e rằng cô nhi viện đã...\"\nCô nhẹ nhàng xoa đầu bọn trẻ, cắt ngang lời viện trưởng.\n\"Chỉ cần có tôi ở đây, tương lai không cần phải lo lắng... Còn những lời này, không cần phải nói cho lũ trẻ nghe, nó chỉ khiến bọ trẻ lo lắng thêm.\"\nBọn trẻ ngẩng đầu ríu rít kể với cô về những điều thú vị, những lo lắng và cả những mơ ước gần đây của chúng.\n\"Quý cô Bonajade, khi nào thì chị sẽ đến nữa ạ?\"\n\"Nhớ đừng làm việc quá sức nhé, phải đi ngủ sớm nhé...\"\n\"Quý cô Bonajade, khi lớn lên em nhất định sẽ trở thành người giống như chị!\"\nCô nhìn vào đôi mắt trong veo của bọn trẻ, chợt sững sờ một lúc.\n\"Người giống như tôi...\"\nĐứa trẻ đưa cho cô quả táo, \"Vâng! Là người sẽ mang lại ánh sáng và hy vọng cho người khác!\"\nNghèo đói, lỗi lầm, buồn phiền, đau khổ... Cô đi lại giữa các thiên hà, thu tiền thế chấp từ người khác và đền đáp lại bằng giá trị tương đương.\nSự sống tồn tại vì tham vọng, bôn ba vì tham vọng, cũng chết đi vì tham vọng... Đây là quy luật không thể chống lại, cũng là quy luật tất yếu của cuộc sống.\nMột nhà từ thiện nói một đằng làm một nẻo, một thương nhân độc ác thế chấp cả linh hồn... Cô được người đời gán cho nhiều thân phận, và cũng chỉ có chính bản thân cô mới hiểu được giá trị đạo đức đằng sau những hành động này.",
+        "icon": "icon/light_cone/23028.png",
+        "preview": "image/light_cone_preview/23028.png",
+        "portrait": "image/light_cone_portrait/23028.png"
+    },
     "24000": {
         "id": "24000",
         "name": "Sự Sụp Đổ Của Aeon",
@@ -958,5 +1028,15 @@
         "icon": "icon/light_cone/24003.png",
         "preview": "image/light_cone_preview/24003.png",
         "portrait": "image/light_cone_portrait/24003.png"
+    },
+    "24004": {
+        "id": "24004",
+        "name": "Ngoại Suy Vô Tận",
+        "rarity": 5,
+        "path": "Mage",
+        "desc": "Vĩnh viễn lơ lửng trong hư không,\nDữ liệu lấp lánh tràn vào tâm trí Ngài như dòng nước lũ.\nBiến mọi thứ trong quá khứ và tương lai thành ký hiệu,\nNgài đã suy luận thời điểm kết thúc ngay thời khắc bắt đầu.\nTri thức, đáp án, chân tướng...\nÁnh sáng rực rỡ trỗi dậy từ màn sương mù thông tin,\nVà rồi mọi chuyện đều rõ ràng với Ngài.",
+        "icon": "icon/light_cone/24004.png",
+        "preview": "image/light_cone_preview/24004.png",
+        "portrait": "image/light_cone_portrait/24004.png"
     }
 }
